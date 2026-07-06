@@ -1,0 +1,102 @@
+name: brAInvest data refresh
+
+on:
+  schedule:
+    # GitHub cron runs in UTC. IST = UTC+5:30
+    - cron: '30 3 * * 1-5'   # 09:00 IST — pre-open global context
+    - cron: '30 10 * * 1-5'  # 16:00 IST — closing refresh + daily email
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install yfinance requests google-api-python-client google-auth google-auth-oauthlib gspread sendgrid
+
+      - name: Fetch market data (US stocks, signals)
+        run: python scripts/fetch_market_data.py
+        env:
+          RUN_SLOT: ${{ github.event.schedule == '30 3 * * 1-5' && 'open' || 'close' }}
+
+      - name: Fetch IPO issues (NSE) + GMP (IPO Watch)
+        run: python scripts/fetch_ipo_data.py
+        continue-on-error: true
+
+      - name: Mark recommendations to market + rebuild 17% tracker
+        run: python scripts/track_recommendations.py
+        continue-on-error: true
+
+      - name: AI recommendations (Fable 5 orchestrator + Haiku workers)
+        run: pip install anthropic && python scripts/generate_recommendations.py
+        continue-on-error: true # skips itself when ANTHROPIC_API_KEY is unset
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Fetch Gmail (Zerodha) + Google Sheet (ETF targets)
+        run: python scripts/fetch_gmail_and_sheet.py
+        continue-on-error: true # optional until Google secrets are configured
+        env:
+          GOOGLE_OAUTH_TOKEN_JSON: ${{ secrets.GOOGLE_OAUTH_TOKEN_JSON }}
+          ETF_SHEET_ID: ${{ secrets.ETF_SHEET_ID }}
+
+      - name: Commit refreshed JSON (triggers Cloudflare Pages rebuild)
+        run: |
+          git config user.name "brainvest-bot"
+          git config user.email "actions@github.com"
+          git add public/data/*.json
+          git diff --cached --quiet || git commit -m "data: refresh $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Send daily email report (4 PM IST run only)
+        if: github.event.schedule == '30 10 * * 1-5'
+        continue-on-error: true # optional until SendGrid secrets are configured
+        run: python scripts/send_daily_email.py
+        env:
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          REPORT_TO_EMAIL: ${{ secrets.REPORT_TO_EMAIL }}
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main # pick up the data commit refresh just pushed
+
+      # Deploy is optional until the Cloudflare secrets exist; skip quietly.
+      - name: Check Cloudflare credentials
+        id: cf
+        run: |
+          if [ -n "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then
+            echo "has=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Deploy skipped — add CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID repo secrets to enable auto-deploy"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.cf.outputs.has == 'true'
+        with:
+          node-version: 20
+
+      - name: Build
+        if: steps.cf.outputs.has == 'true'
+        run: npm ci && npm run build
+
+      - name: Deploy to Cloudflare Pages
+        if: steps.cf.outputs.has == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=brainvest-tv

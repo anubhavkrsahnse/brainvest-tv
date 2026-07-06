@@ -1,0 +1,90 @@
+{
+  "lastUpdated": "2026-07-05 12:09 IST",
+  "signals": [
+    {
+      "name": "GIFT Nifty",
+      "value": 24270.8,
+      "changePct": 0.39,
+      "signal": "BUY",
+      "slot": "close",
+      "source": "NSE IX (proxy: Nifty 50, Yahoo Finance)"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "value": 25832.7,
+      "changePct": -0.8,
+      "signal": "SELL",
+      "slot": "close",
+      "source": "Yahoo Finance"
+    },
+    {
+      "name": "Hang Seng",
+      "value": 23350.0,
+      "changePct": 1.28,
+      "signal": "BUY",
+      "slot": "close",
+      "source": "Yahoo Finance"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7483.2,
+      "changePct": 0.0,
+      "signal": "HOLD",
+      "slot": "close",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "trackerYear": 2026,
+  "trackerSource": "Algorithmic recommendations logged by brAInvest, marked-to-market with Yahoo Finance closes",
+  "tracker": [
+    {
+      "month": "Jan",
+      "actualPct": 63.44
+    },
+    {
+      "month": "Feb",
+      "actualPct": 23.95
+    },
+    {
+      "month": "Mar",
+      "actualPct": 15.13
+    },
+    {
+      "month": "Apr",
+      "actualPct": 62.14
+    },
+    {
+      "month": "May",
+      "actualPct": null
+    },
+    {
+      "month": "Jun",
+      "actualPct": -9.39
+    },
+    {
+      "month": "Jul",
+      "actualPct": null
+    },
+    {
+      "month": "Aug",
+      "actualPct": null
+    },
+    {
+      "month": "Sep",
+      "actualPct": null
+    },
+    {
+      "month": "Oct",
+      "actualPct": null
+    },
+    {
+      "month": "Nov",
+      "actualPct": null
+    },
+    {
+      "month": "Dec",
+      "actualPct": null
+    }
+  ],
+  "monthlyTargetPct": 1.32
+}

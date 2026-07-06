@@ -1,0 +1,199 @@
+/* ========== TickerTape ========== */
+.tt-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 34px;
+  background: var(--panel);
+  border-top: 1px solid var(--border);
+  overflow: hidden;
+  z-index: 120;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  display: flex;
+  align-items: center;
+}
+
+.tt-scroll {
+  display: flex;
+  gap: 24px;
+  white-space: nowrap;
+  animation: tt-slide 40s linear infinite;
+  padding: 0 24px;
+}
+
+.tt-scroll:hover {
+  animation-play-state: paused;
+}
+
+@keyframes tt-slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-50% - 12px));
+  }
+}
+
+.tt-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  color: var(--text);
+}
+
+.tt-item.buy .tt-arrow {
+  color: var(--green);
+  font-weight: 700;
+}
+
+.tt-item.sell .tt-arrow {
+  color: var(--red);
+  font-weight: 700;
+}
+
+.tt-separator {
+  color: var(--muted);
+  opacity: 0.4;
+  flex-shrink: 0;
+}
+
+/* ========== CallOfTheDay ========== */
+.cotd-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 0 40px rgba(255, 214, 10, 0.08);
+}
+
+.cotd-kicker {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 12px;
+}
+
+.cotd-symbol-row {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+
+.cotd-symbol {
+  font-size: 40px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.cotd-module-tag {
+  font-size: 11px;
+  font-weight: 600;
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 3px 8px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.cotd-action-pill {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
+.cotd-action-pill.buy {
+  background: rgba(65, 132, 243, 0.12);
+  color: var(--blue);
+}
+
+.cotd-action-pill.sell {
+  background: rgba(255, 152, 0, 0.12);
+  color: #ff9800;
+}
+
+.cotd-pnl {
+  font-size: 36px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  margin-bottom: 6px;
+}
+
+.cotd-pnl.positive {
+  color: var(--green);
+}
+
+.cotd-pnl.negative {
+  color: var(--red);
+}
+
+.cotd-reason {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.cotd-footer {
+  font-size: 11px;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  padding-top: 12px;
+}
+
+/* ========== StreakBoard ========== */
+.sb-container {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+
+.sb-tile {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 20px;
+  flex: 1;
+  min-width: 160px;
+}
+
+.sb-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.sb-value {
+  font-size: 26px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.sb-value.positive {
+  color: var(--green);
+}
+
+.sb-value.negative {
+  color: var(--red);
+}
+
+.sb-emoji {
+  font-size: 20px;
+}

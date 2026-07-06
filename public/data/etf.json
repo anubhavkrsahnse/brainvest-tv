@@ -1,0 +1,10 @@
+{
+  "lastUpdated": "2026-07-04 16:00 IST",
+  "rows": [
+    { "symbol": "NIFTYBEES", "targetPct": 40, "aumCr": 42800, "expenseRatio": 0.04, "trackingError1y": 0.03, "dma20": 289.4, "heldQty": 140, "actualPct": 44.6, "deltaPct": 4.6, "targetSource": "Google Sheet \"Kaushik sir etf\"", "holdingsSource": "Zerodha Kite contract notes via Gmail API" },
+    { "symbol": "JUNIORBEES", "targetPct": 20, "aumCr": 9600, "expenseRatio": 0.17, "trackingError1y": 0.09, "dma20": 772.1, "heldQty": 22, "actualPct": 18.7, "deltaPct": -1.3, "targetSource": "Google Sheet \"Kaushik sir etf\"", "holdingsSource": "Zerodha Kite contract notes via Gmail API" },
+    { "symbol": "GOLDBEES", "targetPct": 15, "aumCr": 18400, "expenseRatio": 0.5, "trackingError1y": 0.12, "dma20": 78.6, "heldQty": 180, "actualPct": 15.5, "deltaPct": 0.5, "targetSource": "Google Sheet \"Kaushik sir etf\"", "holdingsSource": "Zerodha Kite contract notes via Gmail API" },
+    { "symbol": "MON100", "targetPct": 15, "aumCr": 6200, "expenseRatio": 0.58, "trackingError1y": 0.21, "dma20": 208.3, "heldQty": 60, "actualPct": 13.9, "deltaPct": -1.1, "targetSource": "Google Sheet \"Kaushik sir etf\"", "holdingsSource": "Zerodha Kite contract notes via Gmail API" },
+    { "symbol": "SILVERBEES", "targetPct": 10, "aumCr": 4900, "expenseRatio": 0.55, "trackingError1y": 0.18, "dma20": 102.7, "heldQty": 65, "actualPct": 7.3, "deltaPct": -2.7, "targetSource": "Google Sheet \"Kaushik sir etf\"", "holdingsSource": "Zerodha Kite contract notes via Gmail API" }
+  ]
+}
