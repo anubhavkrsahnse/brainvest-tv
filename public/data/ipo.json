@@ -1,64 +1,80 @@
 {
-  "lastUpdated": "2026-07-04 16:00 IST",
+  "lastUpdated": "2026-07-07 18:10 IST",
   "ipos": [
     {
-      "company": "Meridian Speciality Chemicals",
-      "symbol": "MERIDCHEM",
-      "priceBand": "₹385 – ₹405",
-      "issueSizeCr": 1250,
-      "qibSubscription": 14.2,
-      "openDate": "01-Jul-2026",
-      "closeDate": "03-Jul-2026",
-      "status": "current",
-      "gmpPct": 24.5,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "company": "IC Electricals Company Limited",
+      "symbol": "ICELCO",
+      "priceBand": null,
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "03-Jul-2026",
+      "closeDate": "07-Jul-2026",
+      "status": "Active",
       "source": "NSE",
-      "pros": [
-        "Strong grey-market sentiment: GMP 25% over band",
-        "Heavy institutional demand: QIB 14.2x subscribed"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Trident Urban Infra",
-      "symbol": "TRIDINFRA",
-      "priceBand": "₹92 – ₹98",
-      "issueSizeCr": 6400,
-      "qibSubscription": 0.8,
-      "openDate": "02-Jul-2026",
-      "closeDate": "06-Jul-2026",
-      "status": "current",
-      "gmpPct": -3,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "source": "NSE",
+      "gmpPct": null,
+      "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Negative GMP (-3%) — grey market expects listing below band",
-        "QIB book undersubscribed (0.80x)",
-        "Large issue size (₹5,000 Cr+) — listing pop historically muted"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "Kavya Foods & Beverages",
-      "symbol": "KAVYAFOODS",
-      "priceBand": "₹210 – ₹221",
-      "issueSizeCr": 420,
+      "company": "Laser Power & Infra Limited",
+      "symbol": "LASERPOWER",
+      "priceBand": "Rs.203 to Rs.214",
+      "issueSizeCr": 36551722.0,
+      "qibSubscription": null,
+      "openDate": "09-Jul-2026",
+      "closeDate": "13-Jul-2026",
+      "status": "Forthcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+      ]
+    },
+    {
+      "company": "Kusumgar Limited",
+      "symbol": "KUSUMGAR",
+      "priceBand": "Rs.398 to Rs.419",
+      "issueSizeCr": 16341209.0,
       "qibSubscription": null,
       "openDate": "08-Jul-2026",
       "closeDate": "10-Jul-2026",
-      "status": "upcoming",
-      "gmpPct": 11,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "status": "Forthcoming",
       "source": "NSE",
+      "gmpPct": null,
+      "gmpSource": null,
       "pros": [
-        "Small float (<₹500 Cr) — scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+      ]
+    },
+    {
+      "company": "Happy Steels Limited",
+      "symbol": "HAPPY",
+      "priceBand": "Rs.62 to Rs.66",
+      "issueSizeCr": 3788000.0,
+      "qibSubscription": null,
+      "openDate": "09-Jul-2026",
+      "closeDate": "13-Jul-2026",
+      "status": "Forthcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
       ]
     }
   ]
