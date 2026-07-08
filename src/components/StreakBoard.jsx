@@ -1,4 +1,5 @@
 import { useEffect, useState, useMemo } from 'react'
+import { fetchData } from '../dataSource.js'
 
 const MONTH_NAMES = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
@@ -8,11 +9,9 @@ export default function StreakBoard() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/dashboard.json')
-        .then(r => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
+      fetchData('dashboard.json')
         .catch(() => null),
-      fetch('/data/recommendations.json')
-        .then(r => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
+      fetchData('recommendations.json')
         .catch(() => null),
     ]).then(([dash, reco]) => {
       setDashboardData(dash)

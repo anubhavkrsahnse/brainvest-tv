@@ -1,11 +1,11 @@
 import { useEffect, useState, useMemo } from 'react'
+import { fetchData } from '../dataSource.js'
 
 export default function CallOfTheDay() {
   const [data, setData] = useState(null)
 
   useEffect(() => {
-    fetch('/data/recommendations.json')
-      .then(r => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
+    fetchData('recommendations.json')
       .then(setData)
       .catch(() => setData(null))
   }, [])

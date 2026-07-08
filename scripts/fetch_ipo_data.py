@@ -27,6 +27,7 @@ def fetch_nse_issues():
     s.headers.update(UA)
     s.get("https://www.nseindia.com", timeout=15)  # prime cookies
     issues = []
+    seen = set()
     # NSE has shuffled these endpoint names over time; try known variants.
     for endpoint in ("ipo-current-issue", "ipo-current-issues", "all-upcoming-issues?category=ipo"):
         try:
@@ -37,15 +38,20 @@ def fetch_nse_issues():
             print(f"NSE endpoint {endpoint} failed: {e}")
             continue
         for row in rows:
+            symbol = row.get("symbol")
+            if not symbol or symbol in seen:  # endpoints overlap — dedupe by symbol
+                continue
+            seen.add(symbol)
+            band = f'{row.get("issuePrice", "")}'.strip() or None
             issues.append({
                 "company": row.get("companyName"),
-                "symbol": row.get("symbol"),
-                "priceBand": f'{row.get("issuePrice", "")}'.strip() or None,
-                "issueSizeCr": _to_float(row.get("issueSize")),
+                "symbol": symbol,
+                "priceBand": band,
+                "issueSizeCr": _issue_size_cr(row.get("issueSize"), band),
                 "qibSubscription": _to_float(row.get("noOfTimeSubscribedQIB") or row.get("noOfTimesSubscribed")),
                 "openDate": row.get("issueStartDate"),
                 "closeDate": row.get("issueEndDate"),
-                "status": row.get("status") or ("current" if endpoint.startswith("ipo-current") else "upcoming"),
+                "status": _norm_status(row.get("status"), endpoint),
                 "source": "NSE",
             })
     return issues
@@ -56,6 +62,33 @@ def _to_float(v):
         return float(str(v).replace(",", ""))
     except (TypeError, ValueError):
         return None
+
+
+def _norm_status(raw, endpoint):
+    s = (raw or "").strip().lower()
+    if s in ("active", "current", "open"):
+        return "current"
+    if s in ("forthcoming", "upcoming"):
+        return "upcoming"
+    return "current" if endpoint.startswith("ipo-current") else "upcoming"
+
+
+def _top_band_price(band):
+    """Highest number in a price-band string like 'Rs.398 to Rs.419' -> 419.0."""
+    nums = [float(n) for n in re.findall(r"\d+(?:\.\d+)?", band or "")]
+    return max(nums) if nums else None
+
+
+def _issue_size_cr(raw_size, band):
+    """NSE 'issueSize' is a SHARE COUNT, not crores. Convert to ₹ crore via the
+    upper price band; guard to a plausible range, else None so the UI shows '—'
+    rather than a wrong figure."""
+    shares = _to_float(raw_size)
+    price = _top_band_price(band)
+    if not shares or not price:
+        return None
+    cr = round(shares * price / 1e7, 1)  # shares × ₹/share ÷ 1e7 = ₹ crore
+    return cr if 1 <= cr <= 200000 else None
 
 
 def fetch_gmp_table():

@@ -1,10 +1,11 @@
 import { useEffect, useState } from 'react'
+import { fetchData } from '../dataSource.js'
 
 export default function ETFModule() {
   const [data, setData] = useState(null)
 
   useEffect(() => {
-    fetch('/data/etf.json').then(r => r.json()).then(setData).catch(() => setData({ rows: [] }))
+    fetchData('etf.json').then(setData).catch(() => setData({ rows: [] }))
   }, [])
 
   if (!data) return null

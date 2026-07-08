@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { fetchData } from '../dataSource.js'
 
 const MONTHLY_TARGET = 1.32 // % — geometric monthly slice of the 17% annual goal
 
@@ -7,8 +8,7 @@ export default function MasterDashboard() {
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    fetch('/data/dashboard.json')
-      .then(r => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
+    fetchData('dashboard.json')
       .then(setData)
       .catch(e => setError(e.message))
   }, [])

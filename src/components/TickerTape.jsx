@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import '../streamer.css'
+import { fetchData } from '../dataSource.js'
 
 export default function TickerTape() {
   const [dashboardData, setDashboardData] = useState(null)
@@ -7,11 +8,9 @@ export default function TickerTape() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/dashboard.json')
-        .then(r => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
+      fetchData('dashboard.json')
         .catch(() => null),
-      fetch('/data/recommendations.json')
-        .then(r => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
+      fetchData('recommendations.json')
         .catch(() => null),
     ]).then(([dash, reco]) => {
       setDashboardData(dash)

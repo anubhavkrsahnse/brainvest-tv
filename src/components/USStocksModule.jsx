@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { fetchData } from '../dataSource.js'
 
 export default function USStocksModule() {
   const [data, setData] = useState(null)
@@ -7,7 +8,7 @@ export default function USStocksModule() {
   const [action, setAction] = useState('all')
 
   useEffect(() => {
-    fetch('/data/us_stocks.json').then(r => r.json()).then(setData).catch(() => setData({ stocks: [] }))
+    fetchData('us_stocks.json').then(setData).catch(() => setData({ stocks: [] }))
   }, [])
 
   if (!data) return null

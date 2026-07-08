@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { fetchData } from '../dataSource.js'
 
 export default function IPOModule() {
   const [data, setData] = useState(null)
@@ -8,7 +9,7 @@ export default function IPOModule() {
   const [status, setStatus] = useState('all')
 
   useEffect(() => {
-    fetch('/data/ipo.json').then(r => r.json()).then(setData).catch(() => setData({ ipos: [] }))
+    fetchData('ipo.json').then(setData).catch(() => setData({ ipos: [] }))
   }, [])
 
   if (!data) return null
