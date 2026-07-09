@@ -1,53 +1,15 @@
 {
-  "lastUpdated": "2026-07-08 21:53 IST",
+  "lastUpdated": "2026-07-09 23:02 IST",
   "ipos": [
-    {
-      "company": "Kusumgar Limited",
-      "symbol": "KUSUMGAR",
-      "priceBand": "Rs.398 to Rs.419",
-      "issueSizeCr": 11468094.0,
-      "qibSubscription": null,
-      "openDate": "08-Jul-2026",
-      "closeDate": "10-Jul-2026",
-      "status": "Active",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
-    {
-      "company": "Kusumgar Limited",
-      "symbol": "KUSUMGAR",
-      "priceBand": "Rs.398 to Rs.419",
-      "issueSizeCr": 11468094.0,
-      "qibSubscription": null,
-      "openDate": "08-Jul-2026",
-      "closeDate": "10-Jul-2026",
-      "status": "Active",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
     {
       "company": "Laser Power & Infra Limited",
       "symbol": "LASERPOWER",
       "priceBand": "Rs.203 to Rs.214",
-      "issueSizeCr": 25586207.0,
+      "issueSizeCr": 547.5,
       "qibSubscription": null,
       "openDate": "09-Jul-2026",
       "closeDate": "13-Jul-2026",
-      "status": "Forthcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": null,
       "gmpSource": null,
@@ -55,18 +17,37 @@
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Kusumgar Limited",
+      "symbol": "KUSUMGAR",
+      "priceBand": "Rs.398 to Rs.419",
+      "issueSizeCr": 480.5,
+      "qibSubscription": null,
+      "openDate": "08-Jul-2026",
+      "closeDate": "10-Jul-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpSource": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
       "company": "Happy Steels Limited",
       "symbol": "HAPPY",
-      "priceBand": "Rs.62 to Rs.66",
-      "issueSizeCr": 2712000.0,
+      "priceBand": null,
+      "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "09-Jul-2026",
       "closeDate": "13-Jul-2026",
-      "status": "Forthcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": null,
       "gmpSource": null,
@@ -74,7 +55,7 @@
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
