@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09 23:02 IST",
+  "lastUpdated": "2026-07-10 18:08 IST",
   "ipos": [
     {
       "company": "Laser Power & Infra Limited",
@@ -53,6 +53,25 @@
       "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Alpine Texworld Limited",
+      "symbol": "ALPINETEX",
+      "priceBand": "Rs.100 to Rs.105",
+      "issueSizeCr": 126.3,
+      "qibSubscription": null,
+      "openDate": "14-Jul-2026",
+      "closeDate": "16-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpSource": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
