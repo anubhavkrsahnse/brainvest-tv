@@ -51,7 +51,10 @@ body {
 
 .nav .brand { font-size: 20px; font-weight: 700; }
 .nav .brand span { color: var(--blue); }
+.nav-right { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
 .nav .tagline { color: var(--muted); font-size: 13px; }
+.nav .last-updated { color: var(--muted); font-size: 12px; }
+.nav .last-updated b { color: var(--green); font-variant-numeric: tabular-nums; }
 
 /* ---------- Apple-style scrollytelling ---------- */
 .scrolly {
