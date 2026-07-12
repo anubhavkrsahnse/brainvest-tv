@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10 22:52 IST",
+  "lastUpdated": "2026-07-12 20:54 IST",
   "ipos": [
     {
       "company": "Laser Power & Infra Limited",
@@ -15,25 +15,6 @@
       "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Kusumgar Limited",
-      "symbol": "KUSUMGAR",
-      "priceBand": "Rs.398 to Rs.419",
-      "issueSizeCr": 480.5,
-      "qibSubscription": null,
-      "openDate": "08-Jul-2026",
-      "closeDate": "10-Jul-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -56,6 +37,25 @@
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "SBI Funds Management Limited",
+      "symbol": "SBIFUNDS",
+      "priceBand": "Rs.545 to Rs.574",
+      "issueSizeCr": 9812.9,
+      "qibSubscription": null,
+      "openDate": "14-Jul-2026",
+      "closeDate": "16-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
       ]
     },
     {
