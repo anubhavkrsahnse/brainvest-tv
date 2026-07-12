@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12 20:54 IST",
+  "lastUpdated": "2026-07-12 21:19 IST",
   "ipos": [
     {
       "company": "Laser Power & Infra Limited",
@@ -11,10 +11,16 @@
       "closeDate": "13-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpSource": null,
+      "gmpPct": 16.35,
+      "gmpRs": 35.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b92,347.89 crores in 2026 against \u20b92,592.53 crores in 2025. The company reported profit of \u20b9151.59 crores in 2026 against profit of \u20b9106.75 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b935 (+16.4% est. listing)",
+        "IPO Watch review: May Apply"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -23,20 +29,25 @@
     {
       "company": "Happy Steels Limited",
       "symbol": "HAPPY",
-      "priceBand": null,
+      "priceBand": "\u2248\u20b966 (upper, IPO Watch)",
       "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "09-Jul-2026",
       "closeDate": "13-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpSource": null,
+      "gmpPct": 10.61,
+      "gmpRs": 7.0,
+      "board": "NSE SME",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b982.52 crores in 2025 against \u20b982.24 crores in 2024. The company reported profit of \u20b92.34 crores in 2025 against profit of \u20b94.69 crores in 2024. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Positive GMP: \u20b97 (+10.6% est. listing)"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "SME board \u2014 lower liquidity, higher volatility"
       ]
     },
     {
@@ -49,10 +60,16 @@
       "closeDate": "16-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpSource": null,
+      "gmpPct": 19.33,
+      "gmpRs": 111.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,976.11 crores in 2026 against \u20b94,236.15 crores in 2025. The company reported profit of \u20b93,067.38 crores in 2026 against profit of \u20b92,540.15 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "Apply",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b9111 (+19.3% est. listing)",
+        "IPO Watch review: Apply"
       ],
       "cons": [
         "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
@@ -68,13 +85,18 @@
       "closeDate": "16-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpSource": null,
+      "gmpPct": 1.9,
+      "gmpRs": 2.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9350.18 crores in 2026 against \u20b9237.66 crores in 2025. The company reported profit of \u20b921.72 crores in 2026 against profit of \u20b98.63 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+1.9%) \u2014 thin grey-market interest"
       ]
     }
   ]

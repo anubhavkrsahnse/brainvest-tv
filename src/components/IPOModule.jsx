@@ -43,17 +43,32 @@ export default function IPOModule() {
       <div className="signal-grid">
         {rows.map(i => (
           <div className="card" key={i.company}>
-            <div className="label">{i.status === 'current' ? '🟢 Open' : '🕒 Upcoming'} · {i.openDate} → {i.closeDate}</div>
-            <div className="value" style={{ fontSize: 20 }}>{i.company}</div>
+            <div className="label">
+              {i.status === 'current' ? '🟢 Open' : '🕒 Upcoming'} · {i.openDate} → {i.closeDate}
+              {i.board ? ` · ${i.board}` : ''}
+            </div>
+            <div className="value" style={{ fontSize: 20 }}>
+              {i.company}
+              {i.verdict && (
+                <span className={`verdict-chip ${/avoid|risky|skip/i.test(i.verdict) ? 'v-avoid' : /apply/i.test(i.verdict) ? 'v-apply' : 'v-neutral'}`}>
+                  {i.verdict}
+                </span>
+              )}
+            </div>
             <div className="ipo-stats">
               <span>Band {i.priceBand ?? '—'}</span>
               <span>Size ₹{i.issueSizeCr?.toLocaleString('en-IN') ?? '—'} Cr</span>
               <span>QIB {i.qibSubscription != null ? i.qibSubscription + 'x' : '—'}</span>
-              <span className={i.gmpPct >= 0 ? 'up' : 'down'}>GMP {i.gmpPct != null ? i.gmpPct + '%' : '—'}</span>
+              <span className={i.gmpPct >= 0 ? 'up' : 'down'}>
+                GMP {i.gmpPct != null ? `₹${i.gmpRs ?? '—'} (+${i.gmpPct}%)`.replace('(+-', '(−') : '—'}
+              </span>
             </div>
+            {i.moat && <p className="ipo-moat">{i.moat}</p>}
             <ul className="pros">{i.pros.map(p => <li key={p}>✓ {p}</li>)}</ul>
             <ul className="cons">{i.cons.map(c => <li key={c}>✗ {c}</li>)}</ul>
-            <div className="source">Source: {i.source}{i.gmpSource ? ` · GMP: ${i.gmpSource}` : ''}</div>
+            <div className="source">
+              Source: {i.source}{i.gmpSource ? ` · GMP: ${i.gmpSource}` : ''}{i.moat ? ' · Analysis: IPO Watch' : ''}
+            </div>
           </div>
         ))}
         {rows.length === 0 && <p className="section-sub">No IPOs match the current filters.</p>}
