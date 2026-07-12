@@ -4,9 +4,12 @@
 // Falls back to the bundled copy under /data if the raw fetch fails.
 const RAW_BASE = 'https://raw.githubusercontent.com/anubhavkrsahnse/brainvest-tv/main/public/data/'
 
+// One random bust per page load: GitHub's CDN edge-caches each URL for ~5 min,
+// so a unique query string per visit guarantees every reload sees fresh data.
+const bust = Math.random().toString(36).slice(2)
+
 export function fetchData(file) {
-  const bust = Math.floor(Date.now() / 60000) // per-minute cache-bust vs GitHub CDN
-  return fetch(`${RAW_BASE}${file}?t=${bust}`)
+  return fetch(`${RAW_BASE}${file}?v=${bust}`, { cache: 'no-store' })
     .then(r => (r.ok ? r.json() : Promise.reject(new Error('raw ' + r.status))))
     .catch(() => fetch(`/data/${file}`).then(r => r.json()))
 }
