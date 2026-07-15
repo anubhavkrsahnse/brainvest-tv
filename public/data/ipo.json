@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14 21:27 IST",
+  "lastUpdated": "2026-07-15 15:55 IST",
   "ipos": [
     {
       "company": "Alpine Texworld Limited",
@@ -11,18 +11,19 @@
       "closeDate": "16-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 4.76,
-      "gmpRs": 5.0,
+      "gmpPct": 9.52,
+      "gmpRs": 10.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9350.18 crores in 2026 against \u20b9237.66 crores in 2025. The company reported profit of \u20b921.72 crores in 2026 against profit of \u20b98.63 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
+        "Positive GMP: \u20b910 (+9.5% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+4.8%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -35,15 +36,15 @@
       "closeDate": "16-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 16.03,
-      "gmpRs": 92.0,
+      "gmpPct": 15.68,
+      "gmpRs": 90.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b94,976.11 crores in 2026 against \u20b94,236.15 crores in 2025. The company reported profit of \u20b93,067.38 crores in 2026 against profit of \u20b92,540.15 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": "Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b992 (+16.0% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b990 (+15.7% est. listing)",
         "IPO Watch review: Apply"
       ],
       "cons": [
@@ -60,15 +61,15 @@
       "closeDate": "21-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 14.15,
-      "gmpRs": 60.0,
+      "gmpPct": 18.87,
+      "gmpRs": 80.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,684.66 crores in 2026 against \u20b91,435.57 crores in 2025. The company reported profit of \u20b9157.90 crores in 2026 against profit of \u20b9131.55 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b960 (+14.2% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b980 (+18.9% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
