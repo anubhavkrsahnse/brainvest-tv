@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15 15:55 IST",
+  "lastUpdated": "2026-07-15 21:36 IST",
   "ipos": [
     {
       "company": "Alpine Texworld Limited",
@@ -11,19 +11,18 @@
       "closeDate": "16-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 9.52,
-      "gmpRs": 10.0,
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9350.18 crores in 2026 against \u20b9237.66 crores in 2025. The company reported profit of \u20b921.72 crores in 2026 against profit of \u20b98.63 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b910 (+9.5% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -61,15 +60,15 @@
       "closeDate": "21-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 18.87,
-      "gmpRs": 80.0,
+      "gmpPct": 21.7,
+      "gmpRs": 92.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,684.66 crores in 2026 against \u20b91,435.57 crores in 2025. The company reported profit of \u20b9157.90 crores in 2026 against profit of \u20b9131.55 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b980 (+18.9% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b992 (+21.7% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
