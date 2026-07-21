@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17 20:33 IST",
+  "lastUpdated": "2026-07-21 16:50 IST",
   "ipos": [
     {
       "company": "Caliber Mining and Logistics Limited",
@@ -11,15 +11,15 @@
       "closeDate": "21-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 24.76,
-      "gmpRs": 105.0,
+      "gmpPct": 22.17,
+      "gmpRs": 94.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,684.66 crores in 2026 against \u20b91,435.57 crores in 2025. The company reported profit of \u20b9157.90 crores in 2026 against profit of \u20b9131.55 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The Caliber Mining IPO minimum market lot is 35 shares with \u20b914,840 application amount. The retail investors can apply up-to 13 lots with 455 shares of \u20b91,92,920 amount.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9105 (+24.8% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b994 (+22.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -27,77 +27,76 @@
       ]
     },
     {
-      "company": "Alpine Texworld Limited",
-      "symbol": "ALPINETEX",
-      "priceBand": "Rs.100 to Rs.105",
-      "issueSizeCr": 126.3,
-      "qibSubscription": null,
-      "openDate": "14-Jul-2026",
-      "closeDate": "16-Jul-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9350.18 crores in 2026 against \u20b9237.66 crores in 2025. The company reported profit of \u20b921.72 crores in 2026 against profit of \u20b98.63 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "SBI Funds Management Limited",
-      "symbol": "SBIFUNDS",
-      "priceBand": "Rs.545 to Rs.574",
-      "issueSizeCr": 7149.9,
-      "qibSubscription": null,
-      "openDate": "14-Jul-2026",
-      "closeDate": "16-Jul-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 16.9,
-      "gmpRs": 97.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,976.11 crores in 2026 against \u20b94,236.15 crores in 2025. The company reported profit of \u20b93,067.38 crores in 2026 against profit of \u20b92,540.15 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b997 (+16.9% est. listing)",
-        "IPO Watch review: Apply"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
-    {
       "company": "Metalic Technoforge Limited",
       "symbol": "METALIC",
-      "priceBand": "Rs.72 to Rs.77",
-      "issueSizeCr": 50.0,
+      "priceBand": "\u2248\u20b977 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "21-Jul-2026",
       "closeDate": "23-Jul-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": 0.0,
       "gmpRs": 0.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b997.98 crores in 2026 against \u20b975.64 crores in 2025. The company reported profit of \u20b912.36 crores in 2026 against profit of \u20b99.03 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "moat": "Metalic Technoforge Ltd., founded in October 2016, is one of the leading manufacturers of closed-die forged and precision machined components. Its product range comprises safety-critical forged and precision-machined products, including big and small rings, ball studs, gear blanks with broaching, gears, coupling\u2026",
+      "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "Muted GMP (+0.0%) \u2014 thin grey-market interest",
         "SME board \u2014 lower liquidity, higher volatility"
+      ]
+    },
+    {
+      "company": "INDO-MIM Limited",
+      "symbol": "INDOMIM",
+      "priceBand": "Rs.461 to Rs.485",
+      "issueSizeCr": 3839.1,
+      "qibSubscription": null,
+      "openDate": "23-Jul-2026",
+      "closeDate": "27-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 41.23,
+      "gmpRs": 200.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "Indo-MIM, founded in 1996, manufactures precision engineering components using metal injection molding (MIM) technology. Its product portfolio includes making engineering components for Automotive, Defence, Medical, Consumer, and Aerospace. The firm provides comprehensive solutions including mold design, tooling,\u2026",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9200 (+41.2% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Cube Highways Trust",
+      "symbol": "CUBEINVIT",
+      "priceBand": "Rs.151 to Rs.152",
+      "issueSizeCr": 3774.8,
+      "qibSubscription": null,
+      "openDate": "22-Jul-2026",
+      "closeDate": "24-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,359.03 crores in 2026 against \u20b93,453.15 crores in 2025. The company reported loss of \u20b9216.72 crores in 2026 against loss of \u20b935.72 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     }
   ]
