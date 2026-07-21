@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21 16:50 IST",
+  "lastUpdated": "2026-07-21 21:35 IST",
   "ipos": [
     {
       "company": "Caliber Mining and Logistics Limited",
@@ -11,15 +11,15 @@
       "closeDate": "21-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 22.17,
-      "gmpRs": 94.0,
+      "gmpPct": 17.69,
+      "gmpRs": 75.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The Caliber Mining IPO minimum market lot is 35 shares with \u20b914,840 application amount. The retail investors can apply up-to 13 lots with 455 shares of \u20b91,92,920 amount.",
+      "moat": "The company reported revenue of \u20b91,684.66 crores in 2026 against \u20b91,435.57 crores in 2025. The company reported profit of \u20b9157.90 crores in 2026 against profit of \u20b9131.55 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b994 (+22.2% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b975 (+17.7% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -40,7 +40,7 @@
       "gmpRs": 0.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "Metalic Technoforge Ltd., founded in October 2016, is one of the leading manufacturers of closed-die forged and precision machined components. Its product range comprises safety-critical forged and precision-machined products, including big and small rings, ball studs, gear blanks with broaching, gears, coupling\u2026",
+      "moat": "The company reported revenue of \u20b997.98 crores in 2026 against \u20b975.64 crores in 2025. The company reported profit of \u20b912.36 crores in 2026 against profit of \u20b99.03 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
@@ -61,15 +61,64 @@
       "closeDate": "27-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 41.23,
-      "gmpRs": 200.0,
+      "gmpPct": 40.21,
+      "gmpRs": 195.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "Indo-MIM, founded in 1996, manufactures precision engineering components using metal injection molding (MIM) technology. Its product portfolio includes making engineering components for Automotive, Defence, Medical, Consumer, and Aerospace. The firm provides comprehensive solutions including mold design, tooling,\u2026",
+      "moat": "The company reported revenue of \u20b94,320.70 crores in 2026 against \u20b93,373.97 crores in 2025. The company reported profit of \u20b9533.54 crores in 2026 against profit of \u20b9423.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9200 (+41.2% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b9195 (+40.2% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Xtranet Technologies Limited",
+      "symbol": "XTRANET",
+      "priceBand": "Rs.120 to Rs.127",
+      "issueSizeCr": 166.8,
+      "qibSubscription": null,
+      "openDate": "23-Jul-2026",
+      "closeDate": "27-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 15.75,
+      "gmpRs": 20.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9366.01 crores in 2026 against \u20b9276.53 crores in 2025. The company reported profit of \u20b940.73 crores in 2026 against profit of \u20b930.03 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b920 (+15.8% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Lohia Corp Limited",
+      "symbol": "LCL",
+      "priceBand": "Rs.404 to Rs.425",
+      "issueSizeCr": 1102.1,
+      "qibSubscription": null,
+      "openDate": "23-Jul-2026",
+      "closeDate": "27-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 10.59,
+      "gmpRs": 45.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,737.87 crores in 2026. The company reported profit of \u20b9193.45 crores in 2026. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b945 (+10.6% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
