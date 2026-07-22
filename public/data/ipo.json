@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22 16:52 IST",
+  "lastUpdated": "2026-07-22 21:35 IST",
   "ipos": [
     {
       "company": "Cube Highways Trust",
@@ -51,36 +51,10 @@
       ]
     },
     {
-      "company": "Caliber Mining and Logistics Limited",
-      "symbol": "CMLL",
-      "priceBand": "Rs.402 to Rs.424",
-      "issueSizeCr": 332.2,
-      "qibSubscription": null,
-      "openDate": "17-Jul-2026",
-      "closeDate": "21-Jul-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 16.75,
-      "gmpRs": 71.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,684.66 crores in 2026 against \u20b91,435.57 crores in 2025. The company reported profit of \u20b9157.90 crores in 2026 against profit of \u20b9131.55 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b971 (+16.8% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Lohia Corp Limited",
       "symbol": "LCL",
       "priceBand": "Rs.404 to Rs.425",
-      "issueSizeCr": 1102.1,
+      "issueSizeCr": 610.0,
       "qibSubscription": null,
       "openDate": "23-Jul-2026",
       "closeDate": "27-Jul-2026",
@@ -96,32 +70,6 @@
       "pros": [
         "Positive GMP: \u20b940 (+9.4% est. listing)",
         "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Xtranet Technologies Limited",
-      "symbol": "XTRANET",
-      "priceBand": "Rs.120 to Rs.127",
-      "issueSizeCr": 166.8,
-      "qibSubscription": null,
-      "openDate": "23-Jul-2026",
-      "closeDate": "27-Jul-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 14.17,
-      "gmpRs": 18.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9366.01 crores in 2026 against \u20b9276.53 crores in 2025. The company reported profit of \u20b940.73 crores in 2026 against profit of \u20b930.03 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b918 (+14.2% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -147,6 +95,32 @@
       "pros": [
         "Strong grey-market sentiment: GMP \u20b9195 (+40.2% est. listing)",
         "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Xtranet Technologies Limited",
+      "symbol": "XTRANET",
+      "priceBand": "Rs.120 to Rs.127",
+      "issueSizeCr": 116.8,
+      "qibSubscription": null,
+      "openDate": "23-Jul-2026",
+      "closeDate": "27-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 14.17,
+      "gmpRs": 18.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9366.01 crores in 2026 against \u20b9276.53 crores in 2025. The company reported profit of \u20b940.73 crores in 2026 against profit of \u20b930.03 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b918 (+14.2% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
