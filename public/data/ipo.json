@@ -1,29 +1,28 @@
 {
-  "lastUpdated": "2026-07-21 21:35 IST",
+  "lastUpdated": "2026-07-22 16:52 IST",
   "ipos": [
     {
-      "company": "Caliber Mining and Logistics Limited",
-      "symbol": "CMLL",
-      "priceBand": "Rs.402 to Rs.424",
-      "issueSizeCr": 332.2,
+      "company": "Cube Highways Trust",
+      "symbol": "CUBEINVIT",
+      "priceBand": "Rs.151 to Rs.152",
+      "issueSizeCr": 2076.2,
       "qibSubscription": null,
-      "openDate": "17-Jul-2026",
-      "closeDate": "21-Jul-2026",
+      "openDate": "22-Jul-2026",
+      "closeDate": "24-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 17.69,
-      "gmpRs": 75.0,
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,684.66 crores in 2026 against \u20b91,435.57 crores in 2025. The company reported profit of \u20b9157.90 crores in 2026 against profit of \u20b9131.55 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b94,359.03 crores in 2026 against \u20b93,453.15 crores in 2025. The company reported loss of \u20b9216.72 crores in 2026 against loss of \u20b935.72 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b975 (+17.7% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -52,48 +51,25 @@
       ]
     },
     {
-      "company": "INDO-MIM Limited",
-      "symbol": "INDOMIM",
-      "priceBand": "Rs.461 to Rs.485",
-      "issueSizeCr": 3839.1,
+      "company": "Caliber Mining and Logistics Limited",
+      "symbol": "CMLL",
+      "priceBand": "Rs.402 to Rs.424",
+      "issueSizeCr": 332.2,
       "qibSubscription": null,
-      "openDate": "23-Jul-2026",
-      "closeDate": "27-Jul-2026",
+      "openDate": "17-Jul-2026",
+      "closeDate": "21-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 40.21,
-      "gmpRs": 195.0,
+      "gmpPct": 16.75,
+      "gmpRs": 71.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,320.70 crores in 2026 against \u20b93,373.97 crores in 2025. The company reported profit of \u20b9533.54 crores in 2026 against profit of \u20b9423.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b91,684.66 crores in 2026 against \u20b91,435.57 crores in 2025. The company reported profit of \u20b9157.90 crores in 2026 against profit of \u20b9131.55 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9195 (+40.2% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Xtranet Technologies Limited",
-      "symbol": "XTRANET",
-      "priceBand": "Rs.120 to Rs.127",
-      "issueSizeCr": 166.8,
-      "qibSubscription": null,
-      "openDate": "23-Jul-2026",
-      "closeDate": "27-Jul-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 15.75,
-      "gmpRs": 20.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9366.01 crores in 2026 against \u20b9276.53 crores in 2025. The company reported profit of \u20b940.73 crores in 2026 against profit of \u20b930.03 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b920 (+15.8% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b971 (+16.8% est. listing)",
+        "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -110,42 +86,70 @@
       "closeDate": "27-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 10.59,
-      "gmpRs": 45.0,
+      "gmpPct": 9.41,
+      "gmpRs": 40.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,737.87 crores in 2026. The company reported profit of \u20b9193.45 crores in 2026. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b945 (+10.6% est. listing)"
+        "Positive GMP: \u20b940 (+9.4% est. listing)",
+        "IPO Watch review: May Apply"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "Cube Highways Trust",
-      "symbol": "CUBEINVIT",
-      "priceBand": "Rs.151 to Rs.152",
-      "issueSizeCr": 3774.8,
+      "company": "Xtranet Technologies Limited",
+      "symbol": "XTRANET",
+      "priceBand": "Rs.120 to Rs.127",
+      "issueSizeCr": 166.8,
       "qibSubscription": null,
-      "openDate": "22-Jul-2026",
-      "closeDate": "24-Jul-2026",
+      "openDate": "23-Jul-2026",
+      "closeDate": "27-Jul-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
+      "gmpPct": 14.17,
+      "gmpRs": 18.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,359.03 crores in 2026 against \u20b93,453.15 crores in 2025. The company reported loss of \u20b9216.72 crores in 2026 against loss of \u20b935.72 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b9366.01 crores in 2026 against \u20b9276.53 crores in 2025. The company reported profit of \u20b940.73 crores in 2026 against profit of \u20b930.03 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Positive GMP: \u20b918 (+14.2% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "INDO-MIM Limited",
+      "symbol": "INDOMIM",
+      "priceBand": "Rs.461 to Rs.485",
+      "issueSizeCr": 3839.1,
+      "qibSubscription": null,
+      "openDate": "23-Jul-2026",
+      "closeDate": "27-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 40.21,
+      "gmpRs": 195.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,320.70 crores in 2026 against \u20b93,373.97 crores in 2025. The company reported profit of \u20b9533.54 crores in 2026 against profit of \u20b9423.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9195 (+40.2% est. listing)",
+        "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
