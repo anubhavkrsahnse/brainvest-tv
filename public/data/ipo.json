@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23 21:43 IST",
+  "lastUpdated": "2026-07-24 16:38 IST",
   "ipos": [
     {
       "company": "Xtranet Technologies Limited",
@@ -11,15 +11,15 @@
       "closeDate": "27-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 10.24,
-      "gmpRs": 13.0,
+      "gmpPct": 6.3,
+      "gmpRs": 8.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9366.01 crores in 2026 against \u20b9276.53 crores in 2025. The company reported profit of \u20b940.73 crores in 2026 against profit of \u20b930.03 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b913 (+10.2% est. listing)",
+        "Positive GMP: \u20b98 (+6.3% est. listing)",
         "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
@@ -37,19 +37,18 @@
       "closeDate": "27-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 8.47,
-      "gmpRs": 36.0,
+      "gmpPct": 3.52,
+      "gmpRs": 15.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,737.87 crores in 2026. The company reported profit of \u20b9193.45 crores in 2026. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b936 (+8.5% est. listing)",
         "IPO Watch review: May Apply"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+3.5%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -62,15 +61,15 @@
       "closeDate": "27-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 40.62,
-      "gmpRs": 197.0,
+      "gmpPct": 34.23,
+      "gmpRs": 166.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b94,320.70 crores in 2026 against \u20b93,373.97 crores in 2025. The company reported profit of \u20b9533.54 crores in 2026 against profit of \u20b9423.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9197 (+40.6% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b9166 (+34.2% est. listing)",
         "IPO Watch review: May Apply"
       ],
       "cons": [
@@ -102,24 +101,24 @@
       ]
     },
     {
-      "company": "Metalic Technoforge Limited",
-      "symbol": "METALIC",
-      "priceBand": "\u2248\u20b977 (upper, IPO Watch)",
-      "issueSizeCr": null,
+      "company": "Propshop Events and Exhibitions Limited",
+      "symbol": "PROPSHOP",
+      "priceBand": "Rs.65 to Rs.69",
+      "issueSizeCr": 28.6,
       "qibSubscription": null,
-      "openDate": "21-Jul-2026",
-      "closeDate": "23-Jul-2026",
-      "status": "current",
+      "openDate": "27-Jul-2026",
+      "closeDate": "29-Jul-2026",
+      "status": "upcoming",
       "source": "NSE",
       "gmpPct": 0.0,
       "gmpRs": 0.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b997.98 crores in 2026 against \u20b975.64 crores in 2025. The company reported profit of \u20b912.36 crores in 2026 against profit of \u20b99.03 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
+      "moat": "The company reported revenue of \u20b951.59 crores in 2025 against \u20b930.57 crores in 2024. The company reported profit of \u20b96.32 crores in 2025 against profit of \u20b92.19 crores in 2024. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "Muted GMP (+0.0%) \u2014 thin grey-market interest",
