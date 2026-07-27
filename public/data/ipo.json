@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24 21:21 IST",
+  "lastUpdated": "2026-07-27 19:13 IST",
   "ipos": [
     {
       "company": "Xtranet Technologies Limited",
@@ -11,17 +11,42 @@
       "closeDate": "27-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 6.3,
-      "gmpRs": 8.0,
+      "gmpPct": 5.51,
+      "gmpRs": 7.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9366.01 crores in 2026 against \u20b9276.53 crores in 2025. The company reported profit of \u20b940.73 crores in 2026 against profit of \u20b930.03 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b98 (+6.3% est. listing)",
+        "Positive GMP: \u20b97 (+5.5% est. listing)",
         "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "INDO-MIM Limited",
+      "symbol": "INDOMIM",
+      "priceBand": "Rs.461 to Rs.485",
+      "issueSizeCr": 2672.0,
+      "qibSubscription": null,
+      "openDate": "23-Jul-2026",
+      "closeDate": "27-Jul-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 39.18,
+      "gmpRs": 190.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,320.70 crores in 2026 against \u20b93,373.97 crores in 2025. The company reported profit of \u20b9533.54 crores in 2026 against profit of \u20b9423.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9190 (+39.2% est. listing)",
+        "IPO Watch review: May Apply"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -37,8 +62,8 @@
       "closeDate": "27-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 3.52,
-      "gmpRs": 15.0,
+      "gmpPct": 1.62,
+      "gmpRs": 7.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,737.87 crores in 2026. The company reported profit of \u20b9193.45 crores in 2026. As per the financials the IPO investors should apply the IPO for a long term.",
@@ -48,67 +73,18 @@
         "IPO Watch review: May Apply"
       ],
       "cons": [
-        "Muted GMP (+3.5%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "INDO-MIM Limited",
-      "symbol": "INDOMIM",
-      "priceBand": "Rs.461 to Rs.485",
-      "issueSizeCr": 2672.0,
-      "qibSubscription": null,
-      "openDate": "23-Jul-2026",
-      "closeDate": "27-Jul-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 34.23,
-      "gmpRs": 166.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,320.70 crores in 2026 against \u20b93,373.97 crores in 2025. The company reported profit of \u20b9533.54 crores in 2026 against profit of \u20b9423.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9166 (+34.2% est. listing)",
-        "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Cube Highways Trust",
-      "symbol": "CUBEINVIT",
-      "priceBand": "Rs.151 to Rs.152",
-      "issueSizeCr": 2076.2,
-      "qibSubscription": null,
-      "openDate": "22-Jul-2026",
-      "closeDate": "24-Jul-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,359.03 crores in 2026 against \u20b93,453.15 crores in 2025. The company reported loss of \u20b9216.72 crores in 2026 against loss of \u20b935.72 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+        "Muted GMP (+1.6%) \u2014 thin grey-market interest"
       ]
     },
     {
       "company": "Propshop Events and Exhibitions Limited",
       "symbol": "PROPSHOP",
-      "priceBand": "Rs.65 to Rs.69",
-      "issueSizeCr": 28.6,
+      "priceBand": "\u2248\u20b969 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "27-Jul-2026",
       "closeDate": "29-Jul-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": 0.0,
       "gmpRs": 0.0,
@@ -118,11 +94,36 @@
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "Muted GMP (+0.0%) \u2014 thin grey-market interest",
         "SME board \u2014 lower liquidity, higher volatility"
+      ]
+    },
+    {
+      "company": "Manipal Health Enterprises Limited",
+      "symbol": "MANIPALHOS",
+      "priceBand": "Rs.560 to Rs.590",
+      "issueSizeCr": 9705.5,
+      "qibSubscription": null,
+      "openDate": "29-Jul-2026",
+      "closeDate": "31-Jul-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 4.24,
+      "gmpRs": 25.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b910,520.52 crores in 2026 against revenue of \u20b98,362.79 crores in 2025. The company reported profit of \u20b9916.52 crores in 2026 against profit of \u20b91,081.67 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Muted GMP (+4.2%) \u2014 thin grey-market interest",
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
       ]
     }
   ]
