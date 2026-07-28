@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28 17:05 IST",
+  "lastUpdated": "2026-07-28 21:56 IST",
   "ipos": [
     {
       "company": "Propshop Events and Exhibitions Limited",
@@ -61,18 +61,18 @@
       "closeDate": "03-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 11.11,
-      "gmpRs": 25.0,
+      "gmpPct": 4.89,
+      "gmpRs": 11.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9804.93 crores in 2026 against \u20b9569.78 crores in 2025. The company reported profit of \u20b940.46 crores in 2026 against profit of \u20b936.48 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b925 (+11.1% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+4.9%) \u2014 thin grey-market interest"
       ]
     },
     {
