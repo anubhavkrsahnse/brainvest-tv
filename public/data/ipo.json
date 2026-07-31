@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30 21:44 IST",
+  "lastUpdated": "2026-07-31 17:09 IST",
   "ipos": [
     {
       "company": "MV Electrosystems Limited",
@@ -11,15 +11,15 @@
       "closeDate": "03-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 23.53,
-      "gmpRs": 100.0,
+      "gmpPct": 29.41,
+      "gmpRs": 120.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b949.79 crores in 2026 against \u20b964.64 crores in 2025. The company reported loss of \u20b912.63 crores in 2026 against profit of \u20b91.40 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9100 (+23.5% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b9120 (+29.4% est. listing)",
         "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
@@ -37,19 +37,18 @@
       "closeDate": "03-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 7.56,
-      "gmpRs": 17.0,
+      "gmpPct": 4.44,
+      "gmpRs": 10.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9804.93 crores in 2026 against \u20b9569.78 crores in 2025. The company reported profit of \u20b940.46 crores in 2026 against profit of \u20b936.48 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b917 (+7.6% est. listing)",
         "IPO Watch review: May Apply"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+4.4%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -62,8 +61,8 @@
       "closeDate": "31-Jul-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 1.69,
-      "gmpRs": 10.0,
+      "gmpPct": 1.02,
+      "gmpRs": 6.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b910,520.52 crores in 2026 against revenue of \u20b98,362.79 crores in 2025. The company reported profit of \u20b9916.52 crores in 2026 against profit of \u20b91,081.67 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
@@ -73,7 +72,7 @@
         "IPO Watch review: May Apply"
       ],
       "cons": [
-        "Muted GMP (+1.7%) \u2014 thin grey-market interest",
+        "Muted GMP (+1.0%) \u2014 thin grey-market interest",
         "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
       ]
     },
@@ -112,15 +111,15 @@
       "closeDate": "05-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 22.22,
-      "gmpRs": 60.0,
+      "gmpPct": 25.93,
+      "gmpRs": 70.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9143.63 crores in 2026 against \u20b979.40 crores in 2025. The company reported profit of \u20b936.63 crores in 2026 against profit of \u20b912.31 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b960 (+22.2% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b970 (+25.9% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
