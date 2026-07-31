@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31 17:09 IST",
+  "lastUpdated": "2026-07-31 21:57 IST",
   "ipos": [
     {
       "company": "MV Electrosystems Limited",
@@ -86,15 +86,15 @@
       "closeDate": "07-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 24.53,
-      "gmpRs": 13.0,
+      "gmpPct": 18.87,
+      "gmpRs": 10.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,168.88 crores in 2026 against \u20b9743.53 crores in 2025. The company reported profit of \u20b984.68 crores in 2026 against profit of \u20b933.27 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b913 (+24.5% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b910 (+18.9% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -105,7 +105,7 @@
       "company": "Anawil Wire and Engineering Limited",
       "symbol": "ANAWIL",
       "priceBand": "Rs.257 to Rs.270",
-      "issueSizeCr": 177.8,
+      "issueSizeCr": 127.2,
       "qibSubscription": null,
       "openDate": "03-Aug-2026",
       "closeDate": "05-Aug-2026",
