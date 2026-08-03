@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31 21:57 IST",
+  "lastUpdated": "2026-08-03 19:17 IST",
   "ipos": [
     {
       "company": "MV Electrosystems Limited",
@@ -11,15 +11,15 @@
       "closeDate": "03-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 29.41,
-      "gmpRs": 120.0,
+      "gmpPct": 27.06,
+      "gmpRs": 115.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b949.79 crores in 2026 against \u20b964.64 crores in 2025. The company reported loss of \u20b912.63 crores in 2026 against profit of \u20b91.40 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9120 (+29.4% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b9115 (+27.1% est. listing)",
         "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
@@ -37,8 +37,8 @@
       "closeDate": "03-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 4.44,
-      "gmpRs": 10.0,
+      "gmpPct": 0.89,
+      "gmpRs": 2.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9804.93 crores in 2026 against \u20b9569.78 crores in 2025. The company reported profit of \u20b940.46 crores in 2026 against profit of \u20b936.48 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
@@ -48,32 +48,31 @@
         "IPO Watch review: May Apply"
       ],
       "cons": [
-        "Muted GMP (+4.4%) \u2014 thin grey-market interest"
+        "Muted GMP (+0.9%) \u2014 thin grey-market interest"
       ]
     },
     {
-      "company": "Manipal Health Enterprises Limited",
-      "symbol": "MANIPALHOS",
-      "priceBand": "Rs.560 to Rs.590",
-      "issueSizeCr": 5315.2,
+      "company": "Anawil Wire and Engineering Limited",
+      "symbol": "ANAWIL",
+      "priceBand": "\u2248\u20b9270 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
-      "openDate": "29-Jul-2026",
-      "closeDate": "31-Jul-2026",
+      "openDate": "03-Aug-2026",
+      "closeDate": "05-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 1.02,
-      "gmpRs": 6.0,
-      "board": "Mainboard",
+      "gmpPct": 29.63,
+      "gmpRs": 80.0,
+      "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b910,520.52 crores in 2026 against revenue of \u20b98,362.79 crores in 2025. The company reported profit of \u20b9916.52 crores in 2026 against profit of \u20b91,081.67 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
+      "moat": "The company reported revenue of \u20b9143.63 crores in 2026 against \u20b979.40 crores in 2025. The company reported profit of \u20b936.63 crores in 2026 against profit of \u20b912.31 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "IPO Watch review: May Apply"
+        "Strong grey-market sentiment: GMP \u20b980 (+29.6% est. listing)"
       ],
       "cons": [
-        "Muted GMP (+1.0%) \u2014 thin grey-market interest",
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+        "SME board \u2014 lower liquidity, higher volatility"
       ]
     },
     {
@@ -86,44 +85,19 @@
       "closeDate": "07-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 18.87,
-      "gmpRs": 10.0,
+      "gmpPct": 13.2,
+      "gmpRs": 7.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,168.88 crores in 2026 against \u20b9743.53 crores in 2025. The company reported profit of \u20b984.68 crores in 2026 against profit of \u20b933.27 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b910 (+18.9% est. listing)",
+        "Positive GMP: \u20b97 (+13.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Anawil Wire and Engineering Limited",
-      "symbol": "ANAWIL",
-      "priceBand": "Rs.257 to Rs.270",
-      "issueSizeCr": 127.2,
-      "qibSubscription": null,
-      "openDate": "03-Aug-2026",
-      "closeDate": "05-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 25.93,
-      "gmpRs": 70.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9143.63 crores in 2026 against \u20b979.40 crores in 2025. The company reported profit of \u20b936.63 crores in 2026 against profit of \u20b912.31 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b970 (+25.9% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "SME board \u2014 lower liquidity, higher volatility"
       ]
     }
   ]
