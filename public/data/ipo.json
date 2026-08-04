@@ -1,56 +1,6 @@
 {
-  "lastUpdated": "2026-08-03 22:57 IST",
+  "lastUpdated": "2026-08-04 11:40 IST",
   "ipos": [
-    {
-      "company": "MV Electrosystems Limited",
-      "symbol": "MVELECTRO",
-      "priceBand": "Rs.400 to Rs.425",
-      "issueSizeCr": 169.5,
-      "qibSubscription": null,
-      "openDate": "30-Jul-2026",
-      "closeDate": "03-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 27.06,
-      "gmpRs": 115.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b949.79 crores in 2026 against \u20b964.64 crores in 2025. The company reported loss of \u20b912.63 crores in 2026 against profit of \u20b91.40 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9115 (+27.1% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Juniper Green Energy Limited",
-      "symbol": "JNPR",
-      "priceBand": "Rs.214 to Rs.225",
-      "issueSizeCr": 1325.6,
-      "qibSubscription": null,
-      "openDate": "30-Jul-2026",
-      "closeDate": "03-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 0.89,
-      "gmpRs": 2.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9804.93 crores in 2026 against \u20b9569.78 crores in 2025. The company reported profit of \u20b940.46 crores in 2026 against profit of \u20b936.48 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "Muted GMP (+0.9%) \u2014 thin grey-market interest"
-      ]
-    },
     {
       "company": "Anawil Wire and Engineering Limited",
       "symbol": "ANAWIL",
@@ -73,6 +23,56 @@
       ],
       "cons": [
         "SME board \u2014 lower liquidity, higher volatility"
+      ]
+    },
+    {
+      "company": "MV Electrosystems Limited",
+      "symbol": "MVELECTRO",
+      "priceBand": "Rs.400 to Rs.425",
+      "issueSizeCr": 169.5,
+      "qibSubscription": null,
+      "openDate": "30-Jul-2026",
+      "closeDate": "03-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 23.53,
+      "gmpRs": 100.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b949.79 crores in 2026 against \u20b964.64 crores in 2025. The company reported loss of \u20b912.63 crores in 2026 against profit of \u20b91.40 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9100 (+23.5% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Juniper Green Energy Limited",
+      "symbol": "JNPR",
+      "priceBand": "Rs.214 to Rs.225",
+      "issueSizeCr": 1325.6,
+      "qibSubscription": null,
+      "openDate": "30-Jul-2026",
+      "closeDate": "03-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 4.0,
+      "gmpRs": 9.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9804.93 crores in 2026 against \u20b9569.78 crores in 2025. The company reported profit of \u20b940.46 crores in 2026 against profit of \u20b936.48 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "Muted GMP (+4.0%) \u2014 thin grey-market interest"
       ]
     },
     {
