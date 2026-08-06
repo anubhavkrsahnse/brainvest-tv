@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05 17:52 IST",
+  "lastUpdated": "2026-08-06 11:41 IST",
   "ipos": [
     {
       "company": "Ardee Industries Limited",
@@ -11,43 +11,19 @@
       "closeDate": "07-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 24.53,
-      "gmpRs": 13.0,
+      "gmpPct": 28.3,
+      "gmpRs": 15.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,168.88 crores in 2026 against \u20b9743.53 crores in 2025. The company reported profit of \u20b984.68 crores in 2026 against profit of \u20b933.27 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b913 (+24.5% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b915 (+28.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Anawil Wire and Engineering Limited",
-      "symbol": "ANAWIL",
-      "priceBand": "\u2248\u20b9270 (upper, IPO Watch)",
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "03-Aug-2026",
-      "closeDate": "05-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 29.63,
-      "gmpRs": 80.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9143.63 crores in 2026 against \u20b979.40 crores in 2025. The company reported profit of \u20b936.63 crores in 2026 against profit of \u20b912.31 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b980 (+29.6% est. listing)"
-      ],
-      "cons": [
-        "SME board \u2014 lower liquidity, higher volatility"
       ]
     },
     {
@@ -82,18 +58,19 @@
       "closeDate": "11-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 4.72,
-      "gmpRs": 10.0,
+      "gmpPct": 6.13,
+      "gmpRs": 13.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9347.00 crores in 2026 against \u20b9281.00 crores in 2025. The company reported profit of \u20b943.32 crores in 2026 against profit of \u20b928.20 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
+        "Positive GMP: \u20b913 (+6.1% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+4.7%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
