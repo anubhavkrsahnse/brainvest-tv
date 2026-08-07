@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-08-06 17:55 IST",
+  "lastUpdated": "2026-08-07 10:44 IST",
   "ipos": [
+    {
+      "company": "Leap India Limited",
+      "symbol": "LEAP",
+      "priceBand": "Rs.151 to Rs.159",
+      "issueSizeCr": 1828.4,
+      "qibSubscription": null,
+      "openDate": "07-Aug-2026",
+      "closeDate": "11-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Technocraft Ventures Limited",
+      "symbol": "TECHNOCRAF",
+      "priceBand": "Rs.200 to Rs.212",
+      "issueSizeCr": 176.3,
+      "qibSubscription": null,
+      "openDate": "07-Aug-2026",
+      "closeDate": "11-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Ardee Industries Limited",
       "symbol": "ARDEE",
@@ -11,15 +55,12 @@
       "closeDate": "07-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 28.3,
-      "gmpRs": 15.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,168.88 crores in 2026 against \u20b9743.53 crores in 2025. The company reported profit of \u20b984.68 crores in 2026 against profit of \u20b933.27 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b915 (+28.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -27,24 +68,22 @@
       ]
     },
     {
-      "company": "Dhoot Transmission Limited",
-      "symbol": "DHOOTTRANS",
-      "priceBand": "Rs.829 to Rs.871",
-      "issueSizeCr": 3138.5,
+      "company": "Optimystix Entertainment India Limited",
+      "symbol": "OPTIMYSTIX",
+      "priceBand": null,
+      "issueSizeCr": null,
       "qibSubscription": null,
-      "openDate": "10-Aug-2026",
-      "closeDate": "12-Aug-2026",
-      "status": "upcoming",
+      "openDate": "07-Aug-2026",
+      "closeDate": "11-Aug-2026",
+      "status": "current",
       "source": "NSE",
-      "gmpPct": 29.28,
-      "gmpRs": 255.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,563.70 crores in 2026 against \u20b93,472.24 crores in 2025. The company reported profit of \u20b9396.84 crores in 2026 against profit of \u20b9353.89 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9255 (+29.3% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -60,60 +99,11 @@
       "closeDate": "12-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 21.06,
-      "gmpRs": 170.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91455.17 crores in 2026 against \u20b91027.94 crores in 2025. The company reported profit of \u20b9164.14 crores in 2026 against profit of \u20b9138.58 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9170 (+21.1% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Technocraft Ventures Limited",
-      "symbol": "TECHNOCRAF",
-      "priceBand": "Rs.200 to Rs.212",
-      "issueSizeCr": 251.9,
-      "qibSubscription": null,
-      "openDate": "07-Aug-2026",
-      "closeDate": "11-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 6.13,
-      "gmpRs": 13.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9347.00 crores in 2026 against \u20b9281.00 crores in 2025. The company reported profit of \u20b943.32 crores in 2026 against profit of \u20b928.20 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b913 (+6.1% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Leap India Limited",
-      "symbol": "LEAP",
-      "priceBand": "Rs.151 to Rs.159",
-      "issueSizeCr": 2611.4,
-      "qibSubscription": null,
-      "openDate": "07-Aug-2026",
-      "closeDate": "11-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
-      "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
@@ -122,28 +112,25 @@
       ]
     },
     {
-      "company": "Optimystix Entertainment India Limited",
-      "symbol": "OPTIMYSTIX",
-      "priceBand": "Rs.166 to Rs.175",
-      "issueSizeCr": 108.5,
+      "company": "Dhoot Transmission Limited",
+      "symbol": "DHOOTTRANS",
+      "priceBand": "Rs.829 to Rs.871",
+      "issueSizeCr": 3138.5,
       "qibSubscription": null,
-      "openDate": "07-Aug-2026",
-      "closeDate": "11-Aug-2026",
+      "openDate": "10-Aug-2026",
+      "closeDate": "12-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9135.89 crores in 2026 against \u20b9125.07 crores in 2025. The company reported profit of \u20b924.04 crores in 2026 against profit of \u20b917.24 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
-        "SME board \u2014 lower liquidity, higher volatility"
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
