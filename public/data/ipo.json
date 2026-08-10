@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-08-07 16:50 IST",
+  "lastUpdated": "2026-08-10 10:35 IST",
   "ipos": [
+    {
+      "company": "Dhoot Transmission Limited",
+      "symbol": "DHOOTTRANS",
+      "priceBand": "Rs.829 to Rs.871",
+      "issueSizeCr": 2173.7,
+      "qibSubscription": null,
+      "openDate": "10-Aug-2026",
+      "closeDate": "12-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 29.74,
+      "gmpRs": 259.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,563.70 crores in 2026 against \u20b93,472.24 crores in 2025. The company reported profit of \u20b9396.84 crores in 2026 against profit of \u20b9353.89 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9259 (+29.7% est. listing)",
+        "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Molbio Diagnostics Limited",
+      "symbol": "MOLBIO",
+      "priceBand": "Rs.768 to Rs.807",
+      "issueSizeCr": 658.4,
+      "qibSubscription": null,
+      "openDate": "10-Aug-2026",
+      "closeDate": "12-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 16.36,
+      "gmpRs": 132.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91455.17 crores in 2026 against \u20b91027.94 crores in 2025. The company reported profit of \u20b9164.14 crores in 2026 against profit of \u20b9138.58 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9132 (+16.4% est. listing)",
+        "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Leap India Limited",
       "symbol": "LEAP",
@@ -33,40 +83,16 @@
       "closeDate": "11-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 7.55,
-      "gmpRs": 16.0,
+      "gmpPct": 10.85,
+      "gmpRs": 23.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9347.00 crores in 2026 against \u20b9281.00 crores in 2025. The company reported profit of \u20b943.32 crores in 2026 against profit of \u20b928.20 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b916 (+7.5% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Ardee Industries Limited",
-      "symbol": "ARDEE",
-      "priceBand": "Rs.50 to Rs.53",
-      "issueSizeCr": 309.6,
-      "qibSubscription": null,
-      "openDate": "05-Aug-2026",
-      "closeDate": "07-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 28.3,
-      "gmpRs": 15.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,168.88 crores in 2026 against \u20b9743.53 crores in 2025. The company reported profit of \u20b984.68 crores in 2026 against profit of \u20b933.27 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b915 (+28.3% est. listing)",
+        "Positive GMP: \u20b923 (+10.8% est. listing)",
+        "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -88,7 +114,7 @@
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9135.89 crores in 2026 against \u20b9125.07 crores in 2025. The company reported profit of \u20b924.04 crores in 2026 against profit of \u20b917.24 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "No standout quantitative positives yet"
@@ -123,54 +149,6 @@
       ]
     },
     {
-      "company": "Dhoot Transmission Limited",
-      "symbol": "DHOOTTRANS",
-      "priceBand": "Rs.829 to Rs.871",
-      "issueSizeCr": 3138.5,
-      "qibSubscription": null,
-      "openDate": "10-Aug-2026",
-      "closeDate": "12-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 29.85,
-      "gmpRs": 260.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,563.70 crores in 2026 against \u20b93,472.24 crores in 2025. The company reported profit of \u20b9396.84 crores in 2026 against profit of \u20b9353.89 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9260 (+29.9% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Molbio Diagnostics Limited",
-      "symbol": "MOLBIO",
-      "priceBand": "Rs.768 to Rs.807",
-      "issueSizeCr": 950.0,
-      "qibSubscription": null,
-      "openDate": "10-Aug-2026",
-      "closeDate": "12-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 27.26,
-      "gmpRs": 220.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91455.17 crores in 2026 against \u20b91027.94 crores in 2025. The company reported profit of \u20b9164.14 crores in 2026 against profit of \u20b9138.58 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9220 (+27.3% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Fascinate Textiles Limited",
       "symbol": "FASCINATE",
       "priceBand": "Rs.148 to Rs.156",
@@ -184,7 +162,7 @@
       "gmpRs": 0.0,
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b960.28 crores in 2025 against \u20b928.90 crores in 2024. The company reported profit of \u20b95.81 crores in 2025 against profit of \u20b90.48 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b9117.23 crores in 2026 against \u20b960.28 crores in 2025. The company reported profit of \u20b915.07 crores in 2026 against profit of \u20b95.81 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
