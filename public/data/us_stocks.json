@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11 10:19 IST",
+  "lastUpdated": "2026-08-11 16:43 IST",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -18,7 +18,7 @@
     {
       "symbol": "MSFT",
       "price": 506.06,
-      "peRatio": 28.192757,
+      "peRatio": 27.851402,
       "marketCap": 3757771587584,
       "high52wProximityPct": 92.0,
       "rsi14": 79.1,
@@ -32,7 +32,7 @@
     {
       "symbol": "NVDA",
       "price": 217.55,
-      "peRatio": 34.259842,
+      "peRatio": 33.315468,
       "marketCap": 5269278425088,
       "high52wProximityPct": 92.1,
       "rsi14": 58.1,
