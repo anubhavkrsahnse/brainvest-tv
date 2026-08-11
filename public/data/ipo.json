@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-10 16:59 IST",
+  "lastUpdated": "2026-08-11 10:19 IST",
   "ipos": [
+    {
+      "company": "Milky Mist Dairy Food Limited",
+      "symbol": "MILKYMIST",
+      "priceBand": "Rs.133 to Rs.140",
+      "issueSizeCr": 1145.2,
+      "qibSubscription": null,
+      "openDate": "11-Aug-2026",
+      "closeDate": "13-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 15.0,
+      "gmpRs": 21.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b93,145.01 crores in 2026 against \u20b92,354.79 crores in 2025. The company reported profit of \u20b9127.01 crores in 2026 against profit of \u20b946.07 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b921 (+15.0% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Dhoot Transmission Limited",
       "symbol": "DHOOTTRANS",
@@ -11,15 +35,15 @@
       "closeDate": "12-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 29.74,
-      "gmpRs": 259.0,
+      "gmpPct": 28.7,
+      "gmpRs": 250.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b94,563.70 crores in 2026 against \u20b93,472.24 crores in 2025. The company reported profit of \u20b9396.84 crores in 2026 against profit of \u20b9353.89 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9259 (+29.7% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b9250 (+28.7% est. listing)",
         "IPO Watch review: May Apply"
       ],
       "cons": [
@@ -36,16 +60,42 @@
       "closeDate": "12-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 16.36,
-      "gmpRs": 132.0,
+      "gmpPct": 15.74,
+      "gmpRs": 127.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91455.17 crores in 2026 against \u20b91027.94 crores in 2025. The company reported profit of \u20b9164.14 crores in 2026 against profit of \u20b9138.58 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9132 (+16.4% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b9127 (+15.7% est. listing)",
         "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Technocraft Ventures Limited",
+      "symbol": "TECHNOCRAF",
+      "priceBand": "Rs.200 to Rs.212",
+      "issueSizeCr": 176.3,
+      "qibSubscription": null,
+      "openDate": "07-Aug-2026",
+      "closeDate": "11-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 14.15,
+      "gmpRs": 30.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9347.00 crores in 2026 against \u20b9281.00 crores in 2025. The company reported profit of \u20b943.32 crores in 2026 against profit of \u20b928.20 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b930 (+14.2% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -74,29 +124,28 @@
       ]
     },
     {
-      "company": "Technocraft Ventures Limited",
-      "symbol": "TECHNOCRAF",
-      "priceBand": "Rs.200 to Rs.212",
-      "issueSizeCr": 176.3,
+      "company": "Fascinate Textiles Limited",
+      "symbol": "FASCINATE",
+      "priceBand": "\u2248\u20b9156 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
-      "openDate": "07-Aug-2026",
-      "closeDate": "11-Aug-2026",
+      "openDate": "11-Aug-2026",
+      "closeDate": "13-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 10.85,
-      "gmpRs": 23.0,
-      "board": "Mainboard",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9347.00 crores in 2026 against \u20b9281.00 crores in 2025. The company reported profit of \u20b943.32 crores in 2026 against profit of \u20b928.20 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
+      "moat": "The company reported revenue of \u20b9117.23 crores in 2026 against \u20b960.28 crores in 2025. The company reported profit of \u20b915.07 crores in 2026 against profit of \u20b95.81 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b923 (+10.8% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
+        "SME board \u2014 lower liquidity, higher volatility"
       ]
     },
     {
@@ -134,40 +183,16 @@
       "closeDate": "14-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 15.09,
-      "gmpRs": 43.0,
+      "gmpPct": 18.6,
+      "gmpRs": 53.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9546.52 crores in 2026 against \u20b9516.30 crores in 2025. The company reported profit of \u20b964.64 crores in 2026 against profit of \u20b952.95 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b943 (+15.1% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b953 (+18.6% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Milky Mist Dairy Food Limited",
-      "symbol": "MILKYMIST",
-      "priceBand": "Rs.133 to Rs.140",
-      "issueSizeCr": 1635.0,
-      "qibSubscription": null,
-      "openDate": "11-Aug-2026",
-      "closeDate": "13-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 18.57,
-      "gmpRs": 26.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b93,145.01 crores in 2026 against \u20b92,354.79 crores in 2025. The company reported profit of \u20b9127.01 crores in 2026 against profit of \u20b946.07 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b926 (+18.6% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -188,31 +213,6 @@
       "board": "NSE SME",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b963.38 crores in 2026 against \u20b938.55 crores in 2025. The company reported profit of \u20b917.38 crores in 2026 against profit of \u20b911.14 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
-        "SME board \u2014 lower liquidity, higher volatility"
-      ]
-    },
-    {
-      "company": "Fascinate Textiles Limited",
-      "symbol": "FASCINATE",
-      "priceBand": "Rs.148 to Rs.156",
-      "issueSizeCr": 67.0,
-      "qibSubscription": null,
-      "openDate": "11-Aug-2026",
-      "closeDate": "13-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9117.23 crores in 2026 against \u20b960.28 crores in 2025. The company reported profit of \u20b915.07 crores in 2026 against profit of \u20b95.81 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
