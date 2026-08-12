@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-08-12 10:44 IST",
+  "lastUpdated": "2026-08-12 16:51 IST",
   "ipos": [
+    {
+      "company": "Behari Lal Engineering Limited",
+      "symbol": "BLEL",
+      "priceBand": "Rs.271 to Rs.285",
+      "issueSizeCr": 211.3,
+      "qibSubscription": null,
+      "openDate": "12-Aug-2026",
+      "closeDate": "14-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Shiprocket Limited",
       "symbol": "SHIPROCKET",
@@ -13,36 +35,11 @@
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
-      "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Behari Lal Engineering Limited",
-      "symbol": "BLEL",
-      "priceBand": "Rs.271 to Rs.285",
-      "issueSizeCr": 211.3,
-      "qibSubscription": null,
-      "openDate": "12-Aug-2026",
-      "closeDate": "14-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 23.51,
-      "gmpRs": 67.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9546.52 crores in 2026 against \u20b9516.30 crores in 2025. The company reported profit of \u20b964.64 crores in 2026 against profit of \u20b952.95 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b967 (+23.5% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -58,41 +55,13 @@
       "closeDate": "13-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 16.42,
-      "gmpRs": 23.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b93,145.01 crores in 2026 against \u20b92,354.79 crores in 2025. The company reported profit of \u20b9127.01 crores in 2026 against profit of \u20b946.07 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b923 (+16.4% est. listing)",
-        "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Dhoot Transmission Limited",
-      "symbol": "DHOOTTRANS",
-      "priceBand": "Rs.829 to Rs.871",
-      "issueSizeCr": 2173.7,
-      "qibSubscription": null,
-      "openDate": "10-Aug-2026",
-      "closeDate": "12-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 29.28,
-      "gmpRs": 255.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,563.70 crores in 2026 against \u20b93,472.24 crores in 2025. The company reported profit of \u20b9396.84 crores in 2026 against profit of \u20b9353.89 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9255 (+29.3% est. listing)",
-        "IPO Watch review: May Apply"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -108,16 +77,35 @@
       "closeDate": "12-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 17.1,
-      "gmpRs": 138.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91455.17 crores in 2026 against \u20b91027.94 crores in 2025. The company reported profit of \u20b9164.14 crores in 2026 against profit of \u20b9138.58 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9138 (+17.1% est. listing)",
-        "IPO Watch review: May Apply"
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Dhoot Transmission Limited",
+      "symbol": "DHOOTTRANS",
+      "priceBand": "Rs.829 to Rs.871",
+      "issueSizeCr": 2173.7,
+      "qibSubscription": null,
+      "openDate": "10-Aug-2026",
+      "closeDate": "12-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -126,93 +114,84 @@
     {
       "company": "Pramodini Medicare Limited",
       "symbol": "PRAMODINI",
-      "priceBand": "\u2248\u20b9118 (upper, IPO Watch)",
+      "priceBand": null,
       "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "12-Aug-2026",
       "closeDate": "14-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b963.38 crores in 2026 against \u20b938.55 crores in 2025. The company reported profit of \u20b917.38 crores in 2026 against profit of \u20b911.14 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
-        "SME board \u2014 lower liquidity, higher volatility"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
       "company": "Fascinate Textiles Limited",
       "symbol": "FASCINATE",
-      "priceBand": "\u2248\u20b9156 (upper, IPO Watch)",
+      "priceBand": null,
       "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "11-Aug-2026",
       "closeDate": "13-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9117.23 crores in 2026 against \u20b960.28 crores in 2025. The company reported profit of \u20b915.07 crores in 2026 against profit of \u20b95.81 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
-      "moatSource": "IPO Watch company analysis",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
-        "SME board \u2014 lower liquidity, higher volatility"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "Technocraft Ventures Limited",
-      "symbol": "TECHNOCRAF",
-      "priceBand": "Rs.200 to Rs.212",
-      "issueSizeCr": 176.3,
+      "company": "Shankesh Jewellers Limited",
+      "symbol": "SHANKESH",
+      "priceBand": "Rs.88 to Rs.93",
+      "issueSizeCr": 367.2,
       "qibSubscription": null,
-      "openDate": "07-Aug-2026",
-      "closeDate": "11-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9347.00 crores in 2026 against \u20b9281.00 crores in 2025. The company reported profit of \u20b943.32 crores in 2026 against profit of \u20b928.20 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "Leap India Limited",
-      "symbol": "LEAP",
-      "priceBand": "Rs.151 to Rs.159",
-      "issueSizeCr": 1828.4,
-      "qibSubscription": null,
-      "openDate": "07-Aug-2026",
-      "closeDate": "11-Aug-2026",
+      "openDate": "18-Aug-2026",
+      "closeDate": "20-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Lalithaa Jewellery Mart Limited",
+      "symbol": "LALITHAA",
+      "priceBand": "Rs.190 to Rs.201",
+      "issueSizeCr": 1799.1,
+      "qibSubscription": null,
+      "openDate": "17-Aug-2026",
+      "closeDate": "19-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
       "gmpSource": null,
+      "moat": null,
+      "verdict": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
@@ -230,19 +209,16 @@
       "closeDate": "17-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 18.52,
-      "gmpRs": 35.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b978.23 crores in 2025 against \u20b976.02 crores in 2024. The company reported profit of \u20b92.25 crores in 2025 against profit of \u20b92.66 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b935 (+18.5% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "SME board \u2014 lower liquidity, higher volatility"
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
