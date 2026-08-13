@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12 16:51 IST",
+  "lastUpdated": "2026-08-13 10:49 IST",
   "ipos": [
     {
       "company": "Behari Lal Engineering Limited",
@@ -11,12 +11,16 @@
       "closeDate": "14-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
+      "gmpPct": 25.96,
+      "gmpRs": 74.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9546.52 crores in 2026 against \u20b9516.30 crores in 2025. The company reported profit of \u20b964.64 crores in 2026 against profit of \u20b952.95 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
       "pros": [
+        "Strong grey-market sentiment: GMP \u20b974 (+26.0% est. listing)",
+        "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -35,9 +39,9 @@
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
-      "gmpSource": null,
       "moat": null,
       "verdict": null,
+      "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
@@ -55,16 +59,91 @@
       "closeDate": "13-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 15.71,
+      "gmpRs": 22.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b93,145.01 crores in 2026 against \u20b92,354.79 crores in 2025. The company reported profit of \u20b9127.01 crores in 2026 against profit of \u20b946.07 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b922 (+15.7% est. listing)",
+        "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Credent Connect N Care Limited",
+      "symbol": "CREDENT",
+      "priceBand": "\u2248\u20b9189 (upper, IPO Watch)",
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "13-Aug-2026",
+      "closeDate": "17-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 26.46,
+      "gmpRs": 50.0,
+      "board": "NSE SME",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9214.43 crores in 2026 against \u20b978.23 crores in 2025. The company reported profit of \u20b918.45 crores in 2026 against profit of \u20b92.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b950 (+26.5% est. listing)"
+      ],
+      "cons": [
+        "SME board \u2014 lower liquidity, higher volatility"
+      ]
+    },
+    {
+      "company": "Pramodini Medicare Limited",
+      "symbol": "PRAMODINI",
+      "priceBand": "\u2248\u20b9118 (upper, IPO Watch)",
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "12-Aug-2026",
+      "closeDate": "14-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": "NSE SME",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
+        "SME board \u2014 lower liquidity, higher volatility"
+      ]
+    },
+    {
+      "company": "Fascinate Textiles Limited",
+      "symbol": "FASCINATE",
+      "priceBand": "\u2248\u20b9156 (upper, IPO Watch)",
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "11-Aug-2026",
+      "closeDate": "13-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": "NSE SME",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
+        "SME board \u2014 lower liquidity, higher volatility"
       ]
     },
     {
@@ -75,15 +154,16 @@
       "qibSubscription": null,
       "openDate": "10-Aug-2026",
       "closeDate": "12-Aug-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 19.08,
+      "gmpRs": 154.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b9154 (+19.1% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -97,59 +177,16 @@
       "qibSubscription": null,
       "openDate": "10-Aug-2026",
       "closeDate": "12-Aug-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 31.69,
+      "gmpRs": 276.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Pramodini Medicare Limited",
-      "symbol": "PRAMODINI",
-      "priceBand": null,
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "12-Aug-2026",
-      "closeDate": "14-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Fascinate Textiles Limited",
-      "symbol": "FASCINATE",
-      "priceBand": null,
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "11-Aug-2026",
-      "closeDate": "13-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b9276 (+31.7% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -165,12 +202,15 @@
       "closeDate": "20-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
+      "gmpPct": 7.53,
+      "gmpRs": 7.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,630.93 crores in 2026 against \u20b91,403.94 crores in 2025. The company reported profit of \u20b9106.68 crores in 2026 against profit of \u20b940.31 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
+        "Positive GMP: \u20b97 (+7.5% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -187,38 +227,41 @@
       "closeDate": "19-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 20.4,
+      "gmpRs": 41.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b941 (+20.4% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "Credent Connect N Care Limited",
-      "symbol": "CREDENT",
-      "priceBand": "Rs.179 to Rs.189",
-      "issueSizeCr": 93.9,
+      "company": "Skytech Infinite Platform Limited",
+      "symbol": "SKYTECH",
+      "priceBand": "Rs.73 to Rs.77",
+      "issueSizeCr": 22.7,
       "qibSubscription": null,
-      "openDate": "13-Aug-2026",
-      "closeDate": "17-Aug-2026",
+      "openDate": "14-Aug-2026",
+      "closeDate": "18-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": "NSE SME",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
+        "SME board \u2014 lower liquidity, higher volatility"
       ]
     }
   ]
