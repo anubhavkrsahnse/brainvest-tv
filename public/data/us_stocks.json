@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13 10:47 IST",
+  "lastUpdated": "2026-08-13 16:51 IST",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -8,7 +8,7 @@
       "marketCap": 4411090796544,
       "high52wProximityPct": 87.8,
       "rsi14": 40.4,
-      "avgDailyVolume": 56523159,
+      "avgDailyVolume": 56718253,
       "buyLevel": 314.56,
       "bidLevel": 287.14,
       "sellLevel": 340.83,
@@ -18,7 +18,7 @@
     {
       "symbol": "MSFT",
       "price": 492.43,
-      "peRatio": 27.448717,
+      "peRatio": 28.0907,
       "marketCap": 3656561459200,
       "high52wProximityPct": 89.5,
       "rsi14": 70.8,
@@ -50,7 +50,7 @@
       "marketCap": 4201472065536,
       "high52wProximityPct": 84.1,
       "rsi14": 45.7,
-      "avgDailyVolume": 32986406,
+      "avgDailyVolume": 33037612,
       "buyLevel": 339.92,
       "bidLevel": 326.36,
       "sellLevel": 404.28,
@@ -60,7 +60,7 @@
     {
       "symbol": "AMZN",
       "price": 267.28,
-      "peRatio": 21.890253,
+      "peRatio": 21.502815,
       "marketCap": 2882965864448,
       "high52wProximityPct": 93.1,
       "rsi14": 57.1,
