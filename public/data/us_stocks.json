@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-14 10:44 IST",
+  "lastUpdated": "2026-08-14 16:43 IST",
   "stocks": [
     {
       "symbol": "AAPL",
       "price": 305.26,
-      "peRatio": 34.609978,
+      "peRatio": 34.966785,
       "marketCap": 4455019315200,
       "high52wProximityPct": 88.7,
       "rsi14": 43.2,
-      "avgDailyVolume": 56540406,
+      "avgDailyVolume": 56620916,
       "buyLevel": 313.2,
       "bidLevel": 290.0,
       "sellLevel": 340.83,
@@ -32,7 +32,7 @@
     {
       "symbol": "NVDA",
       "price": 225.3,
-      "peRatio": 34.344513,
+      "peRatio": 34.502296,
       "marketCap": 5456991354880,
       "high52wProximityPct": 95.4,
       "rsi14": 63.2,
@@ -46,7 +46,7 @@
     {
       "symbol": "GOOGL",
       "price": 346.36,
-      "peRatio": 17.240417,
+      "peRatio": 17.387548,
       "marketCap": 4235960254464,
       "high52wProximityPct": 84.8,
       "rsi14": 47.3,
@@ -88,7 +88,7 @@
     {
       "symbol": "TSLA",
       "price": 339.96,
-      "peRatio": 314.77777,
+      "peRatio": 303.5357,
       "marketCap": 1342688198656,
       "high52wProximityPct": 68.2,
       "rsi14": 47.7,
