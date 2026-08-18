@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-18 09:37 IST",
+  "lastUpdated": "2026-08-18 16:25 IST",
   "stocks": [
     {
       "symbol": "AAPL",
       "price": NaN,
-      "peRatio": 35.044724,
+      "peRatio": 35.08496,
       "marketCap": 4459835424768,
       "high52wProximityPct": NaN,
       "rsi14": 43.8,
-      "avgDailyVolume": 56547057,
+      "avgDailyVolume": 56191185,
       "buyLevel": 311.44,
       "bidLevel": NaN,
       "sellLevel": 340.83,
@@ -46,7 +46,7 @@
     {
       "symbol": "GOOGL",
       "price": NaN,
-      "peRatio": 17.364967,
+      "peRatio": 17.269075,
       "marketCap": 4207097675776,
       "high52wProximityPct": NaN,
       "rsi14": 47.0,
@@ -78,7 +78,7 @@
       "marketCap": 1449454469120,
       "high52wProximityPct": NaN,
       "rsi14": 47.6,
-      "avgDailyVolume": 18139983,
+      "avgDailyVolume": 18211583,
       "buyLevel": 580.14,
       "bidLevel": NaN,
       "sellLevel": 780.33,

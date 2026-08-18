@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18 09:37 IST",
+  "lastUpdated": "2026-08-18 16:25 IST",
   "ipos": [
     {
       "company": "Sunshine Pictures Limited",
@@ -51,6 +51,30 @@
       ]
     },
     {
+      "company": "Horizon Industrial Parks Limited",
+      "symbol": "HORIZONIND",
+      "priceBand": "Rs.57 to Rs.60",
+      "issueSizeCr": 1508.1,
+      "qibSubscription": null,
+      "openDate": "17-Aug-2026",
+      "closeDate": "19-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 3.33,
+      "gmpRs": 2.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9767.84 crores in 2026 against \u20b9439.35 crores in 2025. The company reported loss of \u20b9203.65 crores in 2026 against loss of \u20b9178.78 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "IPO Watch review: May Apply"
+      ],
+      "cons": [
+        "Muted GMP (+3.3%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
       "company": "Lalithaa Jewellery Mart Limited",
       "symbol": "LALITHAA",
       "priceBand": "Rs.190 to Rs.201",
@@ -73,30 +97,6 @@
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Horizon Industrial Parks Limited",
-      "symbol": "HORIZONIND",
-      "priceBand": "Rs.57 to Rs.60",
-      "issueSizeCr": 1508.1,
-      "qibSubscription": null,
-      "openDate": "17-Aug-2026",
-      "closeDate": "19-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 3.33,
-      "gmpRs": 2.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9767.84 crores in 2026 against \u20b9439.35 crores in 2025. The company reported loss of \u20b9203.65 crores in 2026 against loss of \u20b9178.78 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "Muted GMP (+3.3%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -145,6 +145,54 @@
       ],
       "cons": [
         "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
+      "company": "Skyways Air Services Limited",
+      "symbol": "SKYWAYS",
+      "priceBand": "Rs.131 to Rs.138",
+      "issueSizeCr": 582.8,
+      "qibSubscription": null,
+      "openDate": "24-Aug-2026",
+      "closeDate": "27-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 21.74,
+      "gmpRs": 30.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b92,839.67 crores in 2026 against \u20b92,270.99 crores in 2025. The company reported profit of \u20b963.52 crores in 2026 against profit of \u20b9\u20b948.14 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b930 (+21.7% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Tempsens Instruments (India) Limited",
+      "symbol": "TEMPSENS",
+      "priceBand": "Rs.285 to Rs.300",
+      "issueSizeCr": 655.0,
+      "qibSubscription": null,
+      "openDate": "20-Aug-2026",
+      "closeDate": "24-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 51.33,
+      "gmpRs": 154.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9455.86 crores in 2026 against \u20b9382.47 crores in 2025. The company reported profit of \u20b971.07 crores in 2026 against profit of \u20b962.56 crores in 2025 As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9154 (+51.3% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
