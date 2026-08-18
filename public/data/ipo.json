@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2026-08-17 16:26 IST",
+  "lastUpdated": "2026-08-18 09:37 IST",
   "ipos": [
+    {
+      "company": "Sunshine Pictures Limited",
+      "symbol": "SUNSHINE",
+      "priceBand": "Rs.342 to Rs.360",
+      "issueSizeCr": 197.5,
+      "qibSubscription": null,
+      "openDate": "18-Aug-2026",
+      "closeDate": "20-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 20.28,
+      "gmpRs": 73.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b976.27 crores in 2026 against \u20b9105.80 crores in 2025. The company reported profit of \u20b940.02 crores in 2026 against profit of \u20b934.46 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "Neutral",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b973 (+20.3% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Shankesh Jewellers Limited",
+      "symbol": "SHANKESH",
+      "priceBand": "Rs.88 to Rs.93",
+      "issueSizeCr": 257.0,
+      "qibSubscription": null,
+      "openDate": "18-Aug-2026",
+      "closeDate": "20-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 2.15,
+      "gmpRs": 2.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,630.93 crores in 2026 against \u20b91,403.94 crores in 2025. The company reported profit of \u20b9106.68 crores in 2026 against profit of \u20b940.31 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+2.1%) \u2014 thin grey-market interest"
+      ]
+    },
     {
       "company": "Lalithaa Jewellery Mart Limited",
       "symbol": "LALITHAA",
@@ -13,7 +62,7 @@
       "source": "NSE",
       "gmpPct": 14.92,
       "gmpRs": 30.0,
-      "board": "Mainboard",
+      "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b925,039.80 crores in 2026 against \u20b916,907.88 crores in 2025. The company reported profit of \u20b91009.82 crores in 2026 against profit of \u20b9364.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
@@ -36,18 +85,18 @@
       "closeDate": "19-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 6.67,
-      "gmpRs": 4.0,
-      "board": "Mainboard",
+      "gmpPct": 3.33,
+      "gmpRs": 2.0,
+      "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9767.84 crores in 2026 against \u20b9439.35 crores in 2025. The company reported loss of \u20b9203.65 crores in 2026 against loss of \u20b9178.78 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b94 (+6.7% est. listing)"
+        "IPO Watch review: May Apply"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+3.3%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -60,42 +109,18 @@
       "closeDate": "18-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 9.09,
-      "gmpRs": 7.0,
-      "board": "NSE SME",
+      "gmpPct": 2.6,
+      "gmpRs": 2.0,
+      "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b952.14 crores in 2026 against \u20b945.21 crores in 2025. The company reported profit of \u20b94.20 crores in 2026 against profit of \u20b93.71 crores in 2025 As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "Neutral",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b97 (+9.1% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "SME board \u2014 lower liquidity, higher volatility"
-      ]
-    },
-    {
-      "company": "Credent Connect N Care Limited",
-      "symbol": "CREDENT",
-      "priceBand": "\u2248\u20b9189 (upper, IPO Watch)",
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "13-Aug-2026",
-      "closeDate": "17-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 29.1,
-      "gmpRs": 55.0,
-      "board": "NSE SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9214.43 crores in 2026 against \u20b978.23 crores in 2025. The company reported profit of \u20b918.45 crores in 2026 against profit of \u20b92.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b955 (+29.1% est. listing)"
-      ],
-      "cons": [
-        "SME board \u2014 lower liquidity, higher volatility"
+        "Muted GMP (+2.6%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -110,7 +135,7 @@
       "source": "NSE",
       "gmpPct": 0.0,
       "gmpRs": 0.0,
-      "board": "NSE SME",
+      "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9117.23 crores in 2026 against \u20b960.28 crores in 2025. The company reported profit of \u20b915.07 crores in 2026 against profit of \u20b95.81 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": "Neutral",
@@ -119,8 +144,7 @@
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
-        "SME board \u2014 lower liquidity, higher volatility"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -133,9 +157,9 @@
       "closeDate": "21-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "Mainboard",
+      "gmpPct": 4.38,
+      "gmpRs": 7.0,
+      "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9157.80 crores in 2026 against \u20b9123.31 crores in 2025. The company reported profit of \u20b981.96 crores in 2026 against profit of \u20b961.95 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
@@ -144,57 +168,7 @@
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "Sunshine Pictures Limited",
-      "symbol": "SUNSHINE",
-      "priceBand": "Rs.342 to Rs.360",
-      "issueSizeCr": 282.1,
-      "qibSubscription": null,
-      "openDate": "18-Aug-2026",
-      "closeDate": "20-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 15.0,
-      "gmpRs": 54.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b976.27 crores in 2026 against \u20b9105.80 crores in 2025. The company reported profit of \u20b940.02 crores in 2026 against profit of \u20b934.46 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b954 (+15.0% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Shankesh Jewellers Limited",
-      "symbol": "SHANKESH",
-      "priceBand": "Rs.88 to Rs.93",
-      "issueSizeCr": 367.2,
-      "qibSubscription": null,
-      "openDate": "18-Aug-2026",
-      "closeDate": "20-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 5.38,
-      "gmpRs": 5.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,630.93 crores in 2026 against \u20b91,403.94 crores in 2025. The company reported profit of \u20b9106.68 crores in 2026 against profit of \u20b940.31 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b95 (+5.4% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+4.4%) \u2014 thin grey-market interest"
       ]
     }
   ]
