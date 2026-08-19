@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19 09:38 IST",
+  "lastUpdated": "2026-08-19 16:24 IST",
   "capitalPerRecoInr": 25000,
   "source": "Algorithmic recommendations logged by brAInvest \u00b7 marked-to-market with Yahoo Finance closes",
   "recommendations": [
@@ -26,7 +26,7 @@
       "recoDate": "2026-01-22",
       "entryPrice": 262.1,
       "qty": 95,
-      "ltp": 274.81,
+      "ltp": 274.62,
       "prevClose": 277.91,
       "status": "OPEN",
       "exitPrice": null,
@@ -86,7 +86,7 @@
       "recoDate": "2026-04-09",
       "entryPrice": 74.2,
       "qty": 335,
-      "ltp": 125.45,
+      "ltp": 125.73,
       "prevClose": 126.42,
       "status": "OPEN",
       "exitPrice": null,
@@ -116,7 +116,7 @@
       "recoDate": "2026-06-05",
       "entryPrice": 748.3,
       "qty": 33,
-      "ltp": 799.47,
+      "ltp": 799.85,
       "prevClose": 808.27,
       "status": "OPEN",
       "exitPrice": null,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19 09:38 IST",
+  "lastUpdated": "2026-08-19 16:24 IST",
   "ipos": [
     {
       "company": "Gaja Alternative Asset Management Limited",
@@ -16,10 +16,11 @@
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9157.80 crores in 2026 against \u20b9123.31 crores in 2025. The company reported profit of \u20b981.96 crores in 2026 against profit of \u20b961.95 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b930 (+18.8% est. listing)",
+        "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -174,6 +175,30 @@
       ]
     },
     {
+      "company": "Augmont Enterprises Limited",
+      "symbol": "AUGMONT",
+      "priceBand": "Rs.750 to Rs.788",
+      "issueSizeCr": 866.8,
+      "qibSubscription": null,
+      "openDate": "21-Aug-2026",
+      "closeDate": "25-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 24.11,
+      "gmpRs": 190.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b994,282.47 crores in 2026 against \u20b966,252.05 crores in 2025. The company reported profit of \u20b9348.30 crores in 2026 against profit of \u20b9227.19 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9190 (+24.1% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "Tempsens Instruments (India) Limited",
       "symbol": "TEMPSENS",
       "priceBand": "Rs.285 to Rs.300",
@@ -187,13 +212,38 @@
       "gmpRs": 170.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b9455.86 crores in 2026 against \u20b9382.47 crores in 2025. The company reported profit of \u20b971.07 crores in 2026 against profit of \u20b962.56 crores in 2025 As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b9170 (+56.7% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "ABH Healthcare Limited",
+      "symbol": "ABH",
+      "priceBand": "Rs.96 to Rs.102",
+      "issueSizeCr": 35.0,
+      "qibSubscription": null,
+      "openDate": "24-Aug-2026",
+      "closeDate": "27-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b952.59 crores in 2026 against \u20b949.32 crores in 2025. The company reported profit of \u20b95.64 crores in 2026 against profit of \u20b95.35 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     }
   ]
