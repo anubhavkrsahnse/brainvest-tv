@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 09:37 IST",
+  "lastUpdated": "2026-08-20 16:26 IST",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -18,7 +18,7 @@
     {
       "symbol": "MSFT",
       "price": 484.31,
-      "peRatio": 26.966038,
+      "peRatio": 26.816723,
       "marketCap": 3596265979904,
       "high52wProximityPct": 88.0,
       "rsi14": 63.5,
@@ -88,7 +88,7 @@
     {
       "symbol": "TSLA",
       "price": 351.12,
-      "peRatio": 325.11108,
+      "peRatio": 313.5,
       "marketCap": 1386765090816,
       "high52wProximityPct": 70.4,
       "rsi14": 53.4,

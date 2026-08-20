@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20 09:38 IST",
+  "lastUpdated": "2026-08-20 16:26 IST",
   "ipos": [
     {
       "company": "Tempsens Instruments (India) Limited",
@@ -102,73 +102,25 @@
       ]
     },
     {
-      "company": "Horizon Industrial Parks Limited",
-      "symbol": "HORIZONIND",
-      "priceBand": "Rs.57 to Rs.60",
-      "issueSizeCr": 1508.1,
-      "qibSubscription": null,
-      "openDate": "17-Aug-2026",
-      "closeDate": "19-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 1.67,
-      "gmpRs": 1.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9767.84 crores in 2026 against \u20b9439.35 crores in 2025. The company reported loss of \u20b9203.65 crores in 2026 against loss of \u20b9178.78 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "Muted GMP (+1.7%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "Lalithaa Jewellery Mart Limited",
-      "symbol": "LALITHAA",
-      "priceBand": "Rs.190 to Rs.201",
-      "issueSizeCr": 1261.5,
-      "qibSubscription": null,
-      "openDate": "17-Aug-2026",
-      "closeDate": "19-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 27.36,
-      "gmpRs": 55.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b925,039.80 crores in 2026 against \u20b916,907.88 crores in 2025. The company reported profit of \u20b91009.82 crores in 2026 against profit of \u20b9364.73 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b955 (+27.4% est. listing)",
-        "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Symbiotec Pharmalab Limited",
-      "symbol": "SYMBIOTEC",
-      "priceBand": "Rs.938 to Rs.988",
-      "issueSizeCr": 1851.0,
+      "company": "Hy-Tech Engineers Limited",
+      "symbol": "HTEL",
+      "priceBand": "Rs.50 to Rs.53",
+      "issueSizeCr": 139.3,
       "qibSubscription": null,
       "openDate": "24-Aug-2026",
       "closeDate": "27-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 20.24,
-      "gmpRs": 200.0,
+      "gmpPct": 9.43,
+      "gmpRs": 5.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b9193.44 crores in 2026 against \u20b9166.71 crores in 2025. The company reported profit of \u20b922.59 crores in 2026 against profit of \u20b919.62 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9200 (+20.2% est. listing)"
+        "Positive GMP: \u20b95 (+9.4% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -193,6 +145,30 @@
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b940 (+29.0% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Symbiotec Pharmalab Limited",
+      "symbol": "SYMBIOTEC",
+      "priceBand": "Rs.938 to Rs.988",
+      "issueSizeCr": 1851.0,
+      "qibSubscription": null,
+      "openDate": "24-Aug-2026",
+      "closeDate": "27-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 20.24,
+      "gmpRs": 200.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9200 (+20.2% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
