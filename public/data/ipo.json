@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-20 16:26 IST",
+  "lastUpdated": "2026-08-21 09:39 IST",
   "ipos": [
+    {
+      "company": "Augmont Enterprises Limited",
+      "symbol": "AUGMONT",
+      "priceBand": "Rs.750 to Rs.788",
+      "issueSizeCr": 608.0,
+      "qibSubscription": null,
+      "openDate": "21-Aug-2026",
+      "closeDate": "25-Aug-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 36.26,
+      "gmpRs": 285.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b994,282.47 crores in 2026 against \u20b966,252.05 crores in 2025. The company reported profit of \u20b9348.30 crores in 2026 against profit of \u20b9227.19 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9285 (+36.3% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Tempsens Instruments (India) Limited",
       "symbol": "TEMPSENS",
@@ -11,15 +35,15 @@
       "closeDate": "24-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 73.33,
-      "gmpRs": 220.0,
+      "gmpPct": 83.33,
+      "gmpRs": 250.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9455.86 crores in 2026 against \u20b9382.47 crores in 2025. The company reported profit of \u20b971.07 crores in 2026 against profit of \u20b962.56 crores in 2025 As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9220 (+73.3% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b9250 (+83.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -36,15 +60,15 @@
       "closeDate": "21-Aug-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 15.63,
-      "gmpRs": 25.0,
+      "gmpPct": 11.25,
+      "gmpRs": 18.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9157.80 crores in 2026 against \u20b9123.31 crores in 2025. The company reported profit of \u20b981.96 crores in 2026 against profit of \u20b961.95 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b925 (+15.6% est. listing)",
+        "Positive GMP: \u20b918 (+11.2% est. listing)",
         "IPO Watch review: May Apply",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
@@ -60,7 +84,7 @@
       "qibSubscription": null,
       "openDate": "18-Aug-2026",
       "closeDate": "20-Aug-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
       "gmpPct": 22.22,
       "gmpRs": 80.0,
@@ -85,20 +109,45 @@
       "qibSubscription": null,
       "openDate": "18-Aug-2026",
       "closeDate": "20-Aug-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 2.15,
-      "gmpRs": 2.0,
+      "gmpPct": 5.38,
+      "gmpRs": 5.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,630.93 crores in 2026 against \u20b91,403.94 crores in 2025. The company reported profit of \u20b9106.68 crores in 2026 against profit of \u20b940.31 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
+        "Positive GMP: \u20b95 (+5.4% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+2.1%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Symbiotec Pharmalab Limited",
+      "symbol": "SYMBIOTEC",
+      "priceBand": "Rs.938 to Rs.988",
+      "issueSizeCr": 1851.0,
+      "qibSubscription": null,
+      "openDate": "24-Aug-2026",
+      "closeDate": "27-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 32.39,
+      "gmpRs": 320.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9320 (+32.4% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -111,15 +160,15 @@
       "closeDate": "27-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 9.43,
-      "gmpRs": 5.0,
+      "gmpPct": 41.51,
+      "gmpRs": 22.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9193.44 crores in 2026 against \u20b9166.71 crores in 2025. The company reported profit of \u20b922.59 crores in 2026 against profit of \u20b919.62 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b95 (+9.4% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b922 (+41.5% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -151,54 +200,6 @@
       ]
     },
     {
-      "company": "Symbiotec Pharmalab Limited",
-      "symbol": "SYMBIOTEC",
-      "priceBand": "Rs.938 to Rs.988",
-      "issueSizeCr": 1851.0,
-      "qibSubscription": null,
-      "openDate": "24-Aug-2026",
-      "closeDate": "27-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 20.24,
-      "gmpRs": 200.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9200 (+20.2% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Augmont Enterprises Limited",
-      "symbol": "AUGMONT",
-      "priceBand": "Rs.750 to Rs.788",
-      "issueSizeCr": 866.8,
-      "qibSubscription": null,
-      "openDate": "21-Aug-2026",
-      "closeDate": "25-Aug-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 34.35,
-      "gmpRs": 270.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b994,282.47 crores in 2026 against \u20b966,252.05 crores in 2025. The company reported profit of \u20b9348.30 crores in 2026 against profit of \u20b9227.19 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9270 (+34.4% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Sumax Engineering Limited",
       "symbol": "SUMAX",
       "priceBand": "Rs.95 to Rs.101",
@@ -208,19 +209,43 @@
       "closeDate": "28-Aug-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 29.7,
-      "gmpRs": 30.0,
+      "gmpPct": 31.68,
+      "gmpRs": 32.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9148.34 crores in 2026 against \u20b9147.18 crores in 2025. The company reported profit of \u20b912.76 crores in 2026 against profit of \u20b99.98 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b930 (+29.7% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b932 (+31.7% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Madhur Knit Crafts Limited",
+      "symbol": "MADHURKNIT",
+      "priceBand": "Rs.95 to Rs.100",
+      "issueSizeCr": 53.3,
+      "qibSubscription": null,
+      "openDate": "24-Aug-2026",
+      "closeDate": "27-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9171.76 crores in 2025 against \u20b9108.41 crores in 2024. The company reported profit of \u20b911.03 crores in 2025 against profit of \u20b91.70 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
