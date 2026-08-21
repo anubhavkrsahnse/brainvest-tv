@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21 09:39 IST",
+  "lastUpdated": "2026-08-21 16:26 IST",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -8,7 +8,7 @@
       "marketCap": 4543167856640,
       "high52wProximityPct": 90.4,
       "rsi14": 49.0,
-      "avgDailyVolume": 56596277,
+      "avgDailyVolume": 56379909,
       "buyLevel": 309.06,
       "bidLevel": 295.73,
       "sellLevel": 340.83,
@@ -32,7 +32,7 @@
     {
       "symbol": "NVDA",
       "price": 216.85,
-      "peRatio": 33.31029,
+      "peRatio": 33.20827,
       "marketCap": 5252323999744,
       "high52wProximityPct": 91.8,
       "rsi14": 53.4,
@@ -50,7 +50,7 @@
       "marketCap": 4166372032512,
       "high52wProximityPct": 83.4,
       "rsi14": 44.0,
-      "avgDailyVolume": 32133217,
+      "avgDailyVolume": 32017655,
       "buyLevel": 340.2,
       "bidLevel": 323.64,
       "sellLevel": 404.28,
@@ -60,7 +60,7 @@
     {
       "symbol": "AMZN",
       "price": 260.11,
-      "peRatio": 20.909164,
+      "peRatio": 21.373047,
       "marketCap": 2805627879424,
       "high52wProximityPct": 90.6,
       "rsi14": 50.9,
