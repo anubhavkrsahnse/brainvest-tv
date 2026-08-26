@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26 09:40 IST",
+  "lastUpdated": "2026-08-26 16:30 IST",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -18,7 +18,7 @@
     {
       "symbol": "MSFT",
       "price": 491.71,
-      "peRatio": 27.181314,
+      "peRatio": 27.393312,
       "marketCap": 3651215032320,
       "high52wProximityPct": 89.5,
       "rsi14": 66.2,
@@ -46,7 +46,7 @@
     {
       "symbol": "GOOGL",
       "price": 346.96,
-      "peRatio": 17.452717,
+      "peRatio": 17.41767,
       "marketCap": 4243298189312,
       "high52wProximityPct": 85.0,
       "rsi14": 48.7,
@@ -60,7 +60,7 @@
     {
       "symbol": "AMZN",
       "price": 261.06,
-      "peRatio": 21.019323,
+      "peRatio": 21.002413,
       "marketCap": 2815874826240,
       "high52wProximityPct": 90.9,
       "rsi14": 51.6,
