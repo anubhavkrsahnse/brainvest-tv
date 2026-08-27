@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2026-08-27 19:58 IST",
+  "lastUpdated": "2026-08-28 02:09 IST",
   "ipos": [
+    {
+      "company": "ESDS Software Solution Limited",
+      "symbol": "ESDS",
+      "priceBand": "Rs.408 to Rs.429",
+      "issueSizeCr": 529.9,
+      "qibSubscription": null,
+      "openDate": "28-Aug-2026",
+      "closeDate": "01-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 78.09,
+      "gmpRs": 335.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9480.65 crores in 2026 against \u20b9376.64 crore in 2025. The company reported profit of \u20b9120.82 crores in 2026 against profit of \u20b955.61 crores in 2025..",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9335 (+78.1% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Priority Jewels Limited",
+      "symbol": "PRIORITY",
+      "priceBand": "Rs.190 to Rs.200",
+      "issueSizeCr": 64.0,
+      "qibSubscription": null,
+      "openDate": "28-Aug-2026",
+      "closeDate": "01-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 10.0,
+      "gmpRs": 20.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9539.03 crores in 2026 against \u20b9435.87 crore in 2025. The company reported profit of \u20b917.65 crores in 2026 against profit of \u20b910.51 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b920 (+10.0% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Lumino Industries Limited",
       "symbol": "LUMINO",
@@ -51,83 +100,6 @@
       ]
     },
     {
-      "company": "Hy-Tech Engineers Limited",
-      "symbol": "HTEL",
-      "priceBand": "Rs.50 to Rs.53",
-      "issueSizeCr": 96.2,
-      "qibSubscription": null,
-      "openDate": "24-Aug-2026",
-      "closeDate": "27-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 83.02,
-      "gmpRs": 44.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9193.44 crores in 2026 against \u20b9166.71 crores in 2025. The company reported profit of \u20b922.59 crores in 2026 against profit of \u20b919.62 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b944 (+83.0% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Skyways Air Services Limited",
-      "symbol": "SKYWAYS",
-      "priceBand": "Rs.131 to Rs.138",
-      "issueSizeCr": 408.3,
-      "qibSubscription": null,
-      "openDate": "24-Aug-2026",
-      "closeDate": "27-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 33.33,
-      "gmpRs": 46.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b92,839.67 crores in 2026 against \u20b92,270.99 crores in 2025. The company reported profit of \u20b963.52 crores in 2026 against profit of \u20b9\u20b948.14 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b946 (+33.3% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Symbiotec Pharmalab Limited",
-      "symbol": "SYMBIOTEC",
-      "priceBand": "Rs.938 to Rs.988",
-      "issueSizeCr": 1296.7,
-      "qibSubscription": null,
-      "openDate": "24-Aug-2026",
-      "closeDate": "27-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 27.83,
-      "gmpRs": 275.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9275 (+27.8% est. listing)",
-        "IPO Watch review: May Apply"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Sumax Engineering Limited",
       "symbol": "SUMAX",
       "priceBand": "\u2248\u20b9101 (upper, IPO Watch)",
@@ -152,51 +124,80 @@
       ]
     },
     {
-      "company": "Madhur Knit Crafts Limited",
-      "symbol": "MADHURKNIT",
-      "priceBand": "\u2248\u20b9100 (upper, IPO Watch)",
-      "issueSizeCr": null,
+      "company": "Hy-Tech Engineers Limited",
+      "symbol": "HTEL",
+      "priceBand": "Rs.50 to Rs.53",
+      "issueSizeCr": 96.2,
       "qibSubscription": null,
       "openDate": "24-Aug-2026",
       "closeDate": "27-Aug-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
+      "gmpPct": 83.02,
+      "gmpRs": 44.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9171.76 crores in 2025 against \u20b9108.41 crores in 2024. The company reported profit of \u20b911.03 crores in 2025 against profit of \u20b91.70 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
+      "moat": "The company reported revenue of \u20b9193.44 crores in 2026 against \u20b9166.71 crores in 2025. The company reported profit of \u20b922.59 crores in 2026 against profit of \u20b919.62 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b944 (+83.0% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "ABH Healthcare Limited",
-      "symbol": "ABH",
-      "priceBand": "\u2248\u20b9102 (upper, IPO Watch)",
-      "issueSizeCr": null,
+      "company": "Symbiotec Pharmalab Limited",
+      "symbol": "SYMBIOTEC",
+      "priceBand": "Rs.938 to Rs.988",
+      "issueSizeCr": 1296.7,
       "qibSubscription": null,
       "openDate": "24-Aug-2026",
       "closeDate": "27-Aug-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
+      "gmpPct": 27.83,
+      "gmpRs": 275.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b952.59 crores in 2026 against \u20b949.32 crores in 2025. The company reported profit of \u20b95.64 crores in 2026 against profit of \u20b95.35 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
+      "moat": "The company reported revenue of \u20b9872.26 crores in 2026 against \u20b9755.98 crores in 2025. The company reported profit of \u20b9109.90 crores in 2026 against profit of \u20b996.79 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b9275 (+27.8% est. listing)",
+        "IPO Watch review: May Apply"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Skyways Air Services Limited",
+      "symbol": "SKYWAYS",
+      "priceBand": "Rs.131 to Rs.138",
+      "issueSizeCr": 408.3,
+      "qibSubscription": null,
+      "openDate": "24-Aug-2026",
+      "closeDate": "27-Aug-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 33.33,
+      "gmpRs": 46.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b92,839.67 crores in 2026 against \u20b92,270.99 crores in 2025. The company reported profit of \u20b963.52 crores in 2026 against profit of \u20b9\u20b948.14 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": "May Apply",
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b946 (+33.3% est. listing)",
+        "IPO Watch review: May Apply",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -221,55 +222,6 @@
       ],
       "cons": [
         "Muted GMP (+0.0%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "Priority Jewels Limited",
-      "symbol": "PRIORITY",
-      "priceBand": "Rs.190 to Rs.200",
-      "issueSizeCr": 64.0,
-      "qibSubscription": null,
-      "openDate": "28-Aug-2026",
-      "closeDate": "01-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 10.0,
-      "gmpRs": 20.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9539.03 crores in 2026 against \u20b9435.87 crore in 2025. The company reported profit of \u20b917.65 crores in 2026 against profit of \u20b910.51 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b920 (+10.0% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "ESDS Software Solution Limited",
-      "symbol": "ESDS",
-      "priceBand": "Rs.408 to Rs.429",
-      "issueSizeCr": 757.1,
-      "qibSubscription": null,
-      "openDate": "28-Aug-2026",
-      "closeDate": "01-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 78.09,
-      "gmpRs": 335.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9480.65 crores in 2026 against \u20b9376.64 crore in 2025. The company reported profit of \u20b9120.82 crores in 2026 against profit of \u20b955.61 crores in 2025..",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9335 (+78.1% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
       ]
     },
     {
