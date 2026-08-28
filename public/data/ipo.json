@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28 21:04 IST",
+  "lastUpdated": "2026-08-29 02:42 IST",
   "ipos": [
     {
       "company": "ESDS Software Solution Limited",
@@ -84,7 +84,7 @@
       "qibSubscription": null,
       "openDate": "25-Aug-2026",
       "closeDate": "28-Aug-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
       "gmpPct": 7.07,
       "gmpRs": 7.0,
@@ -96,30 +96,6 @@
       "pros": [
         "Positive GMP: \u20b97 (+7.1% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Sumax Engineering Limited",
-      "symbol": "SUMAX",
-      "priceBand": "\u2248\u20b9101 (upper, IPO Watch)",
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "25-Aug-2026",
-      "closeDate": "28-Aug-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 34.65,
-      "gmpRs": 35.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9148.34 crores in 2026 against \u20b9147.18 crores in 2025. The company reported profit of \u20b912.76 crores in 2026 against profit of \u20b99.98 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "Neutral",
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b935 (+34.6% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
