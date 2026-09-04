@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-03 20:10 IST",
+  "lastUpdated": "2026-09-04 13:39 IST",
   "ipos": [
+    {
+      "company": "Qualiance International Limited",
+      "symbol": "QUALIANCE",
+      "priceBand": "\u2248\u20b9127 (upper, IPO Watch)",
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "04-Sep-2026",
+      "closeDate": "08-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 43.31,
+      "gmpRs": 55.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b980.95 crores in 2026 against \u20b955.06 crores in 2025. The company reported profit of \u20b911.87 crores in 2026 against profit of \u20b94.90 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b955 (+43.3% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Deepa Jewellers Limited",
       "symbol": "DEEPA",
@@ -9,7 +33,7 @@
       "qibSubscription": null,
       "openDate": "01-Sep-2026",
       "closeDate": "03-Sep-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
       "gmpPct": 10.17,
       "gmpRs": 18.0,
@@ -35,7 +59,7 @@
       "qibSubscription": null,
       "openDate": "01-Sep-2026",
       "closeDate": "03-Sep-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
       "gmpPct": 6.28,
       "gmpRs": 15.0,
@@ -61,15 +85,15 @@
       "closeDate": "10-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 8.24,
-      "gmpRs": 15.0,
+      "gmpPct": 10.99,
+      "gmpRs": 20.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9471.43 crores in 2026 against \u20b9288.14 crores in 2025. The company reported profit of \u20b983.79 crores in 2026 against profit of \u20b957.51 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b915 (+8.2% est. listing)",
+        "Positive GMP: \u20b920 (+11.0% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -86,15 +110,15 @@
       "closeDate": "10-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 23.73,
-      "gmpRs": 150.0,
+      "gmpPct": 31.65,
+      "gmpRs": 200.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9150 (+23.7% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b9200 (+31.6% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -110,40 +134,15 @@
       "closeDate": "09-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 21.77,
-      "gmpRs": 27.0,
+      "gmpPct": 25.0,
+      "gmpRs": 31.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9763.93 crores in 2026 against \u20b9638.24 crores in 2025. The company reported profit of \u20b971.32 crores in 2026 against profit of \u20b962.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b927 (+21.8% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Qualiance International Limited",
-      "symbol": "QUALIANCE",
-      "priceBand": "Rs.120 to Rs.127",
-      "issueSizeCr": 32.3,
-      "qibSubscription": null,
-      "openDate": "04-Sep-2026",
-      "closeDate": "08-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 43.31,
-      "gmpRs": 55.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b980.95 crores in 2026 against \u20b955.06 crores in 2025. The company reported profit of \u20b911.87 crores in 2026 against profit of \u20b94.90 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b955 (+43.3% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b931 (+25.0% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
