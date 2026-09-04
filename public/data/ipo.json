@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04 13:39 IST",
+  "lastUpdated": "2026-09-04 19:58 IST",
   "ipos": [
     {
       "company": "Qualiance International Limited",
@@ -26,53 +26,51 @@
       ]
     },
     {
-      "company": "Deepa Jewellers Limited",
-      "symbol": "DEEPA",
-      "priceBand": "Rs.168 to Rs.177",
-      "issueSizeCr": 327.8,
+      "company": "Kanohar Electricals Limited",
+      "symbol": "KANOHAR",
+      "priceBand": "Rs.601 to Rs.632",
+      "issueSizeCr": 1071.2,
       "qibSubscription": null,
-      "openDate": "01-Sep-2026",
-      "closeDate": "03-Sep-2026",
+      "openDate": "08-Sep-2026",
+      "closeDate": "10-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 10.17,
-      "gmpRs": 18.0,
+      "gmpPct": 31.65,
+      "gmpRs": 200.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,927.73 crores in 2026 against \u20b91,400.10 crores in 2025. The company reported profit of \u20b9104.79 crores in 2026 against profit of \u20b940.58 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": "May Apply",
+      "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b918 (+10.2% est. listing)",
-        "IPO Watch review: May Apply",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "Strong grey-market sentiment: GMP \u20b9200 (+31.6% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "Rays of Belief Limited- For Profit Social Enterprise (FPSE)",
-      "symbol": "MOMSBELIEF",
-      "priceBand": "Rs.227 to Rs.239",
-      "issueSizeCr": 75.0,
+      "company": "Prasol Chemicals Limited",
+      "symbol": "PRASOLCHEM",
+      "priceBand": "Rs.643 to Rs.676",
+      "issueSizeCr": 525.7,
       "qibSubscription": null,
-      "openDate": "01-Sep-2026",
-      "closeDate": "03-Sep-2026",
+      "openDate": "08-Sep-2026",
+      "closeDate": "10-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 6.28,
-      "gmpRs": 15.0,
+      "gmpPct": 2.07,
+      "gmpRs": 14.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b91,237.85 crores in 2026 against \u20b91,015.54 crores in 2025. The company reported profit of \u20b983.12 crores in 2026 against profit of \u20b943.57 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b915 (+6.3% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+2.1%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -95,30 +93,6 @@
       "pros": [
         "Positive GMP: \u20b920 (+11.0% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Kanohar Electricals Limited",
-      "symbol": "KANOHAR",
-      "priceBand": "Rs.601 to Rs.632",
-      "issueSizeCr": 1071.2,
-      "qibSubscription": null,
-      "openDate": "08-Sep-2026",
-      "closeDate": "10-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 31.65,
-      "gmpRs": 200.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9200 (+31.6% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
