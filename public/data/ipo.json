@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-09-04 19:58 IST",
+  "lastUpdated": "2026-09-07 14:04 IST",
   "ipos": [
+    {
+      "company": "Pranav Constructions Limited",
+      "symbol": "PRANAV",
+      "priceBand": "Rs.118 to Rs.124",
+      "issueSizeCr": 278.5,
+      "qibSubscription": null,
+      "openDate": "07-Sep-2026",
+      "closeDate": "09-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 35.48,
+      "gmpRs": 44.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9763.93 crores in 2026 against \u20b9638.24 crores in 2025. The company reported profit of \u20b971.32 crores in 2026 against profit of \u20b962.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b944 (+35.5% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Qualiance International Limited",
       "symbol": "QUALIANCE",
@@ -26,24 +51,47 @@
       ]
     },
     {
-      "company": "Kanohar Electricals Limited",
-      "symbol": "KANOHAR",
-      "priceBand": "Rs.601 to Rs.632",
-      "issueSizeCr": 1071.2,
+      "company": "Rentomojo Limited",
+      "symbol": "RENTOMOJO",
+      "priceBand": "Rs.384 to Rs.404",
+      "issueSizeCr": 1263.5,
       "qibSubscription": null,
-      "openDate": "08-Sep-2026",
-      "closeDate": "10-Sep-2026",
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 31.65,
-      "gmpRs": 200.0,
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "LCC Projects Limited",
+      "symbol": "LCCPROJECT",
+      "priceBand": "Rs.139 to Rs.146",
+      "issueSizeCr": 440.1,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 17.12,
+      "gmpRs": 25.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b93,639.45 crores in 2026 against \u20b92,941.01 crores in 2025. The company reported profit of \u20b9286.44 crores in 2026 against profit of \u20b9223.63 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9200 (+31.6% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b925 (+17.1% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -59,18 +107,42 @@
       "closeDate": "10-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 2.07,
-      "gmpRs": 14.0,
+      "gmpPct": 17.75,
+      "gmpRs": 120.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,237.85 crores in 2026 against \u20b91,015.54 crores in 2025. The company reported profit of \u20b983.12 crores in 2026 against profit of \u20b943.57 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b9120 (+17.8% est. listing)"
       ],
       "cons": [
-        "Muted GMP (+2.1%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Kanohar Electricals Limited",
+      "symbol": "KANOHAR",
+      "priceBand": "Rs.601 to Rs.632",
+      "issueSizeCr": 1071.2,
+      "qibSubscription": null,
+      "openDate": "08-Sep-2026",
+      "closeDate": "10-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 32.44,
+      "gmpRs": 205.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9205 (+32.4% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -83,40 +155,15 @@
       "closeDate": "10-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 10.99,
-      "gmpRs": 20.0,
+      "gmpPct": 19.23,
+      "gmpRs": 35.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9471.43 crores in 2026 against \u20b9288.14 crores in 2025. The company reported profit of \u20b983.79 crores in 2026 against profit of \u20b957.51 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b920 (+11.0% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Pranav Constructions Limited",
-      "symbol": "PRANAV",
-      "priceBand": "Rs.118 to Rs.124",
-      "issueSizeCr": 367.1,
-      "qibSubscription": null,
-      "openDate": "07-Sep-2026",
-      "closeDate": "09-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 25.0,
-      "gmpRs": 31.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9763.93 crores in 2026 against \u20b9638.24 crores in 2025. The company reported profit of \u20b971.32 crores in 2026 against profit of \u20b962.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b931 (+25.0% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b935 (+19.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
