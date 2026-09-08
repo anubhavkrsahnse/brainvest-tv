@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08 13:46 IST",
+  "lastUpdated": "2026-09-08 20:11 IST",
   "ipos": [
     {
       "company": "Prasol Chemicals Limited",
@@ -125,6 +125,55 @@
       ]
     },
     {
+      "company": "Veegaland Developers Limited",
+      "symbol": "VEEGALAND",
+      "priceBand": "Rs.130 to Rs.140",
+      "issueSizeCr": 226.2,
+      "qibSubscription": null,
+      "openDate": "10-Sep-2026",
+      "closeDate": "15-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 21.43,
+      "gmpRs": 30.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9254.16 crores in 2026 against \u20b9196.22 crores in 2025. The company reported profit of \u20b926.61 crores in 2026 against profit of \u20b920.43 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b930 (+21.4% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Karamtara Engineering Limited",
+      "symbol": "KARAMTARA",
+      "priceBand": "Rs.241 to Rs.254",
+      "issueSizeCr": 645.5,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 22.83,
+      "gmpRs": 58.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,316.36 crores in 2026 against \u20b93,165.36 crores in 2025. The company reported profit of \u20b9228.75 crores in 2026 against profit of \u20b9139.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b958 (+22.8% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "Asset Reconstruction Company (India) Limited",
       "symbol": "ARCIL",
       "priceBand": "Rs.132 to Rs.139",
@@ -152,7 +201,7 @@
       "company": "Steamhouse India Limited",
       "symbol": "STEAMHOUSE",
       "priceBand": "Rs.77 to Rs.81",
-      "issueSizeCr": 435.5,
+      "issueSizeCr": 304.9,
       "qibSubscription": null,
       "openDate": "09-Sep-2026",
       "closeDate": "11-Sep-2026",
@@ -195,6 +244,28 @@
       ]
     },
     {
+      "company": "Rentomojo Limited",
+      "symbol": "RENTOMOJO",
+      "priceBand": "Rs.384 to Rs.404",
+      "issueSizeCr": 1263.5,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "LCC Projects Limited",
       "symbol": "LCCPROJECT",
       "priceBand": "Rs.139 to Rs.146",
@@ -214,52 +285,6 @@
       "pros": [
         "Strong grey-market sentiment: GMP \u20b925 (+17.1% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Karamtara Engineering Limited",
-      "symbol": "KARAMTARA",
-      "priceBand": "Rs.241 to Rs.254",
-      "issueSizeCr": 922.2,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 22.83,
-      "gmpRs": 58.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,316.36 crores in 2026 against \u20b93,165.36 crores in 2025. The company reported profit of \u20b9228.75 crores in 2026 against profit of \u20b9139.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b958 (+22.8% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Rentomojo Limited",
-      "symbol": "RENTOMOJO",
-      "priceBand": "Rs.384 to Rs.404",
-      "issueSizeCr": 1263.5,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
