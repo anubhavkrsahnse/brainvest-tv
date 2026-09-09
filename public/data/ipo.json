@@ -1,6 +1,148 @@
 {
-  "lastUpdated": "2026-09-08 20:11 IST",
+  "lastUpdated": "2026-09-09 13:50 IST",
   "ipos": [
+    {
+      "company": "LCC Projects Limited",
+      "symbol": "LCCPROJECT",
+      "priceBand": "Rs.139 to Rs.146",
+      "issueSizeCr": 305.5,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 22.6,
+      "gmpRs": 33.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b93,639.45 crores in 2026 against \u20b92,941.01 crores in 2025. The company reported profit of \u20b9286.44 crores in 2026 against profit of \u20b9223.63 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b933 (+22.6% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Karamtara Engineering Limited",
+      "symbol": "KARAMTARA",
+      "priceBand": "Rs.241 to Rs.254",
+      "issueSizeCr": 645.5,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 27.17,
+      "gmpRs": 69.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,316.36 crores in 2026 against \u20b93,165.36 crores in 2025. The company reported profit of \u20b9228.75 crores in 2026 against profit of \u20b9139.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b969 (+27.2% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Asset Reconstruction Company (India) Limited",
+      "symbol": "ARCIL",
+      "priceBand": "Rs.132 to Rs.139",
+      "issueSizeCr": 513.1,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 19.42,
+      "gmpRs": 27.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9749.92 crores in 2026 against \u20b9607.84 crores in 2025. The company reported profit of \u20b9322.69 crores in 2026 against profit of \u20b9309.24 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b927 (+19.4% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Steamhouse India Limited",
+      "symbol": "STEAMHOUSE",
+      "priceBand": "Rs.77 to Rs.81",
+      "issueSizeCr": 304.9,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Manipal Payment and Identity Solutions Limited",
+      "symbol": "MPIMANIPAL",
+      "priceBand": "Rs.322 to Rs.339",
+      "issueSizeCr": 442.8,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 11.21,
+      "gmpRs": 38.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,356.59 crores in 2026 against \u20b91,277.11 crores in 2025. The company reported profit of \u20b9253.46 crores in 2026 against profit of \u20b9282.21 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b938 (+11.2% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Rentomojo Limited",
+      "symbol": "RENTOMOJO",
+      "priceBand": "Rs.384 to Rs.404",
+      "issueSizeCr": 879.6,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Prasol Chemicals Limited",
       "symbol": "PRASOLCHEM",
@@ -11,15 +153,15 @@
       "closeDate": "10-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 12.57,
-      "gmpRs": 85.0,
+      "gmpPct": 5.91,
+      "gmpRs": 40.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,237.85 crores in 2026 against \u20b91,015.54 crores in 2025. The company reported profit of \u20b983.12 crores in 2026 against profit of \u20b943.57 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b985 (+12.6% est. listing)",
+        "Positive GMP: \u20b940 (+5.9% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -36,15 +178,14 @@
       "closeDate": "10-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 27.47,
-      "gmpRs": 50.0,
+      "gmpPct": 30.22,
+      "gmpRs": 55.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9471.43 crores in 2026 against \u20b9288.14 crores in 2025. The company reported profit of \u20b983.79 crores in 2026 against profit of \u20b957.51 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b950 (+27.5% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b955 (+30.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -61,15 +202,15 @@
       "closeDate": "10-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 31.33,
-      "gmpRs": 198.0,
+      "gmpPct": 34.49,
+      "gmpRs": 218.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9198 (+31.3% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b9218 (+34.5% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -101,24 +242,24 @@
       ]
     },
     {
-      "company": "Qualiance International Limited",
-      "symbol": "QUALIANCE",
-      "priceBand": "\u2248\u20b9127 (upper, IPO Watch)",
+      "company": "Vinod Texworld Limited",
+      "symbol": "VINOD",
+      "priceBand": "\u2248\u20b994 (upper, IPO Watch)",
       "issueSizeCr": null,
       "qibSubscription": null,
-      "openDate": "04-Sep-2026",
-      "closeDate": "08-Sep-2026",
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 46.46,
-      "gmpRs": 59.0,
+      "gmpPct": 8.51,
+      "gmpRs": 8.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b980.95 crores in 2026 against \u20b955.06 crores in 2025. The company reported profit of \u20b911.87 crores in 2026 against profit of \u20b94.90 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b9342.96 crores in 2026 against \u20b9335.74 crores in 2025. The company reported profit of \u20b910.41 crores in 2026 against profit of \u20b99.23 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b959 (+46.5% est. listing)"
+        "Positive GMP: \u20b98 (+8.5% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -143,172 +284,6 @@
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b930 (+21.4% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Karamtara Engineering Limited",
-      "symbol": "KARAMTARA",
-      "priceBand": "Rs.241 to Rs.254",
-      "issueSizeCr": 645.5,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 22.83,
-      "gmpRs": 58.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,316.36 crores in 2026 against \u20b93,165.36 crores in 2025. The company reported profit of \u20b9228.75 crores in 2026 against profit of \u20b9139.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b958 (+22.8% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Asset Reconstruction Company (India) Limited",
-      "symbol": "ARCIL",
-      "priceBand": "Rs.132 to Rs.139",
-      "issueSizeCr": 733.0,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 19.42,
-      "gmpRs": 27.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9749.92 crores in 2026 against \u20b9607.84 crores in 2025. The company reported profit of \u20b9322.69 crores in 2026 against profit of \u20b9309.24 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b927 (+19.4% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Steamhouse India Limited",
-      "symbol": "STEAMHOUSE",
-      "priceBand": "Rs.77 to Rs.81",
-      "issueSizeCr": 304.9,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Manipal Payment and Identity Solutions Limited",
-      "symbol": "MPIMANIPAL",
-      "priceBand": "Rs.322 to Rs.339",
-      "issueSizeCr": 821.9,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 11.21,
-      "gmpRs": 38.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,356.59 crores in 2026 against \u20b91,277.11 crores in 2025. The company reported profit of \u20b9253.46 crores in 2026 against profit of \u20b9282.21 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b938 (+11.2% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Rentomojo Limited",
-      "symbol": "RENTOMOJO",
-      "priceBand": "Rs.384 to Rs.404",
-      "issueSizeCr": 1263.5,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "LCC Projects Limited",
-      "symbol": "LCCPROJECT",
-      "priceBand": "Rs.139 to Rs.146",
-      "issueSizeCr": 440.1,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 17.12,
-      "gmpRs": 25.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b93,639.45 crores in 2026 against \u20b92,941.01 crores in 2025. The company reported profit of \u20b9286.44 crores in 2026 against profit of \u20b9223.63 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b925 (+17.1% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Vinod Texworld Limited",
-      "symbol": "VINOD",
-      "priceBand": "Rs.94",
-      "issueSizeCr": 42.8,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 8.51,
-      "gmpRs": 8.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9335.56 crores in 2025 against \u20b9271.65 crores in 2024. The company reported profit of \u20b99.21 crores in 2025 against profit of \u20b95.30 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b98 (+8.5% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
