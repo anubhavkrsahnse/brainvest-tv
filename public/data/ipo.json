@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09 13:50 IST",
+  "lastUpdated": "2026-09-09 20:13 IST",
   "ipos": [
     {
       "company": "LCC Projects Limited",
@@ -182,8 +182,9 @@
       "gmpRs": 55.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b9471.43 crores in 2026 against \u20b9288.14 crores in 2025. The company reported profit of \u20b983.79 crores in 2026 against profit of \u20b957.51 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b955 (+30.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
@@ -266,10 +267,35 @@
       ]
     },
     {
+      "company": "Manika Plastech Limited",
+      "symbol": "MANIKA",
+      "priceBand": "Rs.40 to Rs.43",
+      "issueSizeCr": 132.4,
+      "qibSubscription": null,
+      "openDate": "11-Sep-2026",
+      "closeDate": "16-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 39.53,
+      "gmpRs": 17.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9437.26 crores in 2026 against \u20b9412.59 crores in 2025. The company reported profit of \u20b922.40 crores in 2026 against profit of \u20b919.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b917 (+39.5% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "Veegaland Developers Limited",
       "symbol": "VEEGALAND",
       "priceBand": "Rs.130 to Rs.140",
-      "issueSizeCr": 226.2,
+      "issueSizeCr": 158.3,
       "qibSubscription": null,
       "openDate": "10-Sep-2026",
       "closeDate": "15-Sep-2026",
