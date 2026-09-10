@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-09-09 20:13 IST",
+  "lastUpdated": "2026-09-10 13:49 IST",
   "ipos": [
+    {
+      "company": "Veegaland Developers Limited",
+      "symbol": "VEEGALAND",
+      "priceBand": "Rs.130 to Rs.140",
+      "issueSizeCr": 158.3,
+      "qibSubscription": null,
+      "openDate": "10-Sep-2026",
+      "closeDate": "15-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 17.14,
+      "gmpRs": 24.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9254.16 crores in 2026 against \u20b9196.22 crores in 2025. The company reported profit of \u20b926.61 crores in 2026 against profit of \u20b920.43 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b924 (+17.1% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "LCC Projects Limited",
       "symbol": "LCCPROJECT",
@@ -11,15 +36,15 @@
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 22.6,
-      "gmpRs": 33.0,
+      "gmpPct": 30.82,
+      "gmpRs": 45.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b93,639.45 crores in 2026 against \u20b92,941.01 crores in 2025. The company reported profit of \u20b9286.44 crores in 2026 against profit of \u20b9223.63 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b933 (+22.6% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b945 (+30.8% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -36,15 +61,15 @@
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 27.17,
-      "gmpRs": 69.0,
+      "gmpPct": 29.53,
+      "gmpRs": 75.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b94,316.36 crores in 2026 against \u20b93,165.36 crores in 2025. The company reported profit of \u20b9228.75 crores in 2026 against profit of \u20b9139.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b969 (+27.2% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b975 (+29.5% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -60,15 +85,15 @@
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 19.42,
-      "gmpRs": 27.0,
+      "gmpPct": 17.27,
+      "gmpRs": 24.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9749.92 crores in 2026 against \u20b9607.84 crores in 2025. The company reported profit of \u20b9322.69 crores in 2026 against profit of \u20b9309.24 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b927 (+19.4% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b924 (+17.3% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -106,19 +131,18 @@
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 11.21,
-      "gmpRs": 38.0,
+      "gmpPct": 2.36,
+      "gmpRs": 8.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,356.59 crores in 2026 against \u20b91,277.11 crores in 2025. The company reported profit of \u20b9253.46 crores in 2026 against profit of \u20b9282.21 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b938 (+11.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+2.4%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -178,15 +202,15 @@
       "closeDate": "10-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 30.22,
-      "gmpRs": 55.0,
+      "gmpPct": 36.26,
+      "gmpRs": 66.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9471.43 crores in 2026 against \u20b9288.14 crores in 2025. The company reported profit of \u20b983.79 crores in 2026 against profit of \u20b957.51 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b955 (+30.2% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b966 (+36.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -203,40 +227,15 @@
       "closeDate": "10-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 34.49,
-      "gmpRs": 218.0,
+      "gmpPct": 35.44,
+      "gmpRs": 224.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9218 (+34.5% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Pranav Constructions Limited",
-      "symbol": "PRANAV",
-      "priceBand": "Rs.118 to Rs.124",
-      "issueSizeCr": 278.5,
-      "qibSubscription": null,
-      "openDate": "07-Sep-2026",
-      "closeDate": "09-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 35.48,
-      "gmpRs": 44.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9763.93 crores in 2026 against \u20b9638.24 crores in 2025. The company reported profit of \u20b971.32 crores in 2026 against profit of \u20b962.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b944 (+35.5% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "Strong grey-market sentiment: GMP \u20b9224 (+35.4% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -252,15 +251,40 @@
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 8.51,
-      "gmpRs": 8.0,
+      "gmpPct": 21.28,
+      "gmpRs": 20.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9342.96 crores in 2026 against \u20b9335.74 crores in 2025. The company reported profit of \u20b910.41 crores in 2026 against profit of \u20b99.23 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b98 (+8.5% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b920 (+21.3% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Pranav Constructions Limited",
+      "symbol": "PRANAV",
+      "priceBand": "Rs.118 to Rs.124",
+      "issueSizeCr": 278.5,
+      "qibSubscription": null,
+      "openDate": "07-Sep-2026",
+      "closeDate": "09-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 32.26,
+      "gmpRs": 40.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9763.93 crores in 2026 against \u20b9638.24 crores in 2025. The company reported profit of \u20b971.32 crores in 2026 against profit of \u20b962.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b940 (+32.3% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -276,40 +300,15 @@
       "closeDate": "16-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 39.53,
-      "gmpRs": 17.0,
+      "gmpPct": 30.23,
+      "gmpRs": 13.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9437.26 crores in 2026 against \u20b9412.59 crores in 2025. The company reported profit of \u20b922.40 crores in 2026 against profit of \u20b919.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b917 (+39.5% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Veegaland Developers Limited",
-      "symbol": "VEEGALAND",
-      "priceBand": "Rs.130 to Rs.140",
-      "issueSizeCr": 158.3,
-      "qibSubscription": null,
-      "openDate": "10-Sep-2026",
-      "closeDate": "15-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 21.43,
-      "gmpRs": 30.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9254.16 crores in 2026 against \u20b9196.22 crores in 2025. The company reported profit of \u20b926.61 crores in 2026 against profit of \u20b920.43 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b930 (+21.4% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b913 (+30.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
