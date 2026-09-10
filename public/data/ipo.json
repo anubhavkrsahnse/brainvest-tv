@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10 13:49 IST",
+  "lastUpdated": "2026-09-10 20:03 IST",
   "ipos": [
     {
       "company": "Veegaland Developers Limited",
@@ -27,28 +27,27 @@
       ]
     },
     {
-      "company": "LCC Projects Limited",
-      "symbol": "LCCPROJECT",
-      "priceBand": "Rs.139 to Rs.146",
-      "issueSizeCr": 305.5,
+      "company": "Manipal Payment and Identity Solutions Limited",
+      "symbol": "MPIMANIPAL",
+      "priceBand": "Rs.322 to Rs.339",
+      "issueSizeCr": 442.8,
       "qibSubscription": null,
       "openDate": "09-Sep-2026",
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 30.82,
-      "gmpRs": 45.0,
+      "gmpPct": 2.36,
+      "gmpRs": 8.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b93,639.45 crores in 2026 against \u20b92,941.01 crores in 2025. The company reported profit of \u20b9286.44 crores in 2026 against profit of \u20b9223.63 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b91,356.59 crores in 2026 against \u20b91,277.11 crores in 2025. The company reported profit of \u20b9253.46 crores in 2026 against profit of \u20b9282.21 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b945 (+30.8% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+2.4%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -122,27 +121,28 @@
       ]
     },
     {
-      "company": "Manipal Payment and Identity Solutions Limited",
-      "symbol": "MPIMANIPAL",
-      "priceBand": "Rs.322 to Rs.339",
-      "issueSizeCr": 442.8,
+      "company": "LCC Projects Limited",
+      "symbol": "LCCPROJECT",
+      "priceBand": "Rs.139 to Rs.146",
+      "issueSizeCr": 305.5,
       "qibSubscription": null,
       "openDate": "09-Sep-2026",
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 2.36,
-      "gmpRs": 8.0,
+      "gmpPct": 30.82,
+      "gmpRs": 45.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,356.59 crores in 2026 against \u20b91,277.11 crores in 2025. The company reported profit of \u20b9253.46 crores in 2026 against profit of \u20b9282.21 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b93,639.45 crores in 2026 against \u20b92,941.01 crores in 2025. The company reported profit of \u20b9286.44 crores in 2026 against profit of \u20b9223.63 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
+        "Strong grey-market sentiment: GMP \u20b945 (+30.8% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+2.4%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -162,6 +162,30 @@
       "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Kanohar Electricals Limited",
+      "symbol": "KANOHAR",
+      "priceBand": "Rs.601 to Rs.632",
+      "issueSizeCr": 739.0,
+      "qibSubscription": null,
+      "openDate": "08-Sep-2026",
+      "closeDate": "10-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 35.44,
+      "gmpRs": 224.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9224 (+35.4% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -218,30 +242,6 @@
       ]
     },
     {
-      "company": "Kanohar Electricals Limited",
-      "symbol": "KANOHAR",
-      "priceBand": "Rs.601 to Rs.632",
-      "issueSizeCr": 739.0,
-      "qibSubscription": null,
-      "openDate": "08-Sep-2026",
-      "closeDate": "10-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 35.44,
-      "gmpRs": 224.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9224 (+35.4% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Vinod Texworld Limited",
       "symbol": "VINOD",
       "priceBand": "\u2248\u20b994 (upper, IPO Watch)",
@@ -266,35 +266,34 @@
       ]
     },
     {
-      "company": "Pranav Constructions Limited",
-      "symbol": "PRANAV",
-      "priceBand": "Rs.118 to Rs.124",
-      "issueSizeCr": 278.5,
+      "company": "Hero Motors Limited",
+      "symbol": "HEROMOTORS",
+      "priceBand": "Rs.79 to Rs.84",
+      "issueSizeCr": 1063.3,
       "qibSubscription": null,
-      "openDate": "07-Sep-2026",
-      "closeDate": "09-Sep-2026",
+      "openDate": "16-Sep-2026",
+      "closeDate": "17-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 32.26,
-      "gmpRs": 40.0,
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9763.93 crores in 2026 against \u20b9638.24 crores in 2025. The company reported profit of \u20b971.32 crores in 2026 against profit of \u20b962.25 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b91,216.74 crores in 2026 against \u20b91,111.23 crores in 2025. The company reported profit of \u20b941.17 crores in 2026 against profit of \u20b932.80 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b940 (+32.3% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
       "company": "Manika Plastech Limited",
       "symbol": "MANIKA",
       "priceBand": "Rs.40 to Rs.43",
-      "issueSizeCr": 132.4,
+      "issueSizeCr": 92.0,
       "qibSubscription": null,
       "openDate": "11-Sep-2026",
       "closeDate": "16-Sep-2026",
