@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-11 13:44 IST",
+  "lastUpdated": "2026-09-11 20:02 IST",
   "ipos": [
     {
       "company": "Manika Plastech Limited",
       "symbol": "MANIKA",
       "priceBand": "Rs.40 to Rs.43",
-      "issueSizeCr": 132.4,
+      "issueSizeCr": 92.0,
       "qibSubscription": null,
       "openDate": "11-Sep-2026",
       "closeDate": "16-Sep-2026",
@@ -76,24 +76,22 @@
       ]
     },
     {
-      "company": "Karamtara Engineering Limited",
-      "symbol": "KARAMTARA",
-      "priceBand": "Rs.241 to Rs.254",
-      "issueSizeCr": 645.5,
+      "company": "Steamhouse India Limited",
+      "symbol": "STEAMHOUSE",
+      "priceBand": "Rs.77 to Rs.81",
+      "issueSizeCr": 304.9,
       "qibSubscription": null,
       "openDate": "09-Sep-2026",
       "closeDate": "11-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 27.17,
-      "gmpRs": 69.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,316.36 crores in 2026 against \u20b93,165.36 crores in 2025. The company reported profit of \u20b9228.75 crores in 2026 against profit of \u20b9139.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
+      "gmpSource": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b969 (+27.2% est. listing)"
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -118,50 +116,6 @@
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "Positive GMP: \u20b914 (+10.1% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Steamhouse India Limited",
-      "symbol": "STEAMHOUSE",
-      "priceBand": "Rs.77 to Rs.81",
-      "issueSizeCr": 304.9,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Rentomojo Limited",
-      "symbol": "RENTOMOJO",
-      "priceBand": "Rs.384 to Rs.404",
-      "issueSizeCr": 879.6,
-      "qibSubscription": null,
-      "openDate": "09-Sep-2026",
-      "closeDate": "11-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -193,6 +147,52 @@
       ]
     },
     {
+      "company": "Rentomojo Limited",
+      "symbol": "RENTOMOJO",
+      "priceBand": "Rs.384 to Rs.404",
+      "issueSizeCr": 879.6,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Karamtara Engineering Limited",
+      "symbol": "KARAMTARA",
+      "priceBand": "Rs.241 to Rs.254",
+      "issueSizeCr": 645.5,
+      "qibSubscription": null,
+      "openDate": "09-Sep-2026",
+      "closeDate": "11-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 27.17,
+      "gmpRs": 69.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,316.36 crores in 2026 against \u20b93,165.36 crores in 2025. The company reported profit of \u20b9228.75 crores in 2026 against profit of \u20b9139.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b969 (+27.2% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "Vinod Texworld Limited",
       "symbol": "VINOD",
       "priceBand": "\u2248\u20b994 (upper, IPO Watch)",
@@ -217,76 +217,25 @@
       ]
     },
     {
-      "company": "Glass Wall Systems (India) Limited",
-      "symbol": "GLASSWALL",
-      "priceBand": "Rs.172 to Rs.182",
-      "issueSizeCr": 299.5,
+      "company": "Sonaselection India Limited",
+      "symbol": "SONA",
+      "priceBand": "Rs.94 to Rs.99",
+      "issueSizeCr": 141.6,
       "qibSubscription": null,
-      "openDate": "08-Sep-2026",
-      "closeDate": "10-Sep-2026",
+      "openDate": "17-Sep-2026",
+      "closeDate": "21-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 24.73,
-      "gmpRs": 45.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9471.43 crores in 2026 against \u20b9288.14 crores in 2025. The company reported profit of \u20b983.79 crores in 2026 against profit of \u20b957.51 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b945 (+24.7% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Kanohar Electricals Limited",
-      "symbol": "KANOHAR",
-      "priceBand": "Rs.601 to Rs.632",
-      "issueSizeCr": 739.0,
-      "qibSubscription": null,
-      "openDate": "08-Sep-2026",
-      "closeDate": "10-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 37.34,
-      "gmpRs": 236.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9662.86 crores in 2026 against \u20b9457.30 crores in 2025. The company reported profit of \u20b9129.73 crores in 2026 against profit of \u20b965.12 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9236 (+37.3% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Prasol Chemicals Limited",
-      "symbol": "PRASOLCHEM",
-      "priceBand": "Rs.643 to Rs.676",
-      "issueSizeCr": 368.0,
-      "qibSubscription": null,
-      "openDate": "08-Sep-2026",
-      "closeDate": "10-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,237.85 crores in 2026 against \u20b91,015.54 crores in 2025. The company reported profit of \u20b983.12 crores in 2026 against profit of \u20b943.57 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
+      "gmpSource": null,
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -308,6 +257,55 @@
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "Positive GMP: \u20b98 (+9.5% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Jindal Supreme (India) Limited",
+      "symbol": "JSIPL",
+      "priceBand": "Rs.88 to Rs.93",
+      "issueSizeCr": 124.9,
+      "qibSubscription": null,
+      "openDate": "16-Sep-2026",
+      "closeDate": "18-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 13.98,
+      "gmpRs": 13.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9675.94 crores in 2026 against \u20b9604.74 crores in 2025. The company reported profit of \u20b922.53 crores in 2026 against profit of \u20b924.27 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b913 (+14.0% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "SS Retail Limited",
+      "symbol": "SSRETAIL",
+      "priceBand": "Rs.403 to Rs.424",
+      "issueSizeCr": 526.9,
+      "qibSubscription": null,
+      "openDate": "16-Sep-2026",
+      "closeDate": "18-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 7.08,
+      "gmpRs": 30.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b92,352.85 crores in 2026 against \u20b91,599.96 crores in 2025. The company reported profit of \u20b959.28 crores in 2026 against profit of \u20b939.86 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b930 (+7.1% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
