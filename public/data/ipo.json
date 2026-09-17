@@ -1,114 +1,15 @@
 {
-  "lastUpdated": "2026-09-16 20:37 IST",
+  "lastUpdated": "2026-09-17 14:21 IST",
   "ipos": [
-    {
-      "company": "Jindal Supreme (India) Limited",
-      "symbol": "JSIPL",
-      "priceBand": "Rs.88 to Rs.93",
-      "issueSizeCr": 87.4,
-      "qibSubscription": null,
-      "openDate": "16-Sep-2026",
-      "closeDate": "18-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 25.81,
-      "gmpRs": 24.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9675.94 crores in 2026 against \u20b9604.74 crores in 2025. The company reported profit of \u20b922.53 crores in 2026 against profit of \u20b924.27 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b924 (+25.8% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Hero Motors Limited",
-      "symbol": "HEROMOTORS",
-      "priceBand": "Rs.79 to Rs.84",
-      "issueSizeCr": 744.3,
-      "qibSubscription": null,
-      "openDate": "16-Sep-2026",
-      "closeDate": "18-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 5.95,
-      "gmpRs": 5.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,216.74 crores in 2026 against \u20b91,111.23 crores in 2025. The company reported profit of \u20b941.17 crores in 2026 against profit of \u20b932.80 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b95 (+6.0% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "SS Retail Limited",
-      "symbol": "SSRETAIL",
-      "priceBand": "Rs.403 to Rs.424",
-      "issueSizeCr": 372.9,
-      "qibSubscription": null,
-      "openDate": "16-Sep-2026",
-      "closeDate": "18-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 24.76,
-      "gmpRs": 105.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b92,352.85 crores in 2026 against \u20b91,599.96 crores in 2025. The company reported profit of \u20b959.28 crores in 2026 against profit of \u20b939.86 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9105 (+24.8% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Manika Plastech Limited",
-      "symbol": "MANIKA",
-      "priceBand": "Rs.40 to Rs.43",
-      "issueSizeCr": 92.0,
-      "qibSubscription": null,
-      "openDate": "11-Sep-2026",
-      "closeDate": "16-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 11.63,
-      "gmpRs": 5.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9437.26 crores in 2026 against \u20b9412.59 crores in 2025. The company reported profit of \u20b922.40 crores in 2026 against profit of \u20b919.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b95 (+11.6% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
     {
       "company": "National Stock Exchange of India Limited",
       "symbol": "NSE",
       "priceBand": "Rs.1700 to Rs.1785",
-      "issueSizeCr": 22568.9,
+      "issueSizeCr": 15822.8,
       "qibSubscription": null,
       "openDate": "17-Sep-2026",
       "closeDate": "21-Sep-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
@@ -130,7 +31,7 @@
       "qibSubscription": null,
       "openDate": "17-Sep-2026",
       "closeDate": "21-Sep-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
@@ -145,14 +46,87 @@
       ]
     },
     {
+      "company": "SS Retail Limited",
+      "symbol": "SSRETAIL",
+      "priceBand": "Rs.403 to Rs.424",
+      "issueSizeCr": 372.9,
+      "qibSubscription": null,
+      "openDate": "16-Sep-2026",
+      "closeDate": "18-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 18.87,
+      "gmpRs": 80.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b980 (+18.9% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Hero Motors Limited",
+      "symbol": "HEROMOTORS",
+      "priceBand": "Rs.79 to Rs.84",
+      "issueSizeCr": 744.3,
+      "qibSubscription": null,
+      "openDate": "16-Sep-2026",
+      "closeDate": "18-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 15.48,
+      "gmpRs": 13.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,216.74 crores in 2026 against \u20b91,111.23 crores in 2025. The company reported profit of \u20b941.17 crores in 2026 against profit of \u20b932.80 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b913 (+15.5% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Jindal Supreme (India) Limited",
+      "symbol": "JSIPL",
+      "priceBand": "Rs.88 to Rs.93",
+      "issueSizeCr": 87.4,
+      "qibSubscription": null,
+      "openDate": "16-Sep-2026",
+      "closeDate": "18-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 26.88,
+      "gmpRs": 25.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9675.94 crores in 2026 against \u20b9604.74 crores in 2025. The company reported profit of \u20b922.53 crores in 2026 against profit of \u20b924.27 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b925 (+26.9% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "SpectraA Technology Solutions Limited",
       "symbol": "SPECTRAA",
-      "priceBand": "Rs.112 to Rs.118",
-      "issueSizeCr": 30.4,
+      "priceBand": "\u2248\u20b9118 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "17-Sep-2026",
       "closeDate": "21-Sep-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": 42.37,
       "gmpRs": 50.0,
@@ -162,8 +136,7 @@
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b950 (+42.4% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "Strong grey-market sentiment: GMP \u20b950 (+42.4% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -172,12 +145,12 @@
     {
       "company": "Kheria Autocomp Limited",
       "symbol": "KHERIAAUTO",
-      "priceBand": "Rs.96 to Rs.101",
-      "issueSizeCr": 33.2,
+      "priceBand": "\u2248\u20b9101 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "17-Sep-2026",
       "closeDate": "21-Sep-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": 9.9,
       "gmpRs": 10.0,
@@ -187,11 +160,57 @@
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b910 (+9.9% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "Positive GMP: \u20b910 (+9.9% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Manika Plastech Limited",
+      "symbol": "MANIKA",
+      "priceBand": "Rs.40 to Rs.43",
+      "issueSizeCr": 92.0,
+      "qibSubscription": null,
+      "openDate": "11-Sep-2026",
+      "closeDate": "16-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 4.65,
+      "gmpRs": 2.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9437.26 crores in 2026 against \u20b9412.59 crores in 2025. The company reported profit of \u20b922.40 crores in 2026 against profit of \u20b919.33 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+4.7%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
+      "company": "Axiom Gas Engineering Limited",
+      "symbol": "AXIOMGAS",
+      "priceBand": "Rs.51 to Rs.54",
+      "issueSizeCr": 50.7,
+      "qibSubscription": null,
+      "openDate": "18-Sep-2026",
+      "closeDate": "22-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     }
   ]
