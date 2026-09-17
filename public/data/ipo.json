@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17 14:21 IST",
+  "lastUpdated": "2026-09-17 20:39 IST",
   "ipos": [
     {
       "company": "National Stock Exchange of India Limited",
@@ -55,14 +55,15 @@
       "closeDate": "18-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 18.87,
-      "gmpRs": 80.0,
+      "gmpPct": 31.37,
+      "gmpRs": 133.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b92,352.85 crores in 2026 against \u20b91,599.96 crores in 2025. The company reported profit of \u20b959.28 crores in 2026 against profit of \u20b939.86 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b980 (+18.9% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b9133 (+31.4% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -79,15 +80,15 @@
       "closeDate": "18-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 15.48,
-      "gmpRs": 13.0,
+      "gmpPct": 8.33,
+      "gmpRs": 7.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,216.74 crores in 2026 against \u20b91,111.23 crores in 2025. The company reported profit of \u20b941.17 crores in 2026 against profit of \u20b932.80 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b913 (+15.5% est. listing)"
+        "Positive GMP: \u20b97 (+8.3% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -103,15 +104,15 @@
       "closeDate": "18-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 26.88,
-      "gmpRs": 25.0,
+      "gmpPct": 32.26,
+      "gmpRs": 30.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9675.94 crores in 2026 against \u20b9604.74 crores in 2025. The company reported profit of \u20b922.53 crores in 2026 against profit of \u20b924.27 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b925 (+26.9% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b930 (+32.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -194,7 +195,7 @@
       "company": "Axiom Gas Engineering Limited",
       "symbol": "AXIOMGAS",
       "priceBand": "Rs.51 to Rs.54",
-      "issueSizeCr": 50.7,
+      "issueSizeCr": 45.0,
       "qibSubscription": null,
       "openDate": "18-Sep-2026",
       "closeDate": "22-Sep-2026",
