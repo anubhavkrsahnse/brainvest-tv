@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-09-18 13:56 IST",
+  "lastUpdated": "2026-09-18 20:05 IST",
   "ipos": [
+    {
+      "company": "National Stock Exchange of India Limited",
+      "symbol": "NSE",
+      "priceBand": "Rs.1700 to Rs.1785",
+      "issueSizeCr": 15822.8,
+      "qibSubscription": null,
+      "openDate": "17-Sep-2026",
+      "closeDate": "21-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+      ]
+    },
     {
       "company": "Sonaselection India Limited",
       "symbol": "SONA",
@@ -24,25 +46,27 @@
       ]
     },
     {
-      "company": "National Stock Exchange of India Limited",
-      "symbol": "NSE",
-      "priceBand": "Rs.1700 to Rs.1785",
-      "issueSizeCr": 15822.8,
+      "company": "Hero Motors Limited",
+      "symbol": "HEROMOTORS",
+      "priceBand": "Rs.79 to Rs.84",
+      "issueSizeCr": 744.3,
       "qibSubscription": null,
-      "openDate": "17-Sep-2026",
-      "closeDate": "21-Sep-2026",
+      "openDate": "16-Sep-2026",
+      "closeDate": "18-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
+      "gmpPct": 7.14,
+      "gmpRs": 6.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,216.74 crores in 2026 against \u20b91,111.23 crores in 2025. The company reported profit of \u20b941.17 crores in 2026 against profit of \u20b932.80 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
-      "gmpSource": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Positive GMP: \u20b96 (+7.1% est. listing)"
       ],
       "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -90,30 +114,6 @@
       "pros": [
         "Strong grey-market sentiment: GMP \u20b9137 (+32.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Hero Motors Limited",
-      "symbol": "HEROMOTORS",
-      "priceBand": "Rs.79 to Rs.84",
-      "issueSizeCr": 744.3,
-      "qibSubscription": null,
-      "openDate": "16-Sep-2026",
-      "closeDate": "18-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 7.14,
-      "gmpRs": 6.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,216.74 crores in 2026 against \u20b91,111.23 crores in 2025. The company reported profit of \u20b941.17 crores in 2026 against profit of \u20b932.80 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b96 (+7.1% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -185,6 +185,52 @@
       "moatSource": "IPO Watch company analysis",
       "pros": [
         "Strong grey-market sentiment: GMP \u20b930 (+25.4% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Varmora Granito Limited",
+      "symbol": "VARMORA",
+      "priceBand": "Rs.140 to Rs.148",
+      "issueSizeCr": 726.3,
+      "qibSubscription": null,
+      "openDate": "22-Sep-2026",
+      "closeDate": "24-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 6.76,
+      "gmpRs": 10.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,562.53 crores in 2026 against \u20b91,492.68 crores in 2025. The company reported profit of \u20b955.09 crores in 2026 against profit of \u20b930.77 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b910 (+6.8% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Pooja Logistics Limited",
+      "symbol": "POOJALOGIS",
+      "priceBand": "Rs.109 to Rs.115",
+      "issueSizeCr": 44.2,
+      "qibSubscription": null,
+      "openDate": "23-Sep-2026",
+      "closeDate": "25-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
