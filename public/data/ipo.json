@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18 20:05 IST",
+  "lastUpdated": "2026-09-21 14:44 IST",
   "ipos": [
     {
       "company": "National Stock Exchange of India Limited",
@@ -46,80 +46,6 @@
       ]
     },
     {
-      "company": "Hero Motors Limited",
-      "symbol": "HEROMOTORS",
-      "priceBand": "Rs.79 to Rs.84",
-      "issueSizeCr": 744.3,
-      "qibSubscription": null,
-      "openDate": "16-Sep-2026",
-      "closeDate": "18-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 7.14,
-      "gmpRs": 6.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,216.74 crores in 2026 against \u20b91,111.23 crores in 2025. The company reported profit of \u20b941.17 crores in 2026 against profit of \u20b932.80 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b96 (+7.1% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Jindal Supreme (India) Limited",
-      "symbol": "JSIPL",
-      "priceBand": "Rs.88 to Rs.93",
-      "issueSizeCr": 87.4,
-      "qibSubscription": null,
-      "openDate": "16-Sep-2026",
-      "closeDate": "18-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 32.26,
-      "gmpRs": 30.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9675.94 crores in 2026 against \u20b9604.74 crores in 2025. The company reported profit of \u20b922.53 crores in 2026 against profit of \u20b924.27 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b930 (+32.3% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "SS Retail Limited",
-      "symbol": "SSRETAIL",
-      "priceBand": "Rs.403 to Rs.424",
-      "issueSizeCr": 372.9,
-      "qibSubscription": null,
-      "openDate": "16-Sep-2026",
-      "closeDate": "18-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 32.31,
-      "gmpRs": 137.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b92,352.85 crores in 2026 against \u20b91,599.96 crores in 2025. The company reported profit of \u20b959.28 crores in 2026 against profit of \u20b939.86 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9137 (+32.3% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Axiom Gas Engineering Limited",
       "symbol": "AXIOMGAS",
       "priceBand": "\u2248\u20b953 (upper, IPO Watch)",
@@ -152,18 +78,17 @@
       "closeDate": "21-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 9.9,
-      "gmpRs": 10.0,
+      "gmpPct": 2.97,
+      "gmpRs": 3.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9\u20b9120.30 crores in 2026 against \u20b992.31 crores in 2025. The company reported profit of \u20b911.42 crores in 2026 against profit of \u20b98.24 crores in 2025.",
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b910 (+9.9% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+3.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -176,15 +101,15 @@
       "closeDate": "21-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 25.42,
-      "gmpRs": 30.0,
+      "gmpPct": 38.14,
+      "gmpRs": 45.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9103.05 crores in 2026 against \u20b975.53 crores in 2025. The company reported profit of \u20b911.56 crores in 2026 against profit of \u20b94.91 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b930 (+25.4% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b945 (+38.1% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -224,16 +149,17 @@
       "closeDate": "25-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
-      "gmpSource": null,
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     }
   ]
