@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22 14:15 IST",
+  "lastUpdated": "2026-09-22 20:36 IST",
   "ipos": [
     {
       "company": "Varmora Granito Limited",
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "company": "Sonaselection India Limited",
-      "symbol": "SONA",
-      "priceBand": "Rs.94 to Rs.99",
-      "issueSizeCr": 99.1,
+      "company": "Moneyview Limited",
+      "symbol": "MONEYVIEW",
+      "priceBand": "Rs.32 to Rs.34",
+      "issueSizeCr": 1138.6,
       "qibSubscription": null,
-      "openDate": "17-Sep-2026",
-      "closeDate": "21-Sep-2026",
+      "openDate": "24-Sep-2026",
+      "closeDate": "28-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
       "gmpPct": null,
@@ -64,87 +64,17 @@
       "verdict": null,
       "gmpSource": null,
       "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "National Stock Exchange of India Limited",
-      "symbol": "NSE",
-      "priceBand": "Rs.1700 to Rs.1785",
-      "issueSizeCr": 15822.8,
-      "qibSubscription": null,
-      "openDate": "17-Sep-2026",
-      "closeDate": "21-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
-    {
-      "company": "ArMee Infotech Limited",
-      "symbol": "ARMEE",
-      "priceBand": "Rs.350 to Rs.375",
-      "issueSizeCr": 321.4,
-      "qibSubscription": null,
-      "openDate": "23-Sep-2026",
-      "closeDate": "25-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 3.2,
-      "gmpRs": 12.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,410.09 crores in 2026 against \u20b91,315.78 crores in 2025. The company reported profit of \u20b945.47 crores in 2026 against profit of \u20b941.67 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+3.2%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "Elevate Campuses Limited",
-      "symbol": "ELEVATE",
-      "priceBand": "Rs.343 to Rs.362",
-      "issueSizeCr": 2216.3,
-      "qibSubscription": null,
-      "openDate": "23-Sep-2026",
-      "closeDate": "25-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 4.42,
-      "gmpRs": 16.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9394.13 crores in 2025 against \u20b9362.61 crores in 2024. The company reported profit of \u20b952.65 crores in 2025 against profit of \u20b939.69 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Muted GMP (+4.4%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
       "company": "Adroit Industries (India) Limited",
       "symbol": "ADROITIND",
       "priceBand": "Rs.126 to Rs.134",
-      "issueSizeCr": 150.7,
+      "issueSizeCr": 105.5,
       "qibSubscription": null,
       "openDate": "23-Sep-2026",
       "closeDate": "25-Sep-2026",
@@ -166,10 +96,34 @@
       ]
     },
     {
+      "company": "ArMee Infotech Limited",
+      "symbol": "ARMEE",
+      "priceBand": "Rs.350 to Rs.375",
+      "issueSizeCr": 278.6,
+      "qibSubscription": null,
+      "openDate": "23-Sep-2026",
+      "closeDate": "25-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 3.2,
+      "gmpRs": 12.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,410.09 crores in 2026 against \u20b91,315.78 crores in 2025. The company reported profit of \u20b945.47 crores in 2026 against profit of \u20b941.67 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+3.2%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
       "company": "Swastika Infra Limited",
       "symbol": "SWASTIKAIN",
       "priceBand": "Rs.175 to Rs.185",
-      "issueSizeCr": 168.2,
+      "issueSizeCr": 117.2,
       "qibSubscription": null,
       "openDate": "23-Sep-2026",
       "closeDate": "25-Sep-2026",
@@ -187,6 +141,30 @@
       ],
       "cons": [
         "Muted GMP (+4.3%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
+      "company": "Elevate Campuses Limited",
+      "symbol": "ELEVATE",
+      "priceBand": "Rs.343 to Rs.362",
+      "issueSizeCr": 1219.0,
+      "qibSubscription": null,
+      "openDate": "23-Sep-2026",
+      "closeDate": "25-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 4.42,
+      "gmpRs": 16.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9394.13 crores in 2025 against \u20b9362.61 crores in 2024. The company reported profit of \u20b952.65 crores in 2025 against profit of \u20b939.69 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Muted GMP (+4.4%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -215,10 +193,34 @@
       ]
     },
     {
+      "company": "Himalayan Solar Limited",
+      "symbol": "HIMALAYAN",
+      "priceBand": "Rs.98 to Rs.103",
+      "issueSizeCr": 68.0,
+      "qibSubscription": null,
+      "openDate": "25-Sep-2026",
+      "closeDate": "29-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9171.69 crores in 2026 against \u20b9143.14 crores in 2025. The company reported profit of \u20b920.67 crores in 2026 against profit of \u20b916.43 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
       "company": "Pooja Logistics Limited",
       "symbol": "POOJALOGIS",
       "priceBand": "Rs.109 to Rs.115",
-      "issueSizeCr": 44.2,
+      "issueSizeCr": 32.0,
       "qibSubscription": null,
       "openDate": "23-Sep-2026",
       "closeDate": "25-Sep-2026",
@@ -228,7 +230,7 @@
       "gmpRs": 0.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9150.49 crores in 2025 against \u20b9125.14 crores in 2024. The company reported profit of \u20b911.02 crores in 2025 against profit of \u20b95.73 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b9167.77 crores in 2026 against \u20b9150.49 crores in 2025. The company reported profit of \u20b912.34 crores in 2026 against profit of \u20b911.02 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
