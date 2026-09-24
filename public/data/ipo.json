@@ -1,6 +1,77 @@
 {
-  "lastUpdated": "2026-09-23 20:38 IST",
+  "lastUpdated": "2026-09-24 14:11 IST",
   "ipos": [
+    {
+      "company": "Moneyview Limited",
+      "symbol": "MONEYVIEW",
+      "priceBand": "Rs.32 to Rs.34",
+      "issueSizeCr": 790.6,
+      "qibSubscription": null,
+      "openDate": "24-Sep-2026",
+      "closeDate": "28-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "A-One Steels India Limited",
+      "symbol": "AONESTEELS",
+      "priceBand": "Rs.385 to Rs.405",
+      "issueSizeCr": 299.1,
+      "qibSubscription": null,
+      "openDate": "24-Sep-2026",
+      "closeDate": "28-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 13.58,
+      "gmpRs": 55.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,202.05 crores in 2026 against \u20b93,569.63 crores in 2025. The company reported profit of \u20b9127.41 crores in 2026 against profit of \u20b97.71 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b955 (+13.6% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Swastika Infra Limited",
+      "symbol": "SWASTIKAIN",
+      "priceBand": "Rs.175 to Rs.185",
+      "issueSizeCr": 117.2,
+      "qibSubscription": null,
+      "openDate": "23-Sep-2026",
+      "closeDate": "25-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 4.32,
+      "gmpRs": 8.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9505.57 crores in 2026 against \u20b9352.60 crore in 2025. The company reported profit of \u20b941.43 crores in 2026 against profit of \u20b927.46 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+4.3%) \u2014 thin grey-market interest"
+      ]
+    },
     {
       "company": "Adroit Industries (India) Limited",
       "symbol": "ADROITIND",
@@ -76,30 +147,6 @@
       ]
     },
     {
-      "company": "Swastika Infra Limited",
-      "symbol": "SWASTIKAIN",
-      "priceBand": "Rs.175 to Rs.185",
-      "issueSizeCr": 117.2,
-      "qibSubscription": null,
-      "openDate": "23-Sep-2026",
-      "closeDate": "25-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 4.32,
-      "gmpRs": 8.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9505.57 crores in 2026 against \u20b9352.60 crore in 2025. The company reported profit of \u20b941.43 crores in 2026 against profit of \u20b927.46 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+4.3%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
       "company": "Varmora Granito Limited",
       "symbol": "VARMORA",
       "priceBand": "Rs.140 to Rs.148",
@@ -114,6 +161,30 @@
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,562.53 crores in 2026 against \u20b91,492.68 crores in 2025. The company reported profit of \u20b955.09 crores in 2026 against profit of \u20b930.77 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
+      "company": "Green Asia Impex Limited",
+      "symbol": "GREENASIA",
+      "priceBand": "\u2248\u20b990 (upper, IPO Watch)",
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "24-Sep-2026",
+      "closeDate": "28-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9388.63 crores in 2026 against \u20b9339.65 crores in 2025. The company reported profit of \u20b915.61 crores in 2026 against profit of \u20b910.35 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
@@ -227,15 +298,15 @@
       "closeDate": "29-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 12.5,
-      "gmpRs": 34.0,
+      "gmpPct": 16.54,
+      "gmpRs": 45.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,181.67 crores in 2026 against \u20b9831.86 crores in 2025. The company reported profit of \u20b953.56 crores in 2026 against profit of \u20b953.32 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b934 (+12.5% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b945 (+16.5% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -251,87 +322,15 @@
       "closeDate": "29-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 10.79,
-      "gmpRs": 15.0,
+      "gmpPct": 17.27,
+      "gmpRs": 24.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,685.38 crores in 2026 against \u20b91,517.21 crores in 2025. The company reported profit of \u20b979.89 crores in 2026 against profit of \u20b959.94 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b915 (+10.8% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "A-One Steels India Limited",
-      "symbol": "AONESTEELS",
-      "priceBand": "Rs.385 to Rs.405",
-      "issueSizeCr": 299.1,
-      "qibSubscription": null,
-      "openDate": "24-Sep-2026",
-      "closeDate": "28-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 12.35,
-      "gmpRs": 50.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,202.05 crores in 2026 against \u20b93,569.63 crores in 2025. The company reported profit of \u20b9127.41 crores in 2026 against profit of \u20b97.71 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b950 (+12.3% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Moneyview Limited",
-      "symbol": "MONEYVIEW",
-      "priceBand": "Rs.32 to Rs.34",
-      "issueSizeCr": 1138.6,
-      "qibSubscription": null,
-      "openDate": "24-Sep-2026",
-      "closeDate": "28-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Bench Mark Infotech Services Limited",
-      "symbol": "BMISL",
-      "priceBand": "Rs.104 to Rs.110",
-      "issueSizeCr": 42.4,
-      "qibSubscription": null,
-      "openDate": "25-Sep-2026",
-      "closeDate": "29-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 10.91,
-      "gmpRs": 12.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b963.99 crores in 2026 against \u20b950.80 crores in 2025. The company reported profit of \u20b910.22 crores in 2026 against profit of \u20b95.83 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b912 (+10.9% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b924 (+17.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -363,27 +362,28 @@
       ]
     },
     {
-      "company": "Green Asia Impex Limited",
-      "symbol": "GREENASIA",
-      "priceBand": "Rs.85 to Rs.90",
-      "issueSizeCr": 63.5,
+      "company": "Bench Mark Infotech Services Limited",
+      "symbol": "BMISL",
+      "priceBand": "Rs.104 to Rs.110",
+      "issueSizeCr": 42.4,
       "qibSubscription": null,
-      "openDate": "24-Sep-2026",
-      "closeDate": "28-Sep-2026",
+      "openDate": "25-Sep-2026",
+      "closeDate": "29-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
+      "gmpPct": 10.91,
+      "gmpRs": 12.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9388.63 crores in 2026 against \u20b9339.65 crores in 2025. The company reported profit of \u20b915.61 crores in 2026 against profit of \u20b910.35 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b963.99 crores in 2026 against \u20b950.80 crores in 2025. The company reported profit of \u20b910.22 crores in 2026 against profit of \u20b95.83 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
+        "Positive GMP: \u20b912 (+10.9% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
