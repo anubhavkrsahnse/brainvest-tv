@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-09-24 14:11 IST",
+  "lastUpdated": "2026-09-24 20:52 IST",
   "ipos": [
+    {
+      "company": "A-One Steels India Limited",
+      "symbol": "AONESTEELS",
+      "priceBand": "Rs.385 to Rs.405",
+      "issueSizeCr": 299.1,
+      "qibSubscription": null,
+      "openDate": "24-Sep-2026",
+      "closeDate": "28-Sep-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 11.11,
+      "gmpRs": 45.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b94,202.05 crores in 2026 against \u20b93,569.63 crores in 2025. The company reported profit of \u20b9127.41 crores in 2026 against profit of \u20b97.71 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b945 (+11.1% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Moneyview Limited",
       "symbol": "MONEYVIEW",
@@ -18,31 +43,6 @@
       "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "A-One Steels India Limited",
-      "symbol": "AONESTEELS",
-      "priceBand": "Rs.385 to Rs.405",
-      "issueSizeCr": 299.1,
-      "qibSubscription": null,
-      "openDate": "24-Sep-2026",
-      "closeDate": "28-Sep-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 13.58,
-      "gmpRs": 55.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b94,202.05 crores in 2026 against \u20b93,569.63 crores in 2025. The company reported profit of \u20b9127.41 crores in 2026 against profit of \u20b97.71 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b955 (+13.6% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -107,15 +107,15 @@
       "closeDate": "25-Sep-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 14.66,
-      "gmpRs": 55.0,
+      "gmpPct": 5.33,
+      "gmpRs": 20.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,410.09 crores in 2026 against \u20b91,315.78 crores in 2025. The company reported profit of \u20b945.47 crores in 2026 against profit of \u20b941.67 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b955 (+14.7% est. listing)",
+        "Positive GMP: \u20b920 (+5.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -243,37 +243,38 @@
       ]
     },
     {
-      "company": "Runwal Enterprises Limited",
-      "symbol": "RUNWALENTR",
-      "priceBand": "Rs.290 to Rs.302",
-      "issueSizeCr": 520.9,
+      "company": "Shah Investor's Home Limited",
+      "symbol": "SHAHINVEST",
+      "priceBand": "Rs.159 to Rs.167",
+      "issueSizeCr": 90.2,
       "qibSubscription": null,
-      "openDate": "25-Sep-2026",
-      "closeDate": "29-Sep-2026",
+      "openDate": "28-Sep-2026",
+      "closeDate": "30-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 5.9,
-      "gmpRs": 18.0,
+      "gmpPct": 7.19,
+      "gmpRs": 12.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b91,850.79 crores in 2026 against \u20b91,050.71 crores in 2025. The company reported profit of \u20b9185.76 crores in 2026 against profit of \u20b955.65 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": "The company reported revenue of \u20b972.40 crores in 2026 against \u20b994.47 crores in 2025. The company reported profit of \u20b913.11 crores in 2026 against profit of \u20b923.42 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b918 (+5.9% est. listing)"
+        "Positive GMP: \u20b912 (+7.2% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
       ]
     },
     {
-      "company": "AceVector Limited",
-      "symbol": "ACEVECTOR",
-      "priceBand": "Rs.30 to Rs.32",
-      "issueSizeCr": 439.1,
+      "company": "Srit India Limited",
+      "symbol": "SRIT",
+      "priceBand": "Rs.123 to Rs.130",
+      "issueSizeCr": 218.4,
       "qibSubscription": null,
-      "openDate": "25-Sep-2026",
-      "closeDate": "29-Sep-2026",
+      "openDate": "28-Sep-2026",
+      "closeDate": "30-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
       "gmpPct": null,
@@ -292,21 +293,22 @@
       "company": "Orient Cables (India) Limited",
       "symbol": "ORIENTCABL",
       "priceBand": "Rs.258 to Rs.272",
-      "issueSizeCr": 582.0,
+      "issueSizeCr": 407.4,
       "qibSubscription": null,
       "openDate": "25-Sep-2026",
       "closeDate": "29-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 16.54,
-      "gmpRs": 45.0,
+      "gmpPct": 22.06,
+      "gmpRs": 60.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,181.67 crores in 2026 against \u20b9831.86 crores in 2025. The company reported profit of \u20b953.56 crores in 2026 against profit of \u20b953.32 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b945 (+16.5% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b960 (+22.1% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -316,21 +318,67 @@
       "company": "German Green Steel and Power Limited",
       "symbol": "GERMAN",
       "priceBand": "Rs.132 to Rs.139",
-      "issueSizeCr": 319.3,
+      "issueSizeCr": 223.3,
       "qibSubscription": null,
       "openDate": "25-Sep-2026",
       "closeDate": "29-Sep-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 17.27,
-      "gmpRs": 24.0,
+      "gmpPct": 20.14,
+      "gmpRs": 28.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b91,685.38 crores in 2026 against \u20b91,517.21 crores in 2025. The company reported profit of \u20b979.89 crores in 2026 against profit of \u20b959.94 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b924 (+17.3% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b928 (+20.1% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Runwal Enterprises Limited",
+      "symbol": "RUNWALENTR",
+      "priceBand": "Rs.290 to Rs.302",
+      "issueSizeCr": 520.9,
+      "qibSubscription": null,
+      "openDate": "25-Sep-2026",
+      "closeDate": "29-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 11.48,
+      "gmpRs": 35.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b91,850.79 crores in 2026 against \u20b91,050.71 crores in 2025. The company reported profit of \u20b9185.76 crores in 2026 against profit of \u20b955.65 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Positive GMP: \u20b935 (+11.5% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "AceVector Limited",
+      "symbol": "ACEVECTOR",
+      "priceBand": "Rs.30 to Rs.32",
+      "issueSizeCr": 237.5,
+      "qibSubscription": null,
+      "openDate": "25-Sep-2026",
+      "closeDate": "29-Sep-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -341,7 +389,7 @@
       "company": "Himalayan Solar Limited",
       "symbol": "HIMALAYAN",
       "priceBand": "Rs.98 to Rs.103",
-      "issueSizeCr": 68.0,
+      "issueSizeCr": 60.3,
       "qibSubscription": null,
       "openDate": "25-Sep-2026",
       "closeDate": "29-Sep-2026",
@@ -365,7 +413,7 @@
       "company": "Bench Mark Infotech Services Limited",
       "symbol": "BMISL",
       "priceBand": "Rs.104 to Rs.110",
-      "issueSizeCr": 42.4,
+      "issueSizeCr": 30.4,
       "qibSubscription": null,
       "openDate": "25-Sep-2026",
       "closeDate": "29-Sep-2026",
