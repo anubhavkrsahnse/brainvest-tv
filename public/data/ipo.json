@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25 14:32 IST",
+  "lastUpdated": "2026-09-25 20:54 IST",
   "ipos": [
     {
       "company": "Orient Cables (India) Limited",
@@ -329,8 +329,9 @@
       "gmpRs": 0.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
+      "moat": "The company reported revenue of \u20b9516.30 crores in 2026 against \u20b9404.39 crores in 2025. The company reported profit of \u20b94.51 crores in 2026 against profit of \u20b93.46 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "No standout quantitative positives yet"
       ],
@@ -390,7 +391,7 @@
       "company": "Srit India Limited",
       "symbol": "SRIT",
       "priceBand": "Rs.123 to Rs.130",
-      "issueSizeCr": 218.4,
+      "issueSizeCr": 152.9,
       "qibSubscription": null,
       "openDate": "28-Sep-2026",
       "closeDate": "30-Sep-2026",
@@ -412,7 +413,7 @@
       "company": "Shah Investor's Home Limited",
       "symbol": "SHAHINVEST",
       "priceBand": "Rs.159 to Rs.167",
-      "issueSizeCr": 90.2,
+      "issueSizeCr": 63.1,
       "qibSubscription": null,
       "openDate": "28-Sep-2026",
       "closeDate": "30-Sep-2026",
