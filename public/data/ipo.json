@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28 15:35 IST",
+  "lastUpdated": "2026-09-28 23:43 IST",
   "ipos": [
     {
       "company": "Shah Investor's Home Limited",
@@ -246,7 +246,7 @@
       "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "24-Sep-2026",
-      "closeDate": "28-Sep-2026",
+      "closeDate": "01-Oct-2026",
       "status": "current",
       "source": "NSE",
       "gmpPct": 0.0,
@@ -278,6 +278,52 @@
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9344.13 crores in 2026 against \u20b9324.86 crores in 2025. The company reported profit of \u20b924.98 crores in 2026 against profit of \u20b923.64 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
+      "company": "Eventions Limited",
+      "symbol": "EVENTIONS",
+      "priceBand": "Rs.112 to Rs.118",
+      "issueSizeCr": 38.1,
+      "qibSubscription": null,
+      "openDate": "30-Sep-2026",
+      "closeDate": "05-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Papadmalji Agro Foods Limited",
+      "symbol": "PAPADMALJI",
+      "priceBand": "Rs.69 to Rs.72",
+      "issueSizeCr": 20.2,
+      "qibSubscription": null,
+      "openDate": "29-Sep-2026",
+      "closeDate": "01-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
