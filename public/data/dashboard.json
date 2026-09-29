@@ -1,36 +1,36 @@
 {
-  "lastUpdated": "2026-09-28 23:43 IST",
+  "lastUpdated": "2026-09-29 15:33 IST",
   "signals": [
     {
       "name": "GIFT Nifty",
-      "value": 22780.2,
-      "changePct": -1.56,
-      "signal": "SELL",
-      "slot": "close",
+      "value": 22716.2,
+      "changePct": -0.28,
+      "signal": "HOLD",
+      "slot": "open",
       "source": "NSE IX (proxy: Nifty 50, Yahoo Finance)"
     },
     {
       "name": "Nasdaq Composite",
-      "value": 26904.3,
-      "changePct": -0.61,
+      "value": 26820.4,
+      "changePct": -0.92,
       "signal": "SELL",
-      "slot": "close",
+      "slot": "open",
       "source": "Yahoo Finance"
     },
     {
       "name": "Hang Seng",
-      "value": 24510.1,
-      "changePct": -1.01,
-      "signal": "SELL",
-      "slot": "close",
+      "value": 24523.6,
+      "changePct": -0.48,
+      "signal": "HOLD",
+      "slot": "open",
       "source": "Yahoo Finance"
     },
     {
       "name": "S&P 500",
-      "value": 7701.5,
-      "changePct": -0.54,
+      "value": 7683.7,
+      "changePct": -0.77,
       "signal": "SELL",
-      "slot": "close",
+      "slot": "open",
       "source": "Yahoo Finance"
     }
   ],
@@ -39,7 +39,7 @@
   "tracker": [
     {
       "month": "Jan",
-      "actualPct": 55.14
+      "actualPct": 55.02
     },
     {
       "month": "Feb",
@@ -47,11 +47,11 @@
     },
     {
       "month": "Mar",
-      "actualPct": 9.74
+      "actualPct": 9.35
     },
     {
       "month": "Apr",
-      "actualPct": 63.3
+      "actualPct": 62.59
     },
     {
       "month": "May",
@@ -59,7 +59,7 @@
     },
     {
       "month": "Jun",
-      "actualPct": -9.02
+      "actualPct": -8.8
     },
     {
       "month": "Jul",
