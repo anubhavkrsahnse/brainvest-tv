@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01 15:53 IST",
+  "lastUpdated": "2026-10-01 22:35 IST",
   "ipos": [
     {
       "company": "Vishal Nirmiti Limited",
@@ -122,38 +122,13 @@
       ]
     },
     {
-      "company": "Shah Investor's Home Limited",
-      "symbol": "SHAHINVEST",
-      "priceBand": "Rs.159 to Rs.167",
-      "issueSizeCr": 63.1,
+      "company": "SMC Global Securities Limited",
+      "symbol": "SMCG04",
+      "priceBand": "Rs.1000",
+      "issueSizeCr": 75.0,
       "qibSubscription": null,
-      "openDate": "28-Sep-2026",
-      "closeDate": "30-Sep-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 8.988,
-      "gmpRs": 15.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b972.40 crores in 2026 against \u20b994.47 crores in 2025. The company reported profit of \u20b913.11 crores in 2026 against profit of \u20b923.42 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b915 (+9.0% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Srit India Limited",
-      "symbol": "SRIT",
-      "priceBand": "Rs.123 to Rs.130",
-      "issueSizeCr": 152.9,
-      "qibSubscription": null,
-      "openDate": "28-Sep-2026",
-      "closeDate": "30-Sep-2026",
+      "openDate": "05-Oct-2026",
+      "closeDate": "16-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
       "gmpPct": null,
