@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02 15:29 IST",
+  "lastUpdated": "2026-10-02 21:49 IST",
   "ipos": [
     {
       "company": "Vishal Nirmiti Limited",
@@ -13,7 +13,7 @@
       "source": "NSE",
       "gmpPct": 9.09,
       "gmpRs": 20.0,
-      "board": "Mainboard",
+      "board": "Vishal Nirmiti (O)  Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9344.13 crores in 2026 against \u20b9324.86 crores in 2025. The company reported profit of \u20b924.98 crores in 2026 against profit of \u20b923.64 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
@@ -36,18 +36,16 @@
       "closeDate": "05-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 4.0,
-      "gmpRs": 3.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9203.33 crores in 2026 against \u20b996.85 crores in 2025. The company reported profit of \u20b922.32 crores in 2026 against profit of \u20b99.79 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
+      "gmpSource": null,
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+4.0%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -104,19 +102,16 @@
       "closeDate": "07-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": "SME",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b931.54 crores in 2026 against \u20b917.82 crores in 2025. The company reported profit of \u20b96.29 crores in 2026 against profit of \u20b92.00 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
+      "gmpSource": null,
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest",
-        "SME board \u2014 lower liquidity, higher volatility"
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
