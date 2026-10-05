@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05 16:15 IST",
+  "lastUpdated": "2026-10-06 00:51 IST",
   "ipos": [
     {
       "company": "SMC Global Securities Limited",
@@ -21,55 +21,6 @@
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Vishal Nirmiti Limited",
-      "symbol": "VNL",
-      "priceBand": "Rs.208 to Rs.220",
-      "issueSizeCr": 186.4,
-      "qibSubscription": null,
-      "openDate": "30-Sep-2026",
-      "closeDate": "05-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 9.09,
-      "gmpRs": 20.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9344.13 crores in 2026 against \u20b9324.86 crores in 2025. The company reported profit of \u20b924.98 crores in 2026 against profit of \u20b923.64 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Positive GMP: \u20b920 (+9.1% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Nityas Gems and Jewellery Limited",
-      "symbol": "NITYAS",
-      "priceBand": "Rs.70 to Rs.75",
-      "issueSizeCr": 108.4,
-      "qibSubscription": null,
-      "openDate": "30-Sep-2026",
-      "closeDate": "05-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 4.0,
-      "gmpRs": 3.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b9203.33 crores in 2026 against \u20b996.85 crores in 2025. The company reported profit of \u20b922.32 crores in 2026 against profit of \u20b99.79 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
-      "verdict": null,
-      "moatSource": "IPO Watch company analysis",
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+4.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -97,25 +48,52 @@
       ]
     },
     {
-      "company": "Eventions Limited",
-      "symbol": "EVENTIONS",
-      "priceBand": null,
-      "issueSizeCr": null,
+      "company": "Vishal Nirmiti Limited",
+      "symbol": "VNL",
+      "priceBand": "Rs.208 to Rs.220",
+      "issueSizeCr": 186.4,
       "qibSubscription": null,
       "openDate": "30-Sep-2026",
       "closeDate": "05-Oct-2026",
-      "status": "current",
+      "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
+      "gmpPct": 9.09,
+      "gmpRs": 20.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9344.13 crores in 2026 against \u20b9324.86 crores in 2025. The company reported profit of \u20b924.98 crores in 2026 against profit of \u20b923.64 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
-      "gmpSource": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "No standout quantitative positives yet"
+        "Positive GMP: \u20b920 (+9.1% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Nityas Gems and Jewellery Limited",
+      "symbol": "NITYAS",
+      "priceBand": "Rs.70 to Rs.75",
+      "issueSizeCr": 108.4,
+      "qibSubscription": null,
+      "openDate": "30-Sep-2026",
+      "closeDate": "05-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 4.0,
+      "gmpRs": 3.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9203.33 crores in 2026 against \u20b996.85 crores in 2025. The company reported profit of \u20b922.32 crores in 2026 against profit of \u20b99.79 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+4.0%) \u2014 thin grey-market interest"
       ]
     }
   ]
