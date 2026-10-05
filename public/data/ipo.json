@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-10-02 21:49 IST",
+  "lastUpdated": "2026-10-05 16:15 IST",
   "ipos": [
+    {
+      "company": "SMC Global Securities Limited",
+      "symbol": "SMCG04",
+      "priceBand": "Rs.1000",
+      "issueSizeCr": 75.0,
+      "qibSubscription": null,
+      "openDate": "05-Oct-2026",
+      "closeDate": "16-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Vishal Nirmiti Limited",
       "symbol": "VNL",
@@ -13,7 +35,7 @@
       "source": "NSE",
       "gmpPct": 9.09,
       "gmpRs": 20.0,
-      "board": "Vishal Nirmiti (O)  Mainboard",
+      "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b9344.13 crores in 2026 against \u20b9324.86 crores in 2025. The company reported profit of \u20b924.98 crores in 2026 against profit of \u20b923.64 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
@@ -36,16 +58,42 @@
       "closeDate": "05-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
+      "gmpPct": 4.0,
+      "gmpRs": 3.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9203.33 crores in 2026 against \u20b996.85 crores in 2025. The company reported profit of \u20b922.32 crores in 2026 against profit of \u20b99.79 crores in 2025. As per the financials the IPO investors should apply the IPO for a long term.",
       "verdict": null,
-      "gmpSource": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+4.0%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
+      "company": "R.K. Fashion Accessories Limited",
+      "symbol": "RKFAL",
+      "priceBand": "\u2248\u20b982 (upper, IPO Watch)",
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "05-Oct-2026",
+      "closeDate": "07-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b931.54 crores in 2026 against \u20b917.82 crores in 2025. The company reported profit of \u20b96.29 crores in 2026 against profit of \u20b92.00 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -65,50 +113,6 @@
       "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "SMC Global Securities Limited",
-      "symbol": "SMCG04",
-      "priceBand": "Rs.1000",
-      "issueSizeCr": 75.0,
-      "qibSubscription": null,
-      "openDate": "05-Oct-2026",
-      "closeDate": "16-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "R.K. Fashion Accessories Limited",
-      "symbol": "RKFAL",
-      "priceBand": "Rs.77 to Rs.82",
-      "issueSizeCr": 35.0,
-      "qibSubscription": null,
-      "openDate": "05-Oct-2026",
-      "closeDate": "07-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
