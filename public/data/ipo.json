@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-10-06 22:23 IST",
+  "lastUpdated": "2026-10-07 15:59 IST",
   "ipos": [
+    {
+      "company": "Grace Cancer Foundation - ZCZP",
+      "symbol": "GCFZCZP",
+      "priceBand": "Rs.10",
+      "issueSizeCr": 1.0,
+      "qibSubscription": null,
+      "openDate": "07-Oct-2026",
+      "closeDate": "09-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "SMC Global Securities Limited",
       "symbol": "SMCG04",
@@ -33,37 +55,15 @@
       "closeDate": "07-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 8.54,
-      "gmpRs": 7.0,
+      "gmpPct": 18.29,
+      "gmpRs": 15.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": "The company reported revenue of \u20b931.54 crores in 2026 against \u20b917.82 crores in 2025. The company reported profit of \u20b96.29 crores in 2026 against profit of \u20b92.00 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
       "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Positive GMP: \u20b97 (+8.5% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Grace Cancer Foundation - ZCZP",
-      "symbol": "GCFZCZP",
-      "priceBand": "Rs.10",
-      "issueSizeCr": 1.0,
-      "qibSubscription": null,
-      "openDate": "07-Oct-2026",
-      "closeDate": "09-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "Strong grey-market sentiment: GMP \u20b915 (+18.3% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
