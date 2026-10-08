@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08 16:20 IST",
+  "lastUpdated": "2026-10-08 22:58 IST",
   "ipos": [
     {
       "company": "SMC Global Securities Limited",
@@ -8,7 +8,7 @@
       "issueSizeCr": 75.0,
       "qibSubscription": null,
       "openDate": "05-Oct-2026",
-      "closeDate": "16-Oct-2026",
+      "closeDate": "09-Oct-2026",
       "status": "current",
       "source": "NSE",
       "gmpPct": null,
@@ -33,17 +33,41 @@
       "closeDate": "15-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 33.21,
-      "gmpRs": 90.0,
+      "gmpPct": 20.29,
+      "gmpRs": 55.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b990 (+33.2% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b955 (+20.3% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Ravita Engineering Services Limited",
+      "symbol": "RAVITA",
+      "priceBand": "Rs.105 to Rs.112",
+      "issueSizeCr": 116.1,
+      "qibSubscription": null,
+      "openDate": "13-Oct-2026",
+      "closeDate": "15-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9109.30 crores in 2025 against \u20b913.53 crores in 2024. The company reported profit of \u20b911.83 crores in 2025 against profit of \u20b91.51 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "verdict": null,
+      "moatSource": "IPO Watch company analysis",
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     }
   ]
