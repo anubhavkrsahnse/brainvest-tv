@@ -1,28 +1,6 @@
 {
-  "lastUpdated": "2026-10-07 22:59 IST",
+  "lastUpdated": "2026-10-08 16:20 IST",
   "ipos": [
-    {
-      "company": "Grace Cancer Foundation - ZCZP",
-      "symbol": "GCFZCZP",
-      "priceBand": "Rs.10",
-      "issueSizeCr": 1.0,
-      "qibSubscription": null,
-      "openDate": "07-Oct-2026",
-      "closeDate": "09-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
     {
       "company": "SMC Global Securities Limited",
       "symbol": "SMCG04",
@@ -46,24 +24,23 @@
       ]
     },
     {
-      "company": "R.K. Fashion Accessories Limited",
-      "symbol": "RKFAL",
-      "priceBand": "\u2248\u20b982 (upper, IPO Watch)",
-      "issueSizeCr": null,
+      "company": "HD Fire Protect Limited",
+      "symbol": "HDFIRE",
+      "priceBand": "Rs.258 to Rs.271",
+      "issueSizeCr": 712.3,
       "qibSubscription": null,
-      "openDate": "05-Oct-2026",
-      "closeDate": "07-Oct-2026",
-      "status": "current",
+      "openDate": "13-Oct-2026",
+      "closeDate": "15-Oct-2026",
+      "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 18.29,
-      "gmpRs": 15.0,
+      "gmpPct": 33.21,
+      "gmpRs": 90.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": "The company reported revenue of \u20b931.54 crores in 2026 against \u20b917.82 crores in 2025. The company reported profit of \u20b96.29 crores in 2026 against profit of \u20b92.00 crores in 2025. As per the financials, the IPO investors should apply the IPO for a long term.",
+      "moat": null,
       "verdict": null,
-      "moatSource": "IPO Watch company analysis",
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b915 (+18.3% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b990 (+33.2% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
