@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08 22:58 IST",
+  "lastUpdated": "2026-10-09 16:19 IST",
   "ipos": [
     {
       "company": "SMC Global Securities Limited",
@@ -34,16 +34,39 @@
       "status": "upcoming",
       "source": "NSE",
       "gmpPct": 20.29,
-      "gmpRs": 55.0,
+      "gmpRs": 65.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b955 (+20.3% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b965 (+20.3% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Vaibhav Vyapaar Limited",
+      "symbol": "LOANFRONT",
+      "priceBand": "Rs.51 to Rs.54",
+      "issueSizeCr": 42.1,
+      "qibSubscription": null,
+      "openDate": "13-Oct-2026",
+      "closeDate": "15-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
       ]
     },
     {
