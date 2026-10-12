@@ -1,23 +1,25 @@
 {
-  "lastUpdated": "2026-10-12 16:43 IST",
+  "lastUpdated": "2026-10-13 01:25 IST",
   "ipos": [
     {
       "company": "HD Fire Protect Limited",
       "symbol": "HDFIRE",
       "priceBand": "Rs.258 to Rs.271",
-      "issueSizeCr": 712.3,
+      "issueSizeCr": 499.2,
       "qibSubscription": null,
       "openDate": "13-Oct-2026",
       "closeDate": "15-Oct-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 31.37,
+      "gmpRs": 85.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b985 (+31.4% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -26,20 +28,44 @@
     {
       "company": "Vaibhav Vyapaar Limited",
       "symbol": "LOANFRONT",
-      "priceBand": "Rs.51 to Rs.54",
-      "issueSizeCr": 42.1,
+      "priceBand": "\u2248\u20b952 (upper, IPO Watch)",
+      "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "13-Oct-2026",
       "closeDate": "15-Oct-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 0.0,
+      "gmpRs": 0.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+      ]
+    },
+    {
+      "company": "Fusion CX Limited",
+      "symbol": "FUSIONCX",
+      "priceBand": "Rs.275 to Rs.289",
+      "issueSizeCr": 737.7,
+      "qibSubscription": null,
+      "openDate": "14-Oct-2026",
+      "closeDate": "16-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 5.88,
+      "gmpRs": 17.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Positive GMP: \u20b917 (+5.9% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -51,20 +77,22 @@
       "priceBand": "Rs.105 to Rs.112",
       "issueSizeCr": 116.1,
       "qibSubscription": null,
-      "openDate": "13-Oct-2026",
-      "closeDate": "15-Oct-2026",
+      "openDate": "14-Oct-2026",
+      "closeDate": "16-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
+      "gmpPct": 4.46,
+      "gmpRs": 5.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": "The company reported revenue of \u20b9109.30 crores in 2025 against \u20b913.53 crores in 2024. The company reported profit of \u20b911.83 crores in 2025 against profit of \u20b91.51 crores in 2024. As per the financials, the IPO investors should apply the IPO for a long term.",
       "verdict": null,
+      "moatSource": "IPO Watch company analysis",
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+4.5%) \u2014 thin grey-market interest"
       ]
     }
   ]
