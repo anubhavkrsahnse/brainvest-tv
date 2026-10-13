@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13 16:24 IST",
+  "lastUpdated": "2026-10-13 23:12 IST",
   "ipos": [
     {
       "company": "HD Fire Protect Limited",
@@ -72,27 +72,25 @@
       ]
     },
     {
-      "company": "Sahajanand Medical Technologies Limited",
-      "symbol": "SMT",
-      "priceBand": "Rs.327 to Rs.344",
-      "issueSizeCr": 475.5,
+      "company": "Zetwerk Manufacturing Businesses Limited",
+      "symbol": "ZETWERK",
+      "priceBand": "Rs.143 to Rs.151",
+      "issueSizeCr": 5171.7,
       "qibSubscription": null,
       "openDate": "15-Oct-2026",
       "closeDate": "19-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": 12.21,
-      "gmpRs": 42.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
       "moat": null,
       "verdict": null,
+      "gmpSource": null,
       "pros": [
-        "Positive GMP: \u20b942 (+12.2% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
       ]
     },
     {
@@ -119,10 +117,34 @@
       ]
     },
     {
+      "company": "Sahajanand Medical Technologies Limited",
+      "symbol": "SMT",
+      "priceBand": "Rs.327 to Rs.344",
+      "issueSizeCr": 475.5,
+      "qibSubscription": null,
+      "openDate": "15-Oct-2026",
+      "closeDate": "19-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 12.21,
+      "gmpRs": 42.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Positive GMP: \u20b942 (+12.2% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
       "company": "Fusion CX Limited",
       "symbol": "FUSIONCX",
       "priceBand": "Rs.275 to Rs.289",
-      "issueSizeCr": 737.7,
+      "issueSizeCr": 405.8,
       "qibSubscription": null,
       "openDate": "14-Oct-2026",
       "closeDate": "16-Oct-2026",
@@ -135,7 +157,8 @@
       "moat": null,
       "verdict": null,
       "pros": [
-        "Positive GMP: \u20b925 (+8.7% est. listing)"
+        "Positive GMP: \u20b925 (+8.7% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -145,7 +168,7 @@
       "company": "Ravita Engineering Services Limited",
       "symbol": "RAVITA",
       "priceBand": "Rs.105 to Rs.112",
-      "issueSizeCr": 116.1,
+      "issueSizeCr": 83.0,
       "qibSubscription": null,
       "openDate": "14-Oct-2026",
       "closeDate": "16-Oct-2026",
