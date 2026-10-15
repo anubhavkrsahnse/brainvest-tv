@@ -1,6 +1,98 @@
 {
-  "lastUpdated": "2026-10-14 20:49 IST",
+  "lastUpdated": "2026-10-15 14:01 IST",
   "ipos": [
+    {
+      "company": "Tonbo Imaging India Limited",
+      "symbol": "TONBO",
+      "priceBand": "Rs.665 to Rs.700",
+      "issueSizeCr": 596.8,
+      "qibSubscription": null,
+      "openDate": "15-Oct-2026",
+      "closeDate": "19-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 71.43,
+      "gmpRs": 500.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9500 (+71.4% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Sahajanand Medical Technologies Limited",
+      "symbol": "SMT",
+      "priceBand": "Rs.327 to Rs.344",
+      "issueSizeCr": 335.4,
+      "qibSubscription": null,
+      "openDate": "15-Oct-2026",
+      "closeDate": "19-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 12.21,
+      "gmpRs": 42.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Positive GMP: \u20b942 (+12.2% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Zetwerk Manufacturing Businesses Limited",
+      "symbol": "ZETWERK",
+      "priceBand": "Rs.143 to Rs.151",
+      "issueSizeCr": 2794.5,
+      "qibSubscription": null,
+      "openDate": "15-Oct-2026",
+      "closeDate": "19-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Bonfiglioli Transmissions Limited",
+      "symbol": "BONFIG",
+      "priceBand": "Rs.558 to Rs.586",
+      "issueSizeCr": 1774.5,
+      "qibSubscription": null,
+      "openDate": "15-Oct-2026",
+      "closeDate": "19-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 30.71,
+      "gmpRs": 180.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b9180 (+30.7% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
     {
       "company": "Fusion CX Limited",
       "symbol": "FUSIONCX",
@@ -59,17 +151,17 @@
       "closeDate": "16-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 1.79,
-      "gmpRs": 2.0,
+      "gmpPct": 6.25,
+      "gmpRs": 7.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
+        "Positive GMP: \u20b97 (+6.2% est. listing)"
       ],
       "cons": [
-        "Muted GMP (+1.8%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -93,98 +185,6 @@
       ],
       "cons": [
         "Muted GMP (+0.0%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "Sahajanand Medical Technologies Limited",
-      "symbol": "SMT",
-      "priceBand": "Rs.327 to Rs.344",
-      "issueSizeCr": 335.4,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 12.21,
-      "gmpRs": 42.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Positive GMP: \u20b942 (+12.2% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Bonfiglioli Transmissions Limited",
-      "symbol": "BONFIG",
-      "priceBand": "Rs.558 to Rs.586",
-      "issueSizeCr": 2533.8,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 30.71,
-      "gmpRs": 180.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9180 (+30.7% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Zetwerk Manufacturing Businesses Limited",
-      "symbol": "ZETWERK",
-      "priceBand": "Rs.143 to Rs.151",
-      "issueSizeCr": 5171.7,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
-    {
-      "company": "Tonbo Imaging India Limited",
-      "symbol": "TONBO",
-      "priceBand": "Rs.665 to Rs.700",
-      "issueSizeCr": 852.2,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 71.43,
-      "gmpRs": 500.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b9500 (+71.4% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
