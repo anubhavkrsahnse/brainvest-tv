@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15 14:01 IST",
+  "lastUpdated": "2026-10-15 20:41 IST",
   "ipos": [
     {
       "company": "Tonbo Imaging India Limited",
@@ -11,14 +11,13 @@
       "closeDate": "19-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 71.43,
-      "gmpRs": 500.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9500 (+71.4% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -34,14 +33,12 @@
       "closeDate": "19-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 12.21,
-      "gmpRs": 42.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
       "pros": [
-        "Positive GMP: \u20b942 (+12.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -60,9 +57,9 @@
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
-      "gmpSource": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
@@ -80,14 +77,13 @@
       "closeDate": "19-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 30.71,
-      "gmpRs": 180.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b9180 (+30.7% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -103,14 +99,12 @@
       "closeDate": "16-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 11.76,
-      "gmpRs": 34.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
       "pros": [
-        "Positive GMP: \u20b934 (+11.8% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -127,14 +121,12 @@
       "closeDate": "15-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 33.58,
-      "gmpRs": 91.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b991 (+33.6% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -144,21 +136,20 @@
     {
       "company": "Ravita Engineering Services Limited",
       "symbol": "RAVITA",
-      "priceBand": "\u2248\u20b9112 (upper, IPO Watch)",
+      "priceBand": null,
       "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "14-Oct-2026",
       "closeDate": "16-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 6.25,
-      "gmpRs": 7.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
       "pros": [
-        "Positive GMP: \u20b97 (+6.2% est. listing)"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -167,24 +158,23 @@
     {
       "company": "Vaibhav Vyapaar Limited",
       "symbol": "LOANFRONT",
-      "priceBand": "\u2248\u20b952 (upper, IPO Watch)",
+      "priceBand": null,
       "issueSizeCr": null,
       "qibSubscription": null,
       "openDate": "13-Oct-2026",
       "closeDate": "15-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 0.0,
-      "gmpRs": 0.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
       "moat": null,
       "verdict": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Muted GMP (+0.0%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
