@@ -1,11 +1,33 @@
 {
-  "lastUpdated": "2026-10-15 20:41 IST",
+  "lastUpdated": "2026-10-16 13:55 IST",
   "ipos": [
     {
-      "company": "Tonbo Imaging India Limited",
-      "symbol": "TONBO",
-      "priceBand": "Rs.665 to Rs.700",
-      "issueSizeCr": 596.8,
+      "company": "Bonfiglioli Transmissions Limited",
+      "symbol": "BONFIG",
+      "priceBand": "Rs.558 to Rs.586",
+      "issueSizeCr": 1774.5,
+      "qibSubscription": null,
+      "openDate": "15-Oct-2026",
+      "closeDate": "19-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Zetwerk Manufacturing Businesses Limited",
+      "symbol": "ZETWERK",
+      "priceBand": "Rs.143 to Rs.151",
+      "issueSizeCr": 2794.5,
       "qibSubscription": null,
       "openDate": "15-Oct-2026",
       "closeDate": "19-Oct-2026",
@@ -46,32 +68,10 @@
       ]
     },
     {
-      "company": "Zetwerk Manufacturing Businesses Limited",
-      "symbol": "ZETWERK",
-      "priceBand": "Rs.143 to Rs.151",
-      "issueSizeCr": 2794.5,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Bonfiglioli Transmissions Limited",
-      "symbol": "BONFIG",
-      "priceBand": "Rs.558 to Rs.586",
-      "issueSizeCr": 1774.5,
+      "company": "Tonbo Imaging India Limited",
+      "symbol": "TONBO",
+      "priceBand": "Rs.665 to Rs.700",
+      "issueSizeCr": 596.8,
       "qibSubscription": null,
       "openDate": "15-Oct-2026",
       "closeDate": "19-Oct-2026",
@@ -112,28 +112,6 @@
       ]
     },
     {
-      "company": "HD Fire Protect Limited",
-      "symbol": "HDFIRE",
-      "priceBand": "Rs.258 to Rs.271",
-      "issueSizeCr": 499.2,
-      "qibSubscription": null,
-      "openDate": "13-Oct-2026",
-      "closeDate": "15-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Ravita Engineering Services Limited",
       "symbol": "RAVITA",
       "priceBand": null,
@@ -156,14 +134,36 @@
       ]
     },
     {
-      "company": "Vaibhav Vyapaar Limited",
-      "symbol": "LOANFRONT",
-      "priceBand": null,
-      "issueSizeCr": null,
+      "company": "HD Fire Protect Limited",
+      "symbol": "HDFIRE",
+      "priceBand": "Rs.258 to Rs.271",
+      "issueSizeCr": 499.2,
       "qibSubscription": null,
       "openDate": "13-Oct-2026",
       "closeDate": "15-Oct-2026",
-      "status": "current",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Jio Platforms Limited",
+      "symbol": "JPL",
+      "priceBand": "Rs.1065 to Rs.1119",
+      "issueSizeCr": 30213.0,
+      "qibSubscription": null,
+      "openDate": "21-Oct-2026",
+      "closeDate": "23-Oct-2026",
+      "status": "upcoming",
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
@@ -174,7 +174,7 @@
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
       ]
     }
   ]
