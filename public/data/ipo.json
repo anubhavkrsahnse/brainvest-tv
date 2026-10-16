@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-16 13:55 IST",
+  "lastUpdated": "2026-10-16 20:27 IST",
   "ipos": [
     {
-      "company": "Bonfiglioli Transmissions Limited",
-      "symbol": "BONFIG",
-      "priceBand": "Rs.558 to Rs.586",
-      "issueSizeCr": 1774.5,
+      "company": "Sahajanand Medical Technologies Limited",
+      "symbol": "SMT",
+      "priceBand": "Rs.327 to Rs.344",
+      "issueSizeCr": 335.4,
       "qibSubscription": null,
       "openDate": "15-Oct-2026",
       "closeDate": "19-Oct-2026",
@@ -17,7 +17,7 @@
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -46,10 +46,10 @@
       ]
     },
     {
-      "company": "Sahajanand Medical Technologies Limited",
-      "symbol": "SMT",
-      "priceBand": "Rs.327 to Rs.344",
-      "issueSizeCr": 335.4,
+      "company": "Bonfiglioli Transmissions Limited",
+      "symbol": "BONFIG",
+      "priceBand": "Rs.558 to Rs.586",
+      "issueSizeCr": 1774.5,
       "qibSubscription": null,
       "openDate": "15-Oct-2026",
       "closeDate": "19-Oct-2026",
@@ -61,7 +61,7 @@
       "moat": null,
       "verdict": null,
       "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
@@ -134,28 +134,6 @@
       ]
     },
     {
-      "company": "HD Fire Protect Limited",
-      "symbol": "HDFIRE",
-      "priceBand": "Rs.258 to Rs.271",
-      "issueSizeCr": 499.2,
-      "qibSubscription": null,
-      "openDate": "13-Oct-2026",
-      "closeDate": "15-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Jio Platforms Limited",
       "symbol": "JPL",
       "priceBand": "Rs.1065 to Rs.1119",
@@ -175,6 +153,28 @@
       ],
       "cons": [
         "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+      ]
+    },
+    {
+      "company": "Paras Healthcare Limited",
+      "symbol": "PARASHLTH",
+      "priceBand": "Rs.660 to Rs.693",
+      "issueSizeCr": 1522.5,
+      "qibSubscription": null,
+      "openDate": "21-Oct-2026",
+      "closeDate": "23-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
