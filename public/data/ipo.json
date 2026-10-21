@@ -1,80 +1,14 @@
 {
-  "lastUpdated": "2026-10-20 20:45 IST",
+  "lastUpdated": "2026-10-21 14:18 IST",
   "ipos": [
     {
-      "company": "Tonbo Imaging India Limited",
-      "symbol": "TONBO",
-      "priceBand": "Rs.665 to Rs.700",
-      "issueSizeCr": 596.8,
+      "company": "Paras Healthcare Limited",
+      "symbol": "PARASHLTH",
+      "priceBand": "Rs.660 to Rs.693",
+      "issueSizeCr": 837.4,
       "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Bonfiglioli Transmissions Limited",
-      "symbol": "BONFIG",
-      "priceBand": "Rs.558 to Rs.586",
-      "issueSizeCr": 1774.5,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Sahajanand Medical Technologies Limited",
-      "symbol": "SMT",
-      "priceBand": "Rs.327 to Rs.344",
-      "issueSizeCr": 335.4,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Zetwerk Manufacturing Businesses Limited",
-      "symbol": "ZETWERK",
-      "priceBand": "Rs.143 to Rs.151",
-      "issueSizeCr": 2794.5,
-      "qibSubscription": null,
-      "openDate": "15-Oct-2026",
-      "closeDate": "19-Oct-2026",
+      "openDate": "21-Oct-2026",
+      "closeDate": "23-Oct-2026",
       "status": "current",
       "source": "NSE",
       "gmpPct": null,
@@ -97,7 +31,7 @@
       "qibSubscription": null,
       "openDate": "21-Oct-2026",
       "closeDate": "23-Oct-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
@@ -109,28 +43,6 @@
       ],
       "cons": [
         "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
-    {
-      "company": "Paras Healthcare Limited",
-      "symbol": "PARASHLTH",
-      "priceBand": "Rs.660 to Rs.693",
-      "issueSizeCr": 837.4,
-      "qibSubscription": null,
-      "openDate": "21-Oct-2026",
-      "closeDate": "23-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
