@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22 14:20 IST",
+  "lastUpdated": "2026-10-22 20:57 IST",
   "ipos": [
     {
       "company": "Paras Healthcare Limited",
@@ -43,6 +43,72 @@
       ],
       "cons": [
         "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+      ]
+    },
+    {
+      "company": "BLS Polymers Limited",
+      "symbol": "BLSPOLY",
+      "priceBand": "Rs.142 to Rs.150",
+      "issueSizeCr": 255.0,
+      "qibSubscription": null,
+      "openDate": "27-Oct-2026",
+      "closeDate": "29-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "SFC Environmental Technologies Limited",
+      "symbol": "SFCTECH",
+      "priceBand": "Rs.313 to Rs.330",
+      "issueSizeCr": 675.7,
+      "qibSubscription": null,
+      "openDate": "27-Oct-2026",
+      "closeDate": "29-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "EAAA India Alternatives Limited",
+      "symbol": "EDELALTS",
+      "priceBand": "Rs.1585 to Rs.1665",
+      "issueSizeCr": 1260.6,
+      "qibSubscription": null,
+      "openDate": "26-Oct-2026",
+      "closeDate": "28-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
