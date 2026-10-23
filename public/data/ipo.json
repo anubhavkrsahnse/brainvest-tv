@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23 14:15 IST",
+  "lastUpdated": "2026-10-23 20:50 IST",
   "ipos": [
     {
       "company": "Paras Healthcare Limited",
@@ -43,6 +43,28 @@
       ],
       "cons": [
         "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+      ]
+    },
+    {
+      "company": "M. K. Sons Fine Jewels Limited",
+      "symbol": "MKSONS",
+      "priceBand": "Rs.153 to Rs.162",
+      "issueSizeCr": 275.4,
+      "qibSubscription": null,
+      "openDate": "28-Oct-2026",
+      "closeDate": "30-Oct-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "gmpSource": null,
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
