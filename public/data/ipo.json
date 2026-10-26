@@ -1,48 +1,27 @@
 {
-  "lastUpdated": "2026-10-23 20:50 IST",
+  "lastUpdated": "2026-10-26 14:45 IST",
   "ipos": [
     {
-      "company": "Paras Healthcare Limited",
-      "symbol": "PARASHLTH",
-      "priceBand": "Rs.660 to Rs.693",
-      "issueSizeCr": 837.4,
+      "company": "EAAA India Alternatives Limited",
+      "symbol": "EDELALTS",
+      "priceBand": "Rs.1585 to Rs.1665",
+      "issueSizeCr": 882.4,
       "qibSubscription": null,
-      "openDate": "21-Oct-2026",
-      "closeDate": "23-Oct-2026",
+      "openDate": "26-Oct-2026",
+      "closeDate": "28-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 3.0,
+      "gmpRs": 50.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Jio Platforms Limited",
-      "symbol": "JPL",
-      "priceBand": "Rs.1065 to Rs.1119",
-      "issueSizeCr": 22103.2,
-      "qibSubscription": null,
-      "openDate": "21-Oct-2026",
-      "closeDate": "23-Oct-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
+        "Muted GMP (+3.0%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -55,16 +34,17 @@
       "closeDate": "30-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 4.94,
+      "gmpRs": 8.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "No quantitative red flags in tracked parameters"
+        "Muted GMP (+4.9%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -77,12 +57,14 @@
       "closeDate": "29-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 25.33,
+      "gmpRs": 38.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
+        "Strong grey-market sentiment: GMP \u20b938 (+25.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -99,35 +81,14 @@
       "closeDate": "29-Oct-2026",
       "status": "upcoming",
       "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
+      "gmpPct": 9.7,
+      "gmpRs": 32.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "EAAA India Alternatives Limited",
-      "symbol": "EDELALTS",
-      "priceBand": "Rs.1585 to Rs.1665",
-      "issueSizeCr": 1260.6,
-      "qibSubscription": null,
-      "openDate": "26-Oct-2026",
-      "closeDate": "28-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "gmpSource": null,
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
+        "Positive GMP: \u20b932 (+9.7% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
