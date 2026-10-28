@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28 15:26 IST",
+  "lastUpdated": "2026-10-28 22:15 IST",
   "ipos": [
     {
       "company": "M. K. Sons Fine Jewels Limited",
@@ -100,7 +100,7 @@
       "company": "Bombay Coated and Special Steels Limited",
       "symbol": "BCSSL",
       "priceBand": "Rs.78 to Rs.82",
-      "issueSizeCr": 192.4,
+      "issueSizeCr": 135.6,
       "qibSubscription": null,
       "openDate": "29-Oct-2026",
       "closeDate": "02-Nov-2026",
@@ -114,6 +114,30 @@
       "verdict": null,
       "pros": [
         "Positive GMP: \u20b99 (+11.0% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Maxwell Engineering Solutions Limited",
+      "symbol": "MAXENGS",
+      "priceBand": "Rs.150 to Rs.158",
+      "issueSizeCr": 57.6,
+      "qibSubscription": null,
+      "openDate": "30-Oct-2026",
+      "closeDate": "03-Nov-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": 17.09,
+      "gmpRs": 27.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b927 (+17.1% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
