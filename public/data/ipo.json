@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-10-27 21:26 IST",
+  "lastUpdated": "2026-10-28 15:26 IST",
   "ipos": [
     {
-      "company": "BLS Polymers Limited",
-      "symbol": "BLSPOLY",
-      "priceBand": "Rs.142 to Rs.150",
-      "issueSizeCr": 178.5,
+      "company": "M. K. Sons Fine Jewels Limited",
+      "symbol": "MKSONS",
+      "priceBand": "Rs.153 to Rs.162",
+      "issueSizeCr": 192.8,
       "qibSubscription": null,
-      "openDate": "27-Oct-2026",
-      "closeDate": "29-Oct-2026",
+      "openDate": "28-Oct-2026",
+      "closeDate": "30-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 26.67,
-      "gmpRs": 40.0,
+      "gmpPct": 6.17,
+      "gmpRs": 10.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b940 (+26.7% est. listing)",
+        "Positive GMP: \u20b910 (+6.2% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -35,14 +35,38 @@
       "closeDate": "29-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 6.67,
-      "gmpRs": 22.0,
+      "gmpPct": 5.45,
+      "gmpRs": 18.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Positive GMP: \u20b922 (+6.7% est. listing)",
+        "Positive GMP: \u20b918 (+5.5% est. listing)",
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "BLS Polymers Limited",
+      "symbol": "BLSPOLY",
+      "priceBand": "Rs.142 to Rs.150",
+      "issueSizeCr": 178.5,
+      "qibSubscription": null,
+      "openDate": "27-Oct-2026",
+      "closeDate": "29-Oct-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 29.33,
+      "gmpRs": 44.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Strong grey-market sentiment: GMP \u20b944 (+29.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -59,8 +83,8 @@
       "closeDate": "28-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 1.2,
-      "gmpRs": 20.0,
+      "gmpPct": 0.72,
+      "gmpRs": 12.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
@@ -69,7 +93,7 @@
         "No standout quantitative positives yet"
       ],
       "cons": [
-        "Muted GMP (+1.2%) \u2014 thin grey-market interest"
+        "Muted GMP (+0.7%) \u2014 thin grey-market interest"
       ]
     },
     {
@@ -94,29 +118,6 @@
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "M. K. Sons Fine Jewels Limited",
-      "symbol": "MKSONS",
-      "priceBand": "Rs.153 to Rs.162",
-      "issueSizeCr": 192.8,
-      "qibSubscription": null,
-      "openDate": "28-Oct-2026",
-      "closeDate": "30-Oct-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 4.94,
-      "gmpRs": 8.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "Muted GMP (+4.9%) \u2014 thin grey-market interest"
       ]
     }
   ]
