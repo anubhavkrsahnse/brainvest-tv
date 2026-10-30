@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29 22:31 IST",
+  "lastUpdated": "2026-10-30 15:51 IST",
   "ipos": [
     {
       "company": "Bombay Coated and Special Steels Limited",
@@ -35,14 +35,14 @@
       "closeDate": "30-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 9.26,
-      "gmpRs": 15.0,
+      "gmpPct": 7.41,
+      "gmpRs": 12.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Positive GMP: \u20b915 (+9.3% est. listing)",
+        "Positive GMP: \u20b912 (+7.4% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -59,17 +59,18 @@
       "closeDate": "29-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 3.64,
-      "gmpRs": 12.0,
+      "gmpPct": 6.06,
+      "gmpRs": 20.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
+        "Positive GMP: \u20b920 (+6.1% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
-        "Muted GMP (+3.6%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -82,14 +83,14 @@
       "closeDate": "29-Oct-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 34.0,
-      "gmpRs": 51.0,
+      "gmpPct": 45.33,
+      "gmpRs": 68.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b951 (+34.0% est. listing)",
+        "Strong grey-market sentiment: GMP \u20b968 (+45.3% est. listing)",
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
       ],
       "cons": [
@@ -97,26 +98,48 @@
       ]
     },
     {
-      "company": "EAAA India Alternatives Limited",
-      "symbol": "EDELALTS",
-      "priceBand": "Rs.1585 to Rs.1665",
-      "issueSizeCr": 882.4,
+      "company": "HGS (India) Limited",
+      "symbol": "HGSINDIALT",
+      "priceBand": null,
+      "issueSizeCr": null,
       "qibSubscription": null,
-      "openDate": "26-Oct-2026",
-      "closeDate": "28-Oct-2026",
+      "openDate": "30-Oct-2026",
+      "closeDate": "03-Nov-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 1.8,
-      "gmpRs": 30.0,
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Maxwell Engineering Solutions Limited",
+      "symbol": "MAXENGS",
+      "priceBand": "\u2248\u20b9158 (upper, IPO Watch)",
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "30-Oct-2026",
+      "closeDate": "03-Nov-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": 44.3,
+      "gmpRs": 70.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "No standout quantitative positives yet"
+        "Strong grey-market sentiment: GMP \u20b970 (+44.3% est. listing)"
       ],
       "cons": [
-        "Muted GMP (+1.8%) \u2014 thin grey-market interest"
+        "No quantitative red flags in tracked parameters"
       ]
     },
     {
@@ -140,52 +163,6 @@
       ],
       "cons": [
         "Muted GMP (+0.0%) \u2014 thin grey-market interest"
-      ]
-    },
-    {
-      "company": "HGS (India) Limited",
-      "symbol": "HGSINDIALT",
-      "priceBand": "Rs.114 to Rs.120",
-      "issueSizeCr": 24.8,
-      "qibSubscription": null,
-      "openDate": "30-Oct-2026",
-      "closeDate": "03-Nov-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Maxwell Engineering Solutions Limited",
-      "symbol": "MAXENGS",
-      "priceBand": "Rs.150 to Rs.158",
-      "issueSizeCr": 41.5,
-      "qibSubscription": null,
-      "openDate": "30-Oct-2026",
-      "closeDate": "03-Nov-2026",
-      "status": "upcoming",
-      "source": "NSE",
-      "gmpPct": 25.32,
-      "gmpRs": 40.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b940 (+25.3% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
       ]
     }
   ]
