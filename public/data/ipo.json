@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30 15:51 IST",
+  "lastUpdated": "2026-10-30 22:16 IST",
   "ipos": [
     {
       "company": "Bombay Coated and Special Steels Limited",
@@ -98,28 +98,6 @@
       ]
     },
     {
-      "company": "HGS (India) Limited",
-      "symbol": "HGSINDIALT",
-      "priceBand": null,
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "30-Oct-2026",
-      "closeDate": "03-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
       "company": "Maxwell Engineering Solutions Limited",
       "symbol": "MAXENGS",
       "priceBand": "\u2248\u20b9158 (upper, IPO Watch)",
@@ -137,6 +115,28 @@
       "verdict": null,
       "pros": [
         "Strong grey-market sentiment: GMP \u20b970 (+44.3% est. listing)"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "HGS (India) Limited",
+      "symbol": "HGSINDIALT",
+      "priceBand": null,
+      "issueSizeCr": null,
+      "qibSubscription": null,
+      "openDate": "30-Oct-2026",
+      "closeDate": "03-Nov-2026",
+      "status": "current",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": null,
+      "moat": null,
+      "verdict": null,
+      "gmpSource": null,
+      "pros": [
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
