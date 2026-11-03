@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03 01:57 IST",
+  "lastUpdated": "2026-11-03 16:42 IST",
   "ipos": [
     {
       "company": "Bombay Coated and Special Steels Limited",
@@ -80,14 +80,14 @@
       "closeDate": "03-Nov-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 44.3,
-      "gmpRs": 70.0,
+      "gmpPct": 50.63,
+      "gmpRs": 80.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b970 (+44.3% est. listing)"
+        "Strong grey-market sentiment: GMP \u20b980 (+50.6% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
