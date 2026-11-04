@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-11-03 23:28 IST",
+  "lastUpdated": "2026-11-04 16:54 IST",
   "ipos": [
-    {
-      "company": "Bombay Coated and Special Steels Limited",
-      "symbol": "BCSSL",
-      "priceBand": "Rs.78 to Rs.82",
-      "issueSizeCr": 135.6,
-      "qibSubscription": null,
-      "openDate": "29-Oct-2026",
-      "closeDate": "02-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 10.98,
-      "gmpRs": 9.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Positive GMP: \u20b99 (+11.0% est. listing)",
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
     {
       "company": "Vedant Poly Fabs Limited",
       "symbol": "VPFL",
@@ -35,59 +11,14 @@
       "closeDate": "04-Nov-2026",
       "status": "current",
       "source": "NSE",
-      "gmpPct": 15.96,
-      "gmpRs": 15.0,
+      "gmpPct": 11.7,
+      "gmpRs": 11.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
       "pros": [
-        "Strong grey-market sentiment: GMP \u20b915 (+16.0% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "Maxwell Engineering Solutions Limited",
-      "symbol": "MAXENGS",
-      "priceBand": "\u2248\u20b9158 (upper, IPO Watch)",
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "30-Oct-2026",
-      "closeDate": "03-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": 50.63,
-      "gmpRs": 80.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Strong grey-market sentiment: GMP \u20b980 (+50.6% est. listing)"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
-    {
-      "company": "HGS (India) Limited",
-      "symbol": "HGSINDIALT",
-      "priceBand": null,
-      "issueSizeCr": null,
-      "qibSubscription": null,
-      "openDate": "30-Oct-2026",
-      "closeDate": "03-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": null,
-      "moat": null,
-      "verdict": null,
-      "gmpSource": null,
-      "pros": [
-        "No standout quantitative positives yet"
+        "Positive GMP: \u20b911 (+11.7% est. listing)"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
