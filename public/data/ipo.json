@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-17 17:48 IST",
+  "lastUpdated": "2026-11-18 00:46 IST",
   "ipos": [
     {
       "company": "Crystal Crop Protection Limited",
       "symbol": "CRYSTALCP",
       "priceBand": "Rs.259 to Rs.272",
-      "issueSizeCr": 473.8,
+      "issueSizeCr": 331.0,
       "qibSubscription": null,
       "openDate": "18-Nov-2026",
       "closeDate": "20-Nov-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": null,
