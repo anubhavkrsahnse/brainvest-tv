@@ -1,29 +1,6 @@
 {
-  "lastUpdated": "2026-11-20 17:30 IST",
+  "lastUpdated": "2026-11-21 00:12 IST",
   "ipos": [
-    {
-      "company": "Crystal Crop Protection Limited",
-      "symbol": "CRYSTALCP",
-      "priceBand": "Rs.259 to Rs.272",
-      "issueSizeCr": 331.0,
-      "qibSubscription": null,
-      "openDate": "18-Nov-2026",
-      "closeDate": "20-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": 15.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
     {
       "company": "Mahanadi Coalfields Limited",
       "symbol": "MAHACOAL",
