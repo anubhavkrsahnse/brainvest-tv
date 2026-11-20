@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20 00:35 IST",
+  "lastUpdated": "2026-11-20 17:30 IST",
   "ipos": [
     {
       "company": "Crystal Crop Protection Limited",
@@ -12,7 +12,7 @@
       "status": "current",
       "source": "NSE",
       "gmpPct": null,
-      "gmpRs": 17.0,
+      "gmpRs": 15.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
@@ -35,7 +35,7 @@
       "status": "current",
       "source": "NSE",
       "gmpPct": null,
-      "gmpRs": 2.0,
+      "gmpRs": 1.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
@@ -59,6 +59,29 @@
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": 67.0,
+      "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Shree Siddhivinayak Greentech Industries Limited",
+      "symbol": "SHREESIDHI",
+      "priceBand": "Rs.130 to Rs.142",
+      "issueSizeCr": 93.7,
+      "qibSubscription": null,
+      "openDate": "25-Nov-2026",
+      "closeDate": "27-Nov-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": 0.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
