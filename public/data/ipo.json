@@ -1,52 +1,6 @@
 {
-  "lastUpdated": "2026-11-23 18:59 IST",
+  "lastUpdated": "2026-11-24 03:39 IST",
   "ipos": [
-    {
-      "company": "Mahanadi Coalfields Limited",
-      "symbol": "MAHACOAL",
-      "priceBand": "Rs.129 to Rs.136",
-      "issueSizeCr": 6705.7,
-      "qibSubscription": null,
-      "openDate": "19-Nov-2026",
-      "closeDate": "23-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": 0.0,
-      "board": "Mainboard",
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "No standout quantitative positives yet"
-      ],
-      "cons": [
-        "Large issue size (\u20b95,000 Cr+) \u2014 listing pop historically muted"
-      ]
-    },
-    {
-      "company": "Watrana Rentals Limited",
-      "symbol": "WATRANA",
-      "priceBand": "Rs.232 to Rs.245",
-      "issueSizeCr": 86.1,
-      "qibSubscription": null,
-      "openDate": "19-Nov-2026",
-      "closeDate": "23-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": 40.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
     {
       "company": "Shree Siddhivinayak Greentech Industries Limited",
       "symbol": "SHREESIDHI",
