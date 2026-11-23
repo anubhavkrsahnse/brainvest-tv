@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21 00:12 IST",
+  "lastUpdated": "2026-11-23 18:59 IST",
   "ipos": [
     {
       "company": "Mahanadi Coalfields Limited",
@@ -12,7 +12,7 @@
       "status": "current",
       "source": "NSE",
       "gmpPct": null,
-      "gmpRs": 1.0,
+      "gmpRs": 0.0,
       "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
@@ -35,7 +35,7 @@
       "status": "current",
       "source": "NSE",
       "gmpPct": null,
-      "gmpRs": 67.0,
+      "gmpRs": 40.0,
       "board": null,
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
@@ -58,8 +58,31 @@
       "status": "upcoming",
       "source": "NSE",
       "gmpPct": null,
-      "gmpRs": 0.0,
+      "gmpRs": 5.0,
       "board": null,
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Foodlink F&B Holdings (India) Limited",
+      "symbol": "FOODLINK",
+      "priceBand": "Rs.181 to Rs.191",
+      "issueSizeCr": 371.4,
+      "qibSubscription": null,
+      "openDate": "26-Nov-2026",
+      "closeDate": "30-Nov-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": 12.0,
+      "board": "Mainboard",
       "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
       "moat": null,
       "verdict": null,
