@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25 18:50 IST",
+  "lastUpdated": "2026-11-26 01:31 IST",
   "ipos": [
     {
       "company": "Shree Siddhivinayak Greentech Industries Limited",
@@ -28,11 +28,11 @@
       "company": "Foodlink F&B Holdings (India) Limited",
       "symbol": "FOODLINK",
       "priceBand": "Rs.181 to Rs.191",
-      "issueSizeCr": 371.4,
+      "issueSizeCr": 200.1,
       "qibSubscription": null,
       "openDate": "26-Nov-2026",
       "closeDate": "30-Nov-2026",
-      "status": "upcoming",
+      "status": "current",
       "source": "NSE",
       "gmpPct": null,
       "gmpRs": 27.0,
