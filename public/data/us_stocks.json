@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26 18:29 IST",
+  "lastUpdated": "2026-11-27 01:14 IST",
   "stocks": [
     {
       "symbol": "AAPL",
@@ -74,7 +74,7 @@
     {
       "symbol": "META",
       "price": 609.89,
-      "peRatio": 20.121742,
+      "peRatio": 20.808258,
       "marketCap": 1559025942528,
       "high52wProximityPct": 78.2,
       "rsi14": 45.7,
