@@ -1,29 +1,6 @@
 {
-  "lastUpdated": "2026-11-27 18:27 IST",
+  "lastUpdated": "2026-11-28 01:04 IST",
   "ipos": [
-    {
-      "company": "Shree Siddhivinayak Greentech Industries Limited",
-      "symbol": "SHREESIDHI",
-      "priceBand": "Rs.130 to Rs.142",
-      "issueSizeCr": 93.7,
-      "qibSubscription": null,
-      "openDate": "25-Nov-2026",
-      "closeDate": "27-Nov-2026",
-      "status": "current",
-      "source": "NSE",
-      "gmpPct": null,
-      "gmpRs": 1.0,
-      "board": null,
-      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
-      "moat": null,
-      "verdict": null,
-      "pros": [
-        "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
-      ],
-      "cons": [
-        "No quantitative red flags in tracked parameters"
-      ]
-    },
     {
       "company": "Foodlink F&B Holdings (India) Limited",
       "symbol": "FOODLINK",
@@ -134,6 +111,29 @@
       "verdict": null,
       "pros": [
         "Small float (<\u20b9500 Cr) \u2014 scarcity can support listing"
+      ],
+      "cons": [
+        "No quantitative red flags in tracked parameters"
+      ]
+    },
+    {
+      "company": "Swara Baby Products Limited",
+      "symbol": "SWARA",
+      "priceBand": "Rs.105 to Rs.111",
+      "issueSizeCr": 845.9,
+      "qibSubscription": null,
+      "openDate": "02-Dec-2026",
+      "closeDate": "04-Dec-2026",
+      "status": "upcoming",
+      "source": "NSE",
+      "gmpPct": null,
+      "gmpRs": 3.0,
+      "board": "Mainboard",
+      "gmpSource": "IPO Watch (unofficial grey market, indicative only)",
+      "moat": null,
+      "verdict": null,
+      "pros": [
+        "No standout quantitative positives yet"
       ],
       "cons": [
         "No quantitative red flags in tracked parameters"
